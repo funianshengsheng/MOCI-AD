@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ad-filters-subscriber
+    name: MOCI-AD
   profiles:
     active: prod  #切换至 dev 即可输出调试信息
 
@@ -24,12 +24,12 @@ application:
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
-      - name: 'Subscription 1'               #可选参数: 规则名称，如无将使用 path 作为名称
-        path: 'https://example.org/rule.txt' #必要参数: 规则url，仅支持 http/https，不限定响应内容格式
+      - name: 'AWAvenue Ads Rule'               #可选参数: 规则名称，如无将使用 path 作为名称
+        path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #必要参数: 规则url，仅支持 http/https，不限定响应内容格式
         type: easylist                       #可选参数: 规则类型：easylist (默认)、dnsmasq、clash、smartdns、hosts
 
-      - name: 'Subscription 2'
-        path: 'http://example.org/rule.txt'
+      - name: 'qingya-dns'
+        path: 'https://y.demo.wvusd.homes/https://raw.githubusercontent.com/790953214/qy-Ads-Rule/main/black.txt'
 
     #本地规则文件
     local:
