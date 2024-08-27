@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2024-08-27 09:09:24
+# Last Modified: 2024-08-27 16:19:55
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 127.0.0.1	1010pic.com
 127.0.0.1	8le8le.com
