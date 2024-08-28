@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2024-08-28 09:09:44
+# Last Modified: 2024-08-28 16:19:26
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1010pic.com/
 address=/8le8le.com/
@@ -126,6 +126,7 @@ address=/analytics.tiktok.com/
 address=/analytics.woozooo.com/
 address=/analyze.lemurbrowser.com/
 address=/andrqd.play.aiseet.atianqi.com/
+address=/ap.dongqiudi.com/
 address=/apd-pcdnwxlogin.teg.tencent-cloud.net/
 address=/apd-pcdnwxnat.teg.tencent-cloud.net/
 address=/apd-pcdnwxstat.teg.tencent-cloud.net/
@@ -478,10 +479,10 @@ address=/smartad.10010.com/
 address=/smetrics.samsung.com/
 address=/sms.ads.oppomobile.com/
 address=/sngmta.qq.com/
+address=/stat.dongqiudi.com/
 address=/stat.y.qq.com/
 address=/static.ads-twitter.com/
 address=/statics.woozooo.com/
-address=/staticsns.cdn.bcebos.com/
 address=/stats.qiumibao.com/
 address=/statsigapi.net/
 address=/stg-data.ads.heytapmobi.com/

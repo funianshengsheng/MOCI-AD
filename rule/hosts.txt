@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2024-08-28 09:09:44
+# Last Modified: 2024-08-28 16:19:26
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 127.0.0.1	1010pic.com
 127.0.0.1	8le8le.com
@@ -126,6 +126,7 @@
 127.0.0.1	analytics.woozooo.com
 127.0.0.1	analyze.lemurbrowser.com
 127.0.0.1	andrqd.play.aiseet.atianqi.com
+127.0.0.1	ap.dongqiudi.com
 127.0.0.1	apd-pcdnwxlogin.teg.tencent-cloud.net
 127.0.0.1	apd-pcdnwxnat.teg.tencent-cloud.net
 127.0.0.1	apd-pcdnwxstat.teg.tencent-cloud.net
@@ -478,10 +479,10 @@
 127.0.0.1	smetrics.samsung.com
 127.0.0.1	sms.ads.oppomobile.com
 127.0.0.1	sngmta.qq.com
+127.0.0.1	stat.dongqiudi.com
 127.0.0.1	stat.y.qq.com
 127.0.0.1	static.ads-twitter.com
 127.0.0.1	statics.woozooo.com
-127.0.0.1	staticsns.cdn.bcebos.com
 127.0.0.1	stats.qiumibao.com
 127.0.0.1	statsigapi.net
 127.0.0.1	stg-data.ads.heytapmobi.com

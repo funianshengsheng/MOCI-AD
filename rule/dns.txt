@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2024-08-28 09:09:44
+! Last Modified: 2024-08-28 16:19:26
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||8le8le.com^
@@ -126,6 +126,7 @@
 ||analytics.woozooo.com^
 ||analyze.lemurbrowser.com^
 ||andrqd.play.aiseet.atianqi.com^
+||ap.dongqiudi.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
@@ -478,10 +479,10 @@
 ||smetrics.samsung.com^
 ||sms.ads.oppomobile.com^
 ||sngmta.qq.com^
+||stat.dongqiudi.com^
 ||stat.y.qq.com^
 ||static.ads-twitter.com^
 ||statics.woozooo.com^
-||staticsns.cdn.bcebos.com^
 ||stats.qiumibao.com^
 ||statsigapi.net^
 ||stg-data.ads.heytapmobi.com^
