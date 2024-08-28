@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2024-08-28 16:19:26
+# Last Modified: 2024-08-29 00:19:52
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /8le8le.com/#
@@ -108,6 +108,7 @@ address /adx.ads.oppomobile.com/#
 address /adxlog-adnet.vivo.com.cn/#
 address /adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn/#
 address /adxserver.ad.cmvideo.cn/#
+address /aegis.qq.com/#
 address /afs.googlesyndication.com/#
 address /aiseet.aa.atianqi.com/#
 address /ali-ad.a.yximgs.com/#
@@ -163,12 +164,14 @@ address /bdapi-in-ads.realmemobile.com/#
 address /bdapi.ads.oppomobile.com/#
 address /beacon-api.aliyuncs.com/#
 address /beacon.qq.com/#
+address /beaconcdn.qq.com/#
 address /beacons.gvt2.com/#
 address /beizi.biz/#
 address /bianxian.com/#
 address /bingads.microsoft.com/#
 address /bj.ad.track.66mobi.com/#
 address /books-analytics-events.apple.com/#
+address /bsrv.qq.com/#
 address /bugly.qq.com/#
 address /business-api.tiktok.com/#
 address /c.bidtoolads.com/#
@@ -416,6 +419,7 @@ address /pgdt.ugdtimg.com/#
 address /pglstatp-toutiao.com/#
 address /pig.pupuapi.com/#
 address /pixon.ads-pixiv.net/#
+address /pms.mb.qq.com/#
 address /policy.video.ptqy.gitv.tv/#
 address /proxy.advp.apple.com/#
 address /public.gdtimg.com/#
@@ -424,6 +428,7 @@ address /qqdata.ab.qq.com/#
 address /qwapi.apple.com/#
 address /qzs.gdtimg.com/#
 address /recommend-drcn.hms.dbankcloud.cn/#
+address /report.tv.kohesport.qq.com/#
 address /res.hubcloud.com.cn/#
 address /res1.hubcloud.com.cn/#
 address /res2.hubcloud.com.cn/#
@@ -555,6 +560,7 @@ address /v2.gdt.qq.com/#
 address /v3-ad.video.yximgs.com/#
 address /video-ad.sm.cn/#
 address /video-dsp.pddpic.com/#
+address /video.dispatch.tc.qq.com/#
 address /virusinfo-cloudscan-cn.heytapmobi.com/#
 address /vlive.qqvideo.tc.qq.com/#
 address /vungle.com/#

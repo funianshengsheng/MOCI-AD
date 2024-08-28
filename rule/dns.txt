@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2024-08-28 16:19:26
+! Last Modified: 2024-08-29 00:19:52
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||8le8le.com^
@@ -108,6 +108,7 @@
 ||adxlog-adnet.vivo.com.cn^
 ||adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn^
 ||adxserver.ad.cmvideo.cn^
+||aegis.qq.com^
 ||afs.googlesyndication.com^
 ||aiseet.aa.atianqi.com^
 ||ali-ad.a.yximgs.com^
@@ -163,12 +164,14 @@
 ||bdapi.ads.oppomobile.com^
 ||beacon-api.aliyuncs.com^
 ||beacon.qq.com^
+||beaconcdn.qq.com^
 ||beacons.gvt2.com^
 ||beizi.biz^
 ||bianxian.com^
 ||bingads.microsoft.com^
 ||bj.ad.track.66mobi.com^
 ||books-analytics-events.apple.com^
+||bsrv.qq.com^
 ||bugly.qq.com^
 ||business-api.tiktok.com^
 ||c.bidtoolads.com^
@@ -416,6 +419,7 @@
 ||pglstatp-toutiao.com^
 ||pig.pupuapi.com^
 ||pixon.ads-pixiv.net^
+||pms.mb.qq.com^
 ||policy.video.ptqy.gitv.tv^
 ||proxy.advp.apple.com^
 ||public.gdtimg.com^
@@ -424,6 +428,7 @@
 ||qwapi.apple.com^
 ||qzs.gdtimg.com^
 ||recommend-drcn.hms.dbankcloud.cn^
+||report.tv.kohesport.qq.com^
 ||res.hubcloud.com.cn^
 ||res1.hubcloud.com.cn^
 ||res2.hubcloud.com.cn^
@@ -555,6 +560,7 @@
 ||v3-ad.video.yximgs.com^
 ||video-ad.sm.cn^
 ||video-dsp.pddpic.com^
+||video.dispatch.tc.qq.com^
 ||virusinfo-cloudscan-cn.heytapmobi.com^
 ||vlive.qqvideo.tc.qq.com^
 ||vungle.com^
