@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2024-09-08 09:16:34
+# Last Modified: 2024-09-08 16:18:02
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1010pic.com/
 address=/16dd-advertise-1252317822.file.myqcloud.com/
@@ -61,6 +61,7 @@ address=/ads.icloseli.cn/
 address=/ads.music.126.net/
 address=/ads.oppomobile.com/
 address=/ads.pinterest.com/
+address=/ads.servebom.com/
 address=/ads.service.kugou.com/
 address=/ads.v3mh.com/
 address=/ads3-normal-hl.zijieapi.com/
@@ -367,7 +368,6 @@ address=/m.ad.zhangyue.com/
 address=/m.atm.youku.com/
 address=/m.kubiqq.com/
 address=/m1.ad.10010.com/
-address=/magev6.if.qidian.com/
 address=/manhua.acimg.cn/
 address=/mapi.m.jd.com/
 address=/masdkv6.3g.qq.com/
@@ -420,6 +420,7 @@ address=/orbit.jd.com/
 address=/oth.eve.mdt.qq.com/
 address=/oth.str.mdt.qq.com/
 address=/otheve.play.aiseet.atianqi.com/
+address=/outlookads.live.com/
 address=/p.l.qq.com/
 address=/p.s.360.cn/
 address=/p1-be-pack-sign.pglstatp-toutiao.com/
@@ -620,6 +621,8 @@ address=/w1.wskwai.com/
 address=/w1.xskwai.com/
 address=/w1.yskwai.com/
 address=/w1.zskwai.com/
+address=/watson.microsoft.com/
+address=/watson.telemetry.microsoft.com/
 address=/weather-analytics-events.apple.com/
 address=/weather-community-drcn.weather.dbankcloud.cn/
 address=/webstat.qiumibao.com/

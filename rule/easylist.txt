@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2024-09-08 09:16:34
+! Last Modified: 2024-09-08 16:18:02
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||16dd-advertise-1252317822.file.myqcloud.com^
@@ -61,6 +61,7 @@
 ||ads.music.126.net^
 ||ads.oppomobile.com^
 ||ads.pinterest.com^
+||ads.servebom.com^
 ||ads.service.kugou.com^
 ||ads.v3mh.com^
 ||ads3-normal-hl.zijieapi.com^
@@ -367,7 +368,6 @@
 ||m.atm.youku.com^
 ||m.kubiqq.com^
 ||m1.ad.10010.com^
-||magev6.if.qidian.com^
 ||manhua.acimg.cn^
 ||mapi.m.jd.com^
 ||masdkv6.3g.qq.com^
@@ -420,6 +420,7 @@
 ||oth.eve.mdt.qq.com^
 ||oth.str.mdt.qq.com^
 ||otheve.play.aiseet.atianqi.com^
+||outlookads.live.com^
 ||p.l.qq.com^
 ||p.s.360.cn^
 ||p1-be-pack-sign.pglstatp-toutiao.com^
@@ -620,6 +621,8 @@
 ||w1.xskwai.com^
 ||w1.yskwai.com^
 ||w1.zskwai.com^
+||watson.microsoft.com^
+||watson.telemetry.microsoft.com^
 ||weather-analytics-events.apple.com^
 ||weather-community-drcn.weather.dbankcloud.cn^
 ||webstat.qiumibao.com^
