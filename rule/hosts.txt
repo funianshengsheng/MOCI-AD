@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2024-09-20 00:19:51
+# Last Modified: 2024-09-20 09:12:45
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	16dd-advertise-1252317822.file.myqcloud.com
