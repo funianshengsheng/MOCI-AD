@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2024-09-29 09:20:43
+! Last Modified: 2024-09-29 16:19:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||16dd-advertise-1252317822.file.myqcloud.com^
@@ -683,7 +683,7 @@
 ||youku-acs.m.taobao.com^
 ||youxi.kugou.com^
 ||zeus.ad.xiaomi.com^
-/.*\..*\.shouji\.sogou\.com/
+/.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
