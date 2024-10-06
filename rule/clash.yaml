@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2024-10-06 16:19:06
+#Last Modified: 2024-10-07 00:18:11
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1010pic.com"
@@ -195,7 +195,6 @@ payload:
   - "+.bingads.microsoft.com"
   - "+.bj.ad.track.66mobi.com"
   - "+.books-analytics-events.apple.com"
-  - "+.bossaudioandcomic-1252317822.image.myqcloud.com"
   - "+.bsrv.qq.com"
   - "+.bugly.qq.com"
   - "+.business-api.tiktok.com"
@@ -226,12 +225,6 @@ payload:
   - "+.commdata.v.qq.com"
   - "+.config.chsmarttv.com"
   - "+.config.unityads.unity3d.com"
-  - "+.conn-service-cn-03.allawntech.com"
-  - "+.conn-service-cn-04.allawntech.com"
-  - "+.conn-service-cn-05.allawntech.com"
-  - "+.conn-service-in-03.allawnos.com"
-  - "+.conn-service-in-04.allawnos.com"
-  - "+.conn-service-in-05.allawnos.com"
   - "+.cpro.baidustatic.com"
   - "+.crashlytics.com"
   - "+.crashlyticsreports-pa.googleapis.com"
