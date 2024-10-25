@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2024-10-25 00:18:56
+#Last Modified: 2024-10-25 09:16:02
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1010pic.com"
@@ -204,6 +204,7 @@ payload:
   - "+.c.kuaiduizuoye.com"
   - "+.c.sayhi.360.cn"
   - "+.c2.gdt.qq.com"
+  - "+.canvas-cdn.gdt.qq.com"
   - "+.catalog.fjwhcbsh.com"
   - "+.cbjs.baidu.com"
   - "+.ccs.umeng.com"
