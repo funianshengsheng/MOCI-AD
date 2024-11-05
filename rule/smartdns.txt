@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2024-11-05 09:14:03
+# Last Modified: 2024-11-05 16:20:53
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /16dd-advertise-1252317822.file.myqcloud.com/#
@@ -10,6 +10,9 @@ address /aaid.umeng.com/#
 address /abtest-ch.snssdk.com/#
 address /ad-cache.dopool.com/#
 address /ad-cdn.qingting.fm/#
+address /ad-cmp.hismarttv.com/#
+address /ad-download.hismarttv.com/#
+address /ad-imp.hismarttv.com/#
 address /ad-scope.com/#
 address /ad-scope.com.cn/#
 address /ad-sdk.huxiu.com/#
@@ -34,6 +37,7 @@ address /adapi.izuiyou.com/#
 address /adapi.yynetwk.com/#
 address /adashbc.ut.taobao.com/#
 address /adcdn.tencentmusic.com/#
+address /adclick.g.doubleclick.net/#
 address /adclick.tencentmusic.com/#
 address /adcolony.com/#
 address /adexpo.tencentmusic.com/#
@@ -242,7 +246,6 @@ address /dlogs.bwton.com/#
 address /dm.toutiao.com/#
 address /domain.aishengji.com/#
 address /doubleclick-cn.net/#
-address /doubleclick.net/#
 address /download.changhong.upgrade2.huan.tv/#
 address /downloadxml.changhong.upgrade2.huan.tv/#
 address /drcn-weather.cloud.huawei.com/#

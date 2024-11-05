@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2024-11-05 09:14:03
+# Last Modified: 2024-11-05 16:20:53
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	16dd-advertise-1252317822.file.myqcloud.com
@@ -10,6 +10,9 @@
 0.0.0.0	abtest-ch.snssdk.com
 0.0.0.0	ad-cache.dopool.com
 0.0.0.0	ad-cdn.qingting.fm
+0.0.0.0	ad-cmp.hismarttv.com
+0.0.0.0	ad-download.hismarttv.com
+0.0.0.0	ad-imp.hismarttv.com
 0.0.0.0	ad-scope.com
 0.0.0.0	ad-scope.com.cn
 0.0.0.0	ad-sdk.huxiu.com
@@ -34,6 +37,7 @@
 0.0.0.0	adapi.yynetwk.com
 0.0.0.0	adashbc.ut.taobao.com
 0.0.0.0	adcdn.tencentmusic.com
+0.0.0.0	adclick.g.doubleclick.net
 0.0.0.0	adclick.tencentmusic.com
 0.0.0.0	adcolony.com
 0.0.0.0	adexpo.tencentmusic.com
@@ -242,7 +246,6 @@
 0.0.0.0	dm.toutiao.com
 0.0.0.0	domain.aishengji.com
 0.0.0.0	doubleclick-cn.net
-0.0.0.0	doubleclick.net
 0.0.0.0	download.changhong.upgrade2.huan.tv
 0.0.0.0	downloadxml.changhong.upgrade2.huan.tv
 0.0.0.0	drcn-weather.cloud.huawei.com
