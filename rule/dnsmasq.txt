@@ -1,6 +1,10 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2024-11-08 09:14:15
+# Last Modified: 2024-11-08 16:20:15
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
+address=/116.205.193.167/
+address=/123.56.23.22/
+address=/182.254.116.116/
+address=/203.205.137.89/
 address=/1010pic.com/
 address=/16dd-advertise-1252317822.file.myqcloud.com/
 address=/16dd-advertise-1252317822.image.myqcloud.com/
@@ -215,6 +219,7 @@ address=/ccs.umeng.com/
 address=/cctv.adsunion.com/
 address=/cdn-ad.wtzw.com/
 address=/cdn-ads.oss-cn-shanghai.aliyuncs.com/
+address=/cdn-plugin-sync-upgrade-juui.hismarttv.com/
 address=/cdn.ad.xiaomi.com/
 address=/cdn.ynuf.aliapp.org/
 address=/cfg.imtt.qq.com/
@@ -602,11 +607,13 @@ address=/union.baidu.cn/
 address=/union.baidu.com/
 address=/update.avlyun.sec.miui.com/
 address=/update.lejiao.tv/
+address=/upgrade-update.hismarttv.com/
 address=/us.l.qq.com/
 address=/v.adintl.cn/
 address=/v.adx.hubcloud.com.cn/
 address=/v1-ad.video.yximgs.com/
 address=/v2-ad.video.yximgs.com/
+address=/v2-api-channel-launcher.hismarttv.com/
 address=/v2.gdt.qq.com/
 address=/v2mi.gdt.qq.com/
 address=/v3-ad.video.yximgs.com/
@@ -616,6 +623,7 @@ address=/video-dsp.pddpic.com/
 address=/video.dispatch.tc.qq.com/
 address=/virusinfo-cloudscan-cn.heytapmobi.com/
 address=/vlive.qqvideo.tc.qq.com/
+address=/volc.bj.ad.track.66mobi.com/
 address=/vungle.com/
 address=/w.l.qq.com/
 address=/w1.askwai.com/

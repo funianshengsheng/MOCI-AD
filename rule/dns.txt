@@ -1,6 +1,10 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2024-11-08 09:14:15
+! Last Modified: 2024-11-08 16:20:15
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+116.205.193.167
+123.56.23.22
+182.254.116.116
+203.205.137.89
 ||1010pic.com^
 ||16dd-advertise-1252317822.file.myqcloud.com^
 ||16dd-advertise-1252317822.image.myqcloud.com^
@@ -215,6 +219,7 @@
 ||cctv.adsunion.com^
 ||cdn-ad.wtzw.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
+||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn.ad.xiaomi.com^
 ||cdn.ynuf.aliapp.org^
 ||cfg.imtt.qq.com^
@@ -602,11 +607,13 @@
 ||union.baidu.com^
 ||update.avlyun.sec.miui.com^
 ||update.lejiao.tv^
+||upgrade-update.hismarttv.com^
 ||us.l.qq.com^
 ||v.adintl.cn^
 ||v.adx.hubcloud.com.cn^
 ||v1-ad.video.yximgs.com^
 ||v2-ad.video.yximgs.com^
+||v2-api-channel-launcher.hismarttv.com^
 ||v2.gdt.qq.com^
 ||v2mi.gdt.qq.com^
 ||v3-ad.video.yximgs.com^
@@ -616,6 +623,7 @@
 ||video.dispatch.tc.qq.com^
 ||virusinfo-cloudscan-cn.heytapmobi.com^
 ||vlive.qqvideo.tc.qq.com^
+||volc.bj.ad.track.66mobi.com^
 ||vungle.com^
 ||w.l.qq.com^
 ||w1.askwai.com^
