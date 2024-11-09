@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2024-11-09 16:19:31
+! Last Modified: 2024-11-10 00:18:09
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 116.205.193.167
 123.56.23.22
