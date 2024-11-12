@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2024-11-12 16:20:58
+# Last Modified: 2024-11-13 00:20:43
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /*.116.205.193.167/#
 address /*.123.56.23.22/#
