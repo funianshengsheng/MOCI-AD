@@ -1,10 +1,6 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2024-11-15 09:19:41
+# Last Modified: 2024-11-15 16:21:27
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
-address=/116.205.193.167/
-address=/123.56.23.22/
-address=/182.254.116.116/
-address=/203.205.137.89/
 address=/1010pic.com/
 address=/16dd-advertise-1252317822.file.myqcloud.com/
 address=/16dd-advertise-1252317822.image.myqcloud.com/
@@ -262,6 +258,7 @@ address=/dutils.com/
 address=/dxp.baidu.com/
 address=/e.ad.xiaomi.com/
 address=/eclick.baidu.com/
+address=/edge.ads.twitch.tv/
 address=/ef-dongfeng.tanx.com/
 address=/entry.baidu.com/
 address=/errlog.umeng.com/
@@ -485,6 +482,7 @@ address=/rms-drcn.platform.dbankcloud.cn/
 address=/roi.soulapp.cn/
 address=/rpt.gdt.qq.com/
 address=/rtb.voiceads.cn/
+address=/s.amazon-adsystem.com/
 address=/s1.qq.com/
 address=/s2.qq.com/
 address=/s3.qq.com/

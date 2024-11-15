@@ -1,11 +1,7 @@
 #ADFS AdBlock clash
-#Last Modified: 2024-11-15 09:19:41
+#Last Modified: 2024-11-15 16:21:27
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
-  - "116.205.193.167"
-  - "123.56.23.22"
-  - "182.254.116.116"
-  - "203.205.137.89"
   - "+.1010pic.com"
   - "+.16dd-advertise-1252317822.file.myqcloud.com"
   - "+.16dd-advertise-1252317822.image.myqcloud.com"
@@ -263,6 +259,7 @@ payload:
   - "+.dxp.baidu.com"
   - "+.e.ad.xiaomi.com"
   - "+.eclick.baidu.com"
+  - "+.edge.ads.twitch.tv"
   - "+.ef-dongfeng.tanx.com"
   - "+.entry.baidu.com"
   - "+.errlog.umeng.com"
@@ -486,6 +483,7 @@ payload:
   - "+.roi.soulapp.cn"
   - "+.rpt.gdt.qq.com"
   - "+.rtb.voiceads.cn"
+  - "+.s.amazon-adsystem.com"
   - "+.s1.qq.com"
   - "+.s2.qq.com"
   - "+.s3.qq.com"

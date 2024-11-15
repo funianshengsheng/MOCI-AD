@@ -1,10 +1,6 @@
 # ADFS AdBlock hosts
-# Last Modified: 2024-11-15 09:19:41
+# Last Modified: 2024-11-15 16:21:27
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
-0.0.0.0	116.205.193.167
-0.0.0.0	123.56.23.22
-0.0.0.0	182.254.116.116
-0.0.0.0	203.205.137.89
 0.0.0.0	1010pic.com
 0.0.0.0	16dd-advertise-1252317822.file.myqcloud.com
 0.0.0.0	16dd-advertise-1252317822.image.myqcloud.com
@@ -262,6 +258,7 @@
 0.0.0.0	dxp.baidu.com
 0.0.0.0	e.ad.xiaomi.com
 0.0.0.0	eclick.baidu.com
+0.0.0.0	edge.ads.twitch.tv
 0.0.0.0	ef-dongfeng.tanx.com
 0.0.0.0	entry.baidu.com
 0.0.0.0	errlog.umeng.com
@@ -485,6 +482,7 @@
 0.0.0.0	roi.soulapp.cn
 0.0.0.0	rpt.gdt.qq.com
 0.0.0.0	rtb.voiceads.cn
+0.0.0.0	s.amazon-adsystem.com
 0.0.0.0	s1.qq.com
 0.0.0.0	s2.qq.com
 0.0.0.0	s3.qq.com
