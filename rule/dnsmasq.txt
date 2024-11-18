@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2024-11-18 16:23:12
+# Last Modified: 2024-11-19 00:21:45
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1010pic.com/
 address=/16dd-advertise-1252317822.file.myqcloud.com/
@@ -199,6 +199,7 @@ address=/bianxian.com/
 address=/bingads.microsoft.com/
 address=/bj.ad.track.66mobi.com/
 address=/books-analytics-events.apple.com/
+address=/browsercfg-drcn.cloud.dbankcloud.cn/
 address=/bsrv.qq.com/
 address=/bugly.qq.com/
 address=/business-api.tiktok.com/
@@ -388,6 +389,7 @@ address=/logtj.kugou.com/
 address=/logupdate.avlyun.sec.miui.com/
 address=/m.ad.zhangyue.com/
 address=/m.atm.youku.com/
+address=/m.ctrip.com/
 address=/m.kubiqq.com/
 address=/m1.ad.10010.com/
 address=/mapi.m.jd.com/
