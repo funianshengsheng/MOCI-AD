@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2024-11-24 16:19:45
+# Last Modified: 2024-11-25 00:18:49
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /16dd-advertise-1252317822.file.myqcloud.com/#
@@ -276,7 +276,9 @@ address /game.loveota.com/#
 address /gdfp.gifshow.com/#
 address /gemini.yahoo.com/#
 address /geo.yahoo.com/#
+address /getui.cn/#
 address /getui.com/#
+address /getui.net/#
 address /ggx.cmvideo.cn/#
 address /ggx01.miguvideo.com/#
 address /ggx03.miguvideo.com/#
@@ -316,6 +318,7 @@ address /iadsdk.apple.com/#
 address /iadworkbench.apple.com/#
 address /ifacelog.iqiyi.com/#
 address /ifs.tanx.com/#
+address /igexin.com/#
 address /ii.gdt.qq.com/#
 address /imag8.pubmatic.com/#
 address /imag86.pubmatic.com/#
