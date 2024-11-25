@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2024-11-25 16:23:35
+# Last Modified: 2024-11-26 00:21:38
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /16dd-advertise-1252317822.file.myqcloud.com/#
@@ -451,6 +451,7 @@ address /p1-be-pack-sign.pglstatp-toutiao.com/#
 address /p1-lm.adkwai.com/#
 address /p2-be-pack-sign.pglstatp-toutiao.com/#
 address /p2-lm.adkwai.com/#
+address /p2p.huya.com/#
 address /p3-be-pack-sign.pglstatp-toutiao.com/#
 address /p3-lm.adkwai.com/#
 address /p3-tt.byteimg.com/#
@@ -465,6 +466,7 @@ address /pgdt.ugdtimg.com/#
 address /pglstatp-toutiao.com/#
 address /pig.pupuapi.com/#
 address /pixon.ads-pixiv.net/#
+address /pkoplink.com/#
 address /plbslog.umeng.com/#
 address /pms.mb.qq.com/#
 address /policy.video.ptqy.gitv.tv/#
@@ -547,6 +549,7 @@ address /statsigapi.net/#
 address /stg-data.ads.heytapmobi.com/#
 address /success.ctobsnssdk.com/#
 address /syh-imp.cdnjtzy.com/#
+address /szbdyd.com/#
 address /t-dsp.pinduoduo.com/#
 address /t.l.qq.com/#
 address /t.track.ad.xiaomi.com/#

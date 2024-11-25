@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2024-11-25 16:23:35
+#Last Modified: 2024-11-26 00:21:38
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1010pic.com"
@@ -452,6 +452,7 @@ payload:
   - "+.p1-lm.adkwai.com"
   - "+.p2-be-pack-sign.pglstatp-toutiao.com"
   - "+.p2-lm.adkwai.com"
+  - "+.p2p.huya.com"
   - "+.p3-be-pack-sign.pglstatp-toutiao.com"
   - "+.p3-lm.adkwai.com"
   - "+.p3-tt.byteimg.com"
@@ -466,6 +467,7 @@ payload:
   - "+.pglstatp-toutiao.com"
   - "+.pig.pupuapi.com"
   - "+.pixon.ads-pixiv.net"
+  - "+.pkoplink.com"
   - "+.plbslog.umeng.com"
   - "+.pms.mb.qq.com"
   - "+.policy.video.ptqy.gitv.tv"
@@ -548,6 +550,7 @@ payload:
   - "+.stg-data.ads.heytapmobi.com"
   - "+.success.ctobsnssdk.com"
   - "+.syh-imp.cdnjtzy.com"
+  - "+.szbdyd.com"
   - "+.t-dsp.pinduoduo.com"
   - "+.t.l.qq.com"
   - "+.t.track.ad.xiaomi.com"
