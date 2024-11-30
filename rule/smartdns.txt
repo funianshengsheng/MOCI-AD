@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2024-11-30 16:20:28
+# Last Modified: 2024-12-01 00:19:16
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /16dd-advertise-1252317822.file.myqcloud.com/#
@@ -22,6 +22,7 @@ address /ad.51wnl.com/#
 address /ad.bwton.com/#
 address /ad.cctv.com/#
 address /ad.cyapi.cn/#
+address /ad.doubleclick.net/#
 address /ad.partner.gifshow.com/#
 address /ad.qingting.fm/#
 address /ad.qq.com/#
@@ -37,6 +38,8 @@ address /ad.zijieapi.com/#
 address /adapi.izuiyou.com/#
 address /adapi.yynetwk.com/#
 address /adashbc.ut.taobao.com/#
+address /adc.hpplay.cn/#
+address /adcdn.hpplay.cn/#
 address /adcdn.tencentmusic.com/#
 address /adclick.g.doubleclick.net/#
 address /adclick.tencentmusic.com/#
@@ -83,16 +86,22 @@ address /ads5-normal-hl.zijieapi.com/#
 address /ads5-normal-lf.zijieapi.com/#
 address /ads5-normal-lq.zijieapi.com/#
 address /ads5-normal.zijieapi.com/#
+address /adse.test.ximalaya.com/#
+address /adse.wsa.ximalaya.com/#
+address /adse.ximalaya.com/#
+address /adsebs.ximalaya.com/#
 address /adsense.google.cn/#
 address /adserver.unityads.unity3d.com/#
 address /adservice.google.cn/#
 address /adservice.google.com/#
 address /adserviceretry.kugou.com/#
 address /adsfile.bssdlbig.kugou.com/#
+address /adsfile.qq.com/#
 address /adsfilebssdlbig.ali.kugou.com/#
 address /adsfileretry.service.kugou.com/#
 address /adsfs-sdkconfig.heytapimage.com/#
 address /adsfs.oppomobile.com/#
+address /adslvfile.qq.com/#
 address /adsmart.konka.com/#
 address /adsmind.gdtimg.com/#
 address /adsmind.ugdtimg.com/#
@@ -292,6 +301,7 @@ address /ggx01.miguvideo.com/#
 address /ggx03.miguvideo.com/#
 address /globalapi.ad.xiaomi.com/#
 address /google-analytics.com/#
+address /googleads.g.doubleclick.net/#
 address /googleadservices-cn.com/#
 address /googleadservices.com/#
 address /googletagservices-cn.com/#
@@ -701,3 +711,4 @@ address /ykad-gateway.youku.com/#
 address /youku-acs.m.taobao.com/#
 address /youxi.kugou.com/#
 address /zeus.ad.xiaomi.com/#
+address /zhihu-web-analytics.zhihu.com/#
