@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2024-12-11 16:23:51
+# Last Modified: 2024-12-12 00:22:40
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /16dd-advertise-1252317822.file.myqcloud.com/#
@@ -44,6 +44,7 @@ address /adcdn.tencentmusic.com/#
 address /adclick.g.doubleclick.net/#
 address /adclick.tencentmusic.com/#
 address /adcolony.com/#
+address /addata.jd.com/#
 address /adexpo.tencentmusic.com/#
 address /adfilter.imtt.qq.com/#
 address /adfstat.yandex.ru/#
@@ -141,6 +142,7 @@ address /afs.googlesyndication.com/#
 address /aiseet.aa.atianqi.com/#
 address /ali-ad.a.yximgs.com/#
 address /alog.umeng.com/#
+address /alogus.umeng.com/#
 address /als.baidu.com/#
 address /amdcopen.m.taobao.com/#
 address /amdcopen.m.umeng.com/#
@@ -182,14 +184,17 @@ address /api.installer.xiaomi.com/#
 address /api.jietuhb.com/#
 address /api.kingdata.ksyun.com/#
 address /api.statsig.com/#
+address /api.touch-moblie.com/#
 address /api5-normal-quic-lf.ixigua.com/#
 address /apiyd.my91app.com/#
 address /apks.webxiaobai.top/#
 address /app-measurement.com/#
+address /appcfg.v.qq.com/#
 address /appcloud2.in.zhihu.com/#
 address /applog.lc.quark.cn/#
 address /applog.uc.cn/#
 address /applog.zijieapi.com/#
+address /aspect-upush.umeng.com/#
 address /ata-sdk-uuid-report.dreport.meituan.net/#
 address /auction.unityads.unity3d.com/#
 address /audid-api.taobao.com/#
@@ -226,6 +231,7 @@ address /c2.gdt.qq.com/#
 address /canvas-cdn.gdt.qq.com/#
 address /catalog.fjwhcbsh.com/#
 address /cbjs.baidu.com/#
+address /ccc-x.jd.com/#
 address /ccs.umeng.com/#
 address /cctv.adsunion.com/#
 address /cdn-ad.wtzw.com/#
@@ -284,8 +290,12 @@ address /event.tradplusad.com/#
 address /events-drcn.op.dbankcloud.cn/#
 address /events.reddit.com/#
 address /events.redditmedia.com/#
+address /fclog.baidu.com/#
+address /feed-image.baidu.com/#
 address /firebaselogging-pa.googleapis.com/#
 address /flurry.com/#
+address /frontend-perf-service.e.kuaishou.com/#
+address /fxgate.baidu.com/#
 address /g-adnet.hiaiabc.com/#
 address /g-staic.ganjingworld.com/#
 address /g2.ganjing.world/#
@@ -346,6 +356,7 @@ address /imageplus.baidu.com/#
 address /images.outbrainimg.com/#
 address /images.pinduoduo.com/#
 address /img-c.heytapimage.com/#
+address /img-x.jd.com/#
 address /img.adnyg.com/#
 address /img.adnyg.com.w.kunlungr.com/#
 address /imtmp.net/#
@@ -362,8 +373,10 @@ address /jpush.cn/#
 address /jpush.html5.qq.com/#
 address /jpush.io/#
 address /jswebcollects.kugou.com/#
+address /kde.qq.com/#
 address /kepler.jd.com/#
 address /kl.67it.com/#
+address /klink.volceapplog.com/#
 address /knicks.jd.com/#
 address /ks.pull.yximgs.com/#
 address /launcher.smart-tv.cn/#
@@ -383,8 +396,11 @@ address /log-api.pangolin-sdk-toutiao-b.com/#
 address /log-api.pangolin-sdk-toutiao.com/#
 address /log-report.com/#
 address /log-sdk.gifshow.com/#
+address /log-sdk.ksapisrv.com/#
 address /log-upload-os.hoyoverse.com/#
 address /log-upload.mihoyo.com/#
+address /log-verify.dutils.com/#
+address /log-verify.hiaiabc.com/#
 address /log.ad.xiaomi.com/#
 address /log.aispeech.com/#
 address /log.amemv.com/#
@@ -409,6 +425,7 @@ address /logservice.hicloud.com/#
 address /logservice1.hicloud.com/#
 address /logtj.kugou.com/#
 address /logupdate.avlyun.sec.miui.com/#
+address /luimg.baidu.com/#
 address /m-adnet.hiaiabc.com/#
 address /m.ad.zhangyue.com/#
 address /m.atm.youku.com/#
@@ -446,6 +463,7 @@ address /monsetting.toutiao.com/#
 address /mssdk.volces.com/#
 address /mssdk.zijieapi.com/#
 address /mtj.baidu.com/#
+address /nadvideo2.baidu.com/#
 address /newvoice.chiq5.smart-tv.cn/#
 address /nmetrics.samsung.com/#
 address /notes-analytics-events.apple.com/#
@@ -457,8 +475,8 @@ address /omgmta.play.aiseet.atianqi.com/#
 address /open.e.kuaishou.cn/#
 address /open.e.kuaishou.com/#
 address /open.kuaishouzt.com/#
-address /open.kwaishouzt.com/#
 address /open.kwaizt.com/#
+address /open.snssdk.com/#
 address /optimus-ads.amap.com/#
 address /orbit.jd.com/#
 address /oth.eve.mdt.qq.com/#
@@ -634,6 +652,7 @@ address /union.baidu.com/#
 address /update.avlyun.sec.miui.com/#
 address /update.lejiao.tv/#
 address /upgrade-update.hismarttv.com/#
+address /uranus.jd.com/#
 address /us.l.qq.com/#
 address /v.adintl.cn/#
 address /v.adx.hubcloud.com.cn/#
@@ -680,6 +699,7 @@ address /w1.yskwai.com/#
 address /w1.zskwai.com/#
 address /watson.microsoft.com/#
 address /watson.telemetry.microsoft.com/#
+address /wcp.taobao.com/#
 address /weather-analytics-events.apple.com/#
 address /weather-community-drcn.weather.dbankcloud.cn/#
 address /webstat.qiumibao.com/#
@@ -687,6 +707,7 @@ address /webview.unityads.unity3d.com/#
 address /widgets.outbrain.com/#
 address /widgets.pinterest.com/#
 address /win.gdt.qq.com/#
+address /wl.jd.com/#
 address /wn.x.jd.com/#
 address /ws-keyboard.shouji.sogou.com/#
 address /ws.sj.qq.com/#
@@ -695,6 +716,7 @@ address /wxa.wxs.qq.com/#
 address /wximg.wxs.qq.com/#
 address /wxsmw.wxs.qq.com/#
 address /wxsnsad.tc.qq.com/#
+address /wxsnsdy.tc.qq.com/#
 address /wxsnsdy.wxs.qq.com/#
 address /wxsnsdythumb.wxs.qq.com/#
 address /xc.gdt.qq.com/#
