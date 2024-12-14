@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2024-12-14 00:21:32
+! Last Modified: 2024-12-14 09:19:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||16dd-advertise-1252317822.file.myqcloud.com^
@@ -292,6 +292,7 @@
 ||events.redditmedia.com^
 ||fclog.baidu.com^
 ||feed-image.baidu.com^
+||file.daihuo.qq.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
 ||frontend-perf-service.e.kuaishou.com^
