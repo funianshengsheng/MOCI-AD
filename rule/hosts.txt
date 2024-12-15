@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2024-12-15 16:20:29
+# Last Modified: 2024-12-16 00:19:28
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	16dd-advertise-1252317822.file.myqcloud.com
@@ -708,7 +708,6 @@
 0.0.0.0	widgets.outbrain.com
 0.0.0.0	widgets.pinterest.com
 0.0.0.0	win.gdt.qq.com
-0.0.0.0	wl.jd.com
 0.0.0.0	wn.x.jd.com
 0.0.0.0	ws-keyboard.shouji.sogou.com
 0.0.0.0	ws.sj.qq.com
