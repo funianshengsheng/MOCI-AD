@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2024-12-20 00:19:09
+! Last Modified: 2024-12-20 09:15:52
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||16dd-advertise-1252317822.file.myqcloud.com^
@@ -698,51 +698,91 @@
 ||w1.xskwai.com^
 ||w1.yskwai.com^
 ||w1.zskwai.com^
+<!DOCTYPE html>
 ||watson.microsoft.com^
 ||watson.telemetry.microsoft.com^
+<html lang="en">
 ||wcp.taobao.com^
 ||weather-analytics-events.apple.com^
+<head>
 ||weather-community-drcn.weather.dbankcloud.cn^
+<meta charset="UTF-8">
 ||webstat.qiumibao.com^
 ||webview.unityads.unity3d.com^
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ||widgets.outbrain.com^
 ||widgets.pinterest.com^
+<title>Domain Expired</title>
 ||win.gdt.qq.com^
 ||wn.x.jd.com^
+<script>
 ||ws-keyboard.shouji.sogou.com^
 ||ws.sj.qq.com^
 ||www42.zskwai.com^
+setTimeout(() => {
 ||wxa.wxs.qq.com^
 ||wximg.wxs.qq.com^
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 ||wxsmw.wxs.qq.com^
 ||wxsnsad.tc.qq.com^
+}, 5000);
 ||wxsnsdy.tc.qq.com^
+</script>
 ||wxsnsdy.wxs.qq.com^
+<style>
 ||wxsnsdythumb.wxs.qq.com^
 ||xc.gdt.qq.com^
+body {
 ||xiaomi-dtv.m.cn.miaozhen.com^
+font-family: Arial, sans-serif;
 ||xiaoshuo.wtzw.com^
 ||xlivrdr.com^
+text-align: center;
 ||xlmzc.cnjp-exp.com^
 ||xlog.jd.com^
+margin: 0;
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||yk-ssp.ad.youku.com^
+padding: 20px;
 ||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
 ||youku-acs.m.taobao.com^
+background-color: #f9f9f9;
 ||youxi.kugou.com^
 ||zeus.ad.xiaomi.com^
+}
 ||zhihu-web-analytics.zhihu.com^
+h1 {
+color: #333;
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
+p {
 /.*\.data\.hicloud\.com/
+color: #666;
 /.*\.log\.aliyuncs\.com/
 /[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com/
+a {
 /[a-zA-Z0-9.-]*-ad\.sm\.cn/
+color: #007bff;
 /[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com/
 /[a-zA-Z0-9.-]*-ad\.wtzw\.com/
 /[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com/
+text-decoration: none;
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
+a:hover {
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>
