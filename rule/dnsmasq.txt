@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2024-12-22 16:19:03
+# Last Modified: 2024-12-23 00:17:51
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1010pic.com/
 address=/16dd-advertise-1252317822.file.myqcloud.com/
