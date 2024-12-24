@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2024-12-24 00:19:38
+! Last Modified: 2024-12-24 09:15:43
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -9,66 +9,66 @@
 <title>Domain Expired</title>
 <script>
 setTimeout(() => {
-||1010pic.com^
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 }, 5000);
 </script>
-||16dd-advertise-1252317822.file.myqcloud.com^
 <style>
 body {
-||16dd-advertise-1252317822.image.myqcloud.com^
-||8le8le.com^
 font-family: Arial, sans-serif;
-||a0.app.xiaomi.com^
 text-align: center;
 margin: 0;
-||aaid.umeng.com^
-||abtest-ch.snssdk.com^
 padding: 20px;
-||ad-cache.dopool.com^
 background-color: #f9f9f9;
 }
-||ad-cdn.qingting.fm^
 h1 {
-||ad-cmp.hismarttv.com^
 color: #333;
-||ad-download.hismarttv.com^
-||ad-imp.hismarttv.com^
 p {
-||ad-scope.com^
 color: #666;
-||ad-scope.com.cn^
 a {
 color: #007bff;
 text-decoration: none;
-||ad-sdk-config.youdao.com^
 a:hover {
-||ad-sdk.huxiu.com^
+||1010pic.com^
 text-decoration: underline;
 </style>
 </head>
 <body>
+||16dd-advertise-1252317822.file.myqcloud.com^
 <h1>域名已过期 | Domain Expired</h1>
+||16dd-advertise-1252317822.image.myqcloud.com^
+<p>
+||8le8le.com^
+该域名已过期，5秒后将跳转到新域名。<br>
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+||abtest-ch.snssdk.com^
+||ad-cache.dopool.com^
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+||ad-cdn.qingting.fm^
+||ad-cmp.hismarttv.com^
+||ad-download.hismarttv.com^
+||ad-imp.hismarttv.com^
+||ad-scope.com^
+||ad-scope.com.cn^
+||ad-sdk-config.youdao.com^
+||ad-sdk.huxiu.com^
 ||ad.12306.cn^
 ||ad.51wnl.com^
 ||ad.bwton.com^
 ||ad.cctv.com^
 ||ad.cyapi.cn^
 ||ad.doubleclick.net^
-<p>
 ||ad.partner.gifshow.com^
-该域名已过期，5秒后将跳转到新域名。<br>
-||ad.qingting.fm^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-||ad.qq.com^
-</p>
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-||ad.richmob.cn^
+||ad.qingting.fm^
 </body>
+||ad.qq.com^
+</html>
+||ad.richmob.cn^
 ||ad.tencentmusic.com^
 ||ad.toutiao.com^
-</html>
 ||ad.v3mh.com^
 ||ad.winrar.com.cn^
 ||ad.xelements.cn^
