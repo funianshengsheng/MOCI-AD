@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2024-12-25 09:14:36
+# Last Modified: 2024-12-25 16:20:50
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	16dd-advertise-1252317822.file.myqcloud.com
@@ -95,6 +95,7 @@
 0.0.0.0	adserver.unityads.unity3d.com
 0.0.0.0	adservice.google.cn
 0.0.0.0	adservice.google.com
+0.0.0.0	adservice.sigmob.cn
 0.0.0.0	adserviceretry.kugou.com
 0.0.0.0	adsfile.bssdlbig.kugou.com
 0.0.0.0	adsfile.qq.com
@@ -238,6 +239,7 @@
 0.0.0.0	cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0	cdn.ad.xiaomi.com
+0.0.0.0	cdn.aiclk.com
 0.0.0.0	cdn.ynuf.aliapp.org
 0.0.0.0	cfg.imtt.qq.com
 0.0.0.0	chat1.jd.com
@@ -254,6 +256,7 @@
 0.0.0.0	commdata.v.qq.com
 0.0.0.0	config.chsmarttv.com
 0.0.0.0	config.unityads.unity3d.com
+0.0.0.0	cpc-service-square.aiclk.com
 0.0.0.0	cpro.baidustatic.com
 0.0.0.0	crashlytics.com
 0.0.0.0	crashlyticsreports-pa.googleapis.com
@@ -264,6 +267,7 @@
 0.0.0.0	data.mistat.india.xiaomi.com
 0.0.0.0	data.mistat.rus.xiaomi.com
 0.0.0.0	data.mistat.xiaomi.com
+0.0.0.0	dc.sigmob.cn
 0.0.0.0	diagnosis.ad.xiaomi.com
 0.0.0.0	dig.bdurl.net
 0.0.0.0	dl.zuimeitianqi.com
@@ -420,6 +424,7 @@
 0.0.0.0	log.zijieapi.com
 0.0.0.0	log1.cmpassport.com
 0.0.0.0	logbak.hicloud.com
+0.0.0.0	logrcv.aiclk.com
 0.0.0.0	logs.amap.com
 0.0.0.0	logservice.hicloud.com
 0.0.0.0	logservice1.hicloud.com
@@ -479,6 +484,7 @@
 0.0.0.0	open.snssdk.com
 0.0.0.0	optimus-ads.amap.com
 0.0.0.0	orbit.jd.com
+0.0.0.0	oss.cdn.aiclk.com
 0.0.0.0	oth.eve.mdt.qq.com
 0.0.0.0	oth.str.mdt.qq.com
 0.0.0.0	otheve.play.aiseet.atianqi.com
@@ -522,6 +528,7 @@
 0.0.0.0	res2.hubcloud.com.cn
 0.0.0.0	res3.hubcloud.com.cn
 0.0.0.0	resolve.umeng.com
+0.0.0.0	rev.aiclk.com
 0.0.0.0	review.gdtimg.com
 0.0.0.0	rms-drcn.platform.dbankcloud.cn
 0.0.0.0	roi.soulapp.cn
@@ -623,6 +630,7 @@
 0.0.0.0	tnc3-bjlgy.zijieapi.com
 0.0.0.0	toblog.ctobsnssdk.com
 0.0.0.0	trace.qq.com
+0.0.0.0	tracelog-debug.aiclk.com
 0.0.0.0	tracelog-debug.qquanquan.com
 0.0.0.0	track.lc.quark.cn
 0.0.0.0	track.uc.cn
@@ -651,9 +659,11 @@
 0.0.0.0	union.baidu.com
 0.0.0.0	update.avlyun.sec.miui.com
 0.0.0.0	update.lejiao.tv
+0.0.0.0	update0.aiclk.com
 0.0.0.0	upgrade-update.hismarttv.com
 0.0.0.0	uranus.jd.com
 0.0.0.0	us.l.qq.com
+0.0.0.0	usr-api.aiclk.com
 0.0.0.0	v.adintl.cn
 0.0.0.0	v.adx.hubcloud.com.cn
 0.0.0.0	v1-ad.video.yximgs.com

@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2024-12-25 09:14:36
+# Last Modified: 2024-12-25 16:20:50
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /16dd-advertise-1252317822.file.myqcloud.com/#
@@ -95,6 +95,7 @@ address /adsense.google.cn/#
 address /adserver.unityads.unity3d.com/#
 address /adservice.google.cn/#
 address /adservice.google.com/#
+address /adservice.sigmob.cn/#
 address /adserviceretry.kugou.com/#
 address /adsfile.bssdlbig.kugou.com/#
 address /adsfile.qq.com/#
@@ -238,6 +239,7 @@ address /cdn-ad.wtzw.com/#
 address /cdn-ads.oss-cn-shanghai.aliyuncs.com/#
 address /cdn-plugin-sync-upgrade-juui.hismarttv.com/#
 address /cdn.ad.xiaomi.com/#
+address /cdn.aiclk.com/#
 address /cdn.ynuf.aliapp.org/#
 address /cfg.imtt.qq.com/#
 address /chat1.jd.com/#
@@ -254,6 +256,7 @@ address /collect.kugou.com/#
 address /commdata.v.qq.com/#
 address /config.chsmarttv.com/#
 address /config.unityads.unity3d.com/#
+address /cpc-service-square.aiclk.com/#
 address /cpro.baidustatic.com/#
 address /crashlytics.com/#
 address /crashlyticsreports-pa.googleapis.com/#
@@ -264,6 +267,7 @@ address /data.chsmarttv.com/#
 address /data.mistat.india.xiaomi.com/#
 address /data.mistat.rus.xiaomi.com/#
 address /data.mistat.xiaomi.com/#
+address /dc.sigmob.cn/#
 address /diagnosis.ad.xiaomi.com/#
 address /dig.bdurl.net/#
 address /dl.zuimeitianqi.com/#
@@ -420,6 +424,7 @@ address /log.web.kugou.com/#
 address /log.zijieapi.com/#
 address /log1.cmpassport.com/#
 address /logbak.hicloud.com/#
+address /logrcv.aiclk.com/#
 address /logs.amap.com/#
 address /logservice.hicloud.com/#
 address /logservice1.hicloud.com/#
@@ -479,6 +484,7 @@ address /open.kwaizt.com/#
 address /open.snssdk.com/#
 address /optimus-ads.amap.com/#
 address /orbit.jd.com/#
+address /oss.cdn.aiclk.com/#
 address /oth.eve.mdt.qq.com/#
 address /oth.str.mdt.qq.com/#
 address /otheve.play.aiseet.atianqi.com/#
@@ -522,6 +528,7 @@ address /res1.hubcloud.com.cn/#
 address /res2.hubcloud.com.cn/#
 address /res3.hubcloud.com.cn/#
 address /resolve.umeng.com/#
+address /rev.aiclk.com/#
 address /review.gdtimg.com/#
 address /rms-drcn.platform.dbankcloud.cn/#
 address /roi.soulapp.cn/#
@@ -623,6 +630,7 @@ address /tnc3-bjlgy.toutiaoapi.com/#
 address /tnc3-bjlgy.zijieapi.com/#
 address /toblog.ctobsnssdk.com/#
 address /trace.qq.com/#
+address /tracelog-debug.aiclk.com/#
 address /tracelog-debug.qquanquan.com/#
 address /track.lc.quark.cn/#
 address /track.uc.cn/#
@@ -651,9 +659,11 @@ address /union.baidu.cn/#
 address /union.baidu.com/#
 address /update.avlyun.sec.miui.com/#
 address /update.lejiao.tv/#
+address /update0.aiclk.com/#
 address /upgrade-update.hismarttv.com/#
 address /uranus.jd.com/#
 address /us.l.qq.com/#
+address /usr-api.aiclk.com/#
 address /v.adintl.cn/#
 address /v.adx.hubcloud.com.cn/#
 address /v1-ad.video.yximgs.com/#
