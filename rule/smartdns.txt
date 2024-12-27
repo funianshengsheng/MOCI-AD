@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2024-12-27 16:20:32
+# Last Modified: 2024-12-28 00:19:05
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /16dd-advertise-1252317822.file.myqcloud.com/#
@@ -730,7 +730,6 @@ address /wxsnsdy.wxs.qq.com/#
 address /wxsnsdythumb.wxs.qq.com/#
 address /xc.gdt.qq.com/#
 address /xiaomi-dtv.m.cn.miaozhen.com/#
-address /xiaoshuo.wtzw.com/#
 address /xlivrdr.com/#
 address /xlmzc.cnjp-exp.com/#
 address /xlog.jd.com/#
