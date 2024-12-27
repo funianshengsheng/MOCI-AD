@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2024-12-27 00:19:39
+! Last Modified: 2024-12-27 09:15:29
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -21,53 +21,53 @@ font-family: Arial, sans-serif;
 text-align: center;
 margin: 0;
 ||8le8le.com^
+padding: 20px;
 ||a0.app.xiaomi.com^
 ||aaid.umeng.com^
-padding: 20px;
-||abtest-ch.snssdk.com^
 background-color: #f9f9f9;
-||ad-cache.dopool.com^
-||ad-cdn.qingting.fm^
 }
-||ad-cmp.hismarttv.com^
+||abtest-ch.snssdk.com^
 h1 {
-||ad-download.hismarttv.com^
+||ad-cache.dopool.com^
 color: #333;
-||ad-imp.hismarttv.com^
+||ad-cdn.qingting.fm^
 p {
-||ad-scope.com^
+||ad-cmp.hismarttv.com^
 color: #666;
-||ad-scope.com.cn^
+||ad-download.hismarttv.com^
 a {
-||ad-sdk-config.youdao.com^
+||ad-imp.hismarttv.com^
 color: #007bff;
-||ad-sdk.huxiu.com^
+||ad-scope.com^
 text-decoration: none;
+||ad-scope.com.cn^
 a:hover {
 text-decoration: underline;
 </style>
 </head>
 <body>
-||ad.12306.cn^
+||ad-sdk-config.youdao.com^
+||ad-sdk.huxiu.com^
 <h1>域名已过期 | Domain Expired</h1>
-||ad.51wnl.com^
+||ad.12306.cn^
 <p>
-||ad.bwton.com^
+||ad.51wnl.com^
 该域名已过期，5秒后将跳转到新域名。<br>
-||ad.cctv.com^
-||ad.cyapi.cn^
+||ad.bwton.com^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-||ad.doubleclick.net^
+||ad.cctv.com^
 </p>
-||ad.partner.gifshow.com^
+||ad.cyapi.cn^
 如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-||ad.qingting.fm^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+||ad.doubleclick.net^
+||ad.partner.gifshow.com^
+</body>
+</html>
+||ad.qingting.fm^
 ||ad.qq.com^
 ||ad.richmob.cn^
-</body>
 ||ad.tencentmusic.com^
-</html>
 ||ad.toutiao.com^
 ||ad.v3mh.com^
 ||ad.winrar.com.cn^
