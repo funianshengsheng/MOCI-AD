@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2024-12-28 16:19:11
+#Last Modified: 2024-12-29 00:18:08
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1010pic.com"
@@ -543,7 +543,6 @@ payload:
   - "+.samsung-com.112.2o7.net"
   - "+.samsungads.com"
   - "+.sanme2.taisantech.com"
-  - "+.saveu5-normal-lq.zijieapi.com"
   - "+.scdown.qq.com"
   - "+.scs.openspeech.cn"
   - "+.sdk-ab-config.qquanquan.com"
