@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2024-12-30 09:17:30
+! Last Modified: 2024-12-30 16:21:12
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -10,70 +10,70 @@
 <script>
 setTimeout(() => {
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-||1010pic.com^
 }, 5000);
 </script>
 <style>
-||16dd-advertise-1252317822.file.myqcloud.com^
 body {
-||16dd-advertise-1252317822.image.myqcloud.com^
 font-family: Arial, sans-serif;
-||8le8le.com^
-||a0.app.xiaomi.com^
 text-align: center;
-||aaid.umeng.com^
 margin: 0;
-||abtest-ch.snssdk.com^
 padding: 20px;
-||ad-cache.dopool.com^
-||ad-cdn.qingting.fm^
 background-color: #f9f9f9;
 }
-||ad-cmp.hismarttv.com^
 h1 {
-||ad-download.hismarttv.com^
 color: #333;
-||ad-imp.hismarttv.com^
 p {
-||ad-scope.com^
 color: #666;
-||ad-scope.com.cn^
 a {
-||ad-sdk-config.youdao.com^
 color: #007bff;
+text-decoration: none;
+a:hover {
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>
+||1010pic.com^
+||16dd-advertise-1252317822.file.myqcloud.com^
+||16dd-advertise-1252317822.image.myqcloud.com^
+||8le8le.com^
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
+||abtest-ch.snssdk.com^
+||ad-cache.dopool.com^
+||ad-cdn.qingting.fm^
+||ad-cmp.hismarttv.com^
+||ad-download.hismarttv.com^
+||ad-imp.hismarttv.com^
+||ad-scope.com^
+||ad-scope.com.cn^
+||ad-sdk-config.youdao.com^
 ||ad-sdk.huxiu.com^
 ||ad.12306.cn^
 ||ad.51wnl.com^
-text-decoration: none;
 ||ad.bwton.com^
-a:hover {
 ||ad.cctv.com^
 ||ad.cyapi.cn^
-text-decoration: underline;
 ||ad.doubleclick.net^
-</style>
-</head>
 ||ad.partner.gifshow.com^
-<body>
 ||ad.qingting.fm^
 ||ad.qq.com^
-<h1>域名已过期 | Domain Expired</h1>
 ||ad.richmob.cn^
-<p>
 ||ad.tencentmusic.com^
-该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.toutiao.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-</p>
 ||ad.v3mh.com^
 ||ad.winrar.com.cn^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad.xelements.cn^
 ||ad.xiaomi.com^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.ximalaya.com^
-</body>
-</html>
 ||ad.zijieapi.com^
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
