@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-03 09:15:41
+! Last Modified: 2025-01-03 16:20:33
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -10,36 +10,36 @@
 <script>
 setTimeout(() => {
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-}, 5000);
 ||1010pic.com^
+}, 5000);
 </script>
 <style>
 body {
 ||16dd-advertise-1252317822.file.myqcloud.com^
 font-family: Arial, sans-serif;
 ||16dd-advertise-1252317822.image.myqcloud.com^
+||8le8le.com^
 text-align: center;
 margin: 0;
-||8le8le.com^
-padding: 20px;
 ||a0.app.xiaomi.com^
+padding: 20px;
 ||aaid.umeng.com^
-background-color: #f9f9f9;
 ||abtest-ch.snssdk.com^
-}
+background-color: #f9f9f9;
 ||ad-cache.dopool.com^
-h1 {
+}
 ||ad-cdn.qingting.fm^
+h1 {
 color: #333;
 ||ad-cmp.hismarttv.com^
-p {
 ||ad-download.hismarttv.com^
-color: #666;
+p {
 ||ad-imp.hismarttv.com^
-a {
+color: #666;
 ||ad-scope.com^
-color: #007bff;
+a {
 ||ad-scope.com.cn^
+color: #007bff;
 ||ad-sdk-config.youdao.com^
 text-decoration: none;
 ||ad-sdk.huxiu.com^
@@ -52,27 +52,27 @@ text-decoration: underline;
 ||ad.bwton.com^
 <body>
 ||ad.cctv.com^
-<h1>域名已过期 | Domain Expired</h1>
 ||ad.cyapi.cn^
-<p>
 ||ad.doubleclick.net^
-该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.partner.gifshow.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||ad.qingting.fm^
-</p>
+<h1>域名已过期 | Domain Expired</h1>
 ||ad.qq.com^
+<p>
 ||ad.richmob.cn^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.tencentmusic.com^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
 ||ad.toutiao.com^
-</body>
-</html>
 ||ad.v3mh.com^
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad.winrar.com.cn^
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.xelements.cn^
+</body>
 ||ad.xiaomi.com^
+</html>
 ||ad.ximalaya.com^
 ||ad.zijieapi.com^
 ||adapi.izuiyou.com^
