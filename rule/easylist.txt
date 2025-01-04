@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-04 00:19:56
+! Last Modified: 2025-01-04 09:14:27
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -42,8 +42,6 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 </body>
 </html>
 ||1010pic.com^
-||16dd-advertise-1252317822.file.myqcloud.com^
-||16dd-advertise-1252317822.image.myqcloud.com^
 ||8le8le.com^
 ||a0.app.xiaomi.com^
 ||aaid.umeng.com^
@@ -422,6 +420,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||kl.67it.com^
 ||klink.volceapplog.com^
 ||knicks.jd.com^
+||ks.ferlytc.com^
 ||ks.pull.yximgs.com^
 ||launcher.smart-tv.cn^
 ||launcherimg.smart-tv.cn^
