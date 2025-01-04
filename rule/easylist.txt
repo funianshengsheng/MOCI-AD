@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-04 16:19:25
+! Last Modified: 2025-01-05 00:18:03
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -25,54 +25,54 @@ margin: 0;
 ||ad-cache.dopool.com^
 padding: 20px;
 ||ad-cdn.qingting.fm^
-||ad-cmp.hismarttv.com^
 background-color: #f9f9f9;
 }
-||ad-download.hismarttv.com^
+||ad-cmp.hismarttv.com^
 h1 {
+||ad-download.hismarttv.com^
+color: #333;
 ||ad-imp.hismarttv.com^
 ||ad-scope.com^
-color: #333;
-||ad-scope.com.cn^
 p {
-||ad-sdk-config.youdao.com^
 color: #666;
-||ad-sdk.huxiu.com^
+||ad-scope.com.cn^
+||ad-sdk-config.youdao.com^
 a {
-||ad.12306.cn^
+||ad-sdk.huxiu.com^
 color: #007bff;
-||ad.51wnl.com^
+||ad.12306.cn^
 text-decoration: none;
-||ad.bwton.com^
+||ad.51wnl.com^
 a:hover {
-||ad.cctv.com^
+||ad.bwton.com^
 text-decoration: underline;
-||ad.cyapi.cn^
-||ad.doubleclick.net^
+||ad.cctv.com^
 </style>
 </head>
-||ad.partner.gifshow.com^
+||ad.cyapi.cn^
 <body>
-||ad.qingting.fm^
-||ad.qq.com^
-||ad.richmob.cn^
+||ad.doubleclick.net^
+||ad.partner.gifshow.com^
 <h1>域名已过期 | Domain Expired</h1>
-||ad.tencentmusic.com^
+||ad.qingting.fm^
 <p>
-||ad.toutiao.com^
+||ad.qq.com^
 该域名已过期，5秒后将跳转到新域名。<br>
-||ad.v3mh.com^
+||ad.richmob.cn^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-||ad.winrar.com.cn^
 </p>
-||ad.xelements.cn^
+||ad.tencentmusic.com^
+||ad.toutiao.com^
 如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-||ad.xiaomi.com^
+||ad.v3mh.com^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-||ad.ximalaya.com^
+||ad.winrar.com.cn^
 </body>
-||ad.zijieapi.com^
+||ad.xelements.cn^
 </html>
+||ad.xiaomi.com^
+||ad.ximalaya.com^
+||ad.zijieapi.com^
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
