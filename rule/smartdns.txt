@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-01-08 09:15:52
+# Last Modified: 2025-01-08 16:21:15
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /8le8le.com/#
