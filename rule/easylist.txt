@@ -1,79 +1,79 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-08 16:21:15
+! Last Modified: 2025-01-09 00:20:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-||1010pic.com^
 <title>Domain Expired</title>
 <script>
 setTimeout(() => {
-||8le8le.com^
-||a0.app.xiaomi.com^
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 }, 5000);
 </script>
-||aaid.umeng.com^
 <style>
-||abtest-ch.snssdk.com^
 body {
-||ad-cache.dopool.com^
 font-family: Arial, sans-serif;
 text-align: center;
-||ad-cdn.qingting.fm^
 margin: 0;
-||ad-cmp.hismarttv.com^
 padding: 20px;
-||ad-download.hismarttv.com^
 background-color: #f9f9f9;
 }
-||ad-imp.hismarttv.com^
 h1 {
-||ad-scope.com^
 color: #333;
-||ad-scope.com.cn^
 p {
-||ad-sdk-config.youdao.com^
 color: #666;
-||ad-sdk.huxiu.com^
 a {
-||ad.12306.cn^
 color: #007bff;
-||ad.51wnl.com^
 text-decoration: none;
+a:hover {
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>
+||1010pic.com^
+||8le8le.com^
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
+||abtest-ch.snssdk.com^
+||ad-cache.dopool.com^
+||ad-cdn.qingting.fm^
+||ad-cmp.hismarttv.com^
+||ad-download.hismarttv.com^
+||ad-imp.hismarttv.com^
+||ad-scope.com^
+||ad-scope.com.cn^
+||ad-sdk-config.youdao.com^
+||ad-sdk.huxiu.com^
+||ad.12306.cn^
+||ad.51wnl.com^
 ||ad.bwton.com^
 ||ad.cctv.com^
-a:hover {
 ||ad.cyapi.cn^
-text-decoration: underline;
 ||ad.doubleclick.net^
-</style>
 ||ad.partner.gifshow.com^
-</head>
 ||ad.qingting.fm^
-<body>
 ||ad.qq.com^
-<h1>域名已过期 | Domain Expired</h1>
 ||ad.richmob.cn^
-<p>
 ||ad.tencentmusic.com^
-该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.toutiao.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||ad.v3mh.com^
-</p>
 ||ad.winrar.com.cn^
 ||ad.xelements.cn^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad.xiaomi.com^
 ||ad.ximalaya.com^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.zijieapi.com^
-</body>
 ||adapi.izuiyou.com^
-</html>
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
 ||adc.hpplay.cn^
