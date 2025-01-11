@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2025-01-11 00:20:35
+# Last Modified: 2025-01-11 09:15:55
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1010pic.com/
 address=/8le8le.com/
@@ -451,6 +451,7 @@ address=/mime.baidu.com/
 address=/mine.baidu.com/
 address=/mission-pub.smart-tv.cn/
 address=/miui-fxcse.avlyun.com/
+address=/mmgame.qpic.cn/
 address=/mnqlog.ldmnq.com/
 address=/mobads-logs.baidu.com/
 address=/mobads-pre-config.cdn.bcebos.com/
@@ -720,6 +721,7 @@ address=/ws-keyboard.shouji.sogou.com/
 address=/ws.sj.qq.com/
 address=/www42.zskwai.com/
 address=/wxa.wxs.qq.com/
+address=/wxaintpcos.wxqcloud.qq.com.cn/
 address=/wximg.wxs.qq.com/
 address=/wxsmw.wxs.qq.com/
 address=/wxsnsad.tc.qq.com/

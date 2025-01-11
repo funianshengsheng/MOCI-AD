@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-11 00:20:35
+! Last Modified: 2025-01-11 09:15:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -38,10 +38,10 @@ text-decoration: underline;
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 </p>
 如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+||1010pic.com^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 </body>
 </html>
-||1010pic.com^
 ||8le8le.com^
 ||a0.app.xiaomi.com^
 ||aaid.umeng.com^
@@ -491,6 +491,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||mine.baidu.com^
 ||mission-pub.smart-tv.cn^
 ||miui-fxcse.avlyun.com^
+||mmgame.qpic.cn^
 ||mnqlog.ldmnq.com^
 ||mobads-logs.baidu.com^
 ||mobads-pre-config.cdn.bcebos.com^
@@ -760,6 +761,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||ws.sj.qq.com^
 ||www42.zskwai.com^
 ||wxa.wxs.qq.com^
+||wxaintpcos.wxqcloud.qq.com.cn^
 ||wximg.wxs.qq.com^
 ||wxsmw.wxs.qq.com^
 ||wxsnsad.tc.qq.com^

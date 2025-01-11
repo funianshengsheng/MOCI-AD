@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-01-11 00:20:35
+# Last Modified: 2025-01-11 09:15:55
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	8le8le.com
@@ -451,6 +451,7 @@
 0.0.0.0	mine.baidu.com
 0.0.0.0	mission-pub.smart-tv.cn
 0.0.0.0	miui-fxcse.avlyun.com
+0.0.0.0	mmgame.qpic.cn
 0.0.0.0	mnqlog.ldmnq.com
 0.0.0.0	mobads-logs.baidu.com
 0.0.0.0	mobads-pre-config.cdn.bcebos.com
@@ -720,6 +721,7 @@
 0.0.0.0	ws.sj.qq.com
 0.0.0.0	www42.zskwai.com
 0.0.0.0	wxa.wxs.qq.com
+0.0.0.0	wxaintpcos.wxqcloud.qq.com.cn
 0.0.0.0	wximg.wxs.qq.com
 0.0.0.0	wxsmw.wxs.qq.com
 0.0.0.0	wxsnsad.tc.qq.com
