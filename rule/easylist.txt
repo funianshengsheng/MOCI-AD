@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-14 00:21:34
+! Last Modified: 2025-01-14 09:12:26
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -14,56 +14,56 @@ window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + 
 </script>
 <style>
 body {
+||1010pic.com^
 font-family: Arial, sans-serif;
 text-align: center;
 margin: 0;
-||1010pic.com^
+||8le8le.com^
 padding: 20px;
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
 background-color: #f9f9f9;
 }
-||8le8le.com^
-h1 {
-||a0.app.xiaomi.com^
-color: #333;
-||aaid.umeng.com^
-p {
 ||abtest-ch.snssdk.com^
-color: #666;
+h1 {
 ||ad-cache.dopool.com^
+color: #333;
 ||ad-cdn.qingting.fm^
-a {
 ||ad-cmp.hismarttv.com^
-color: #007bff;
+p {
+color: #666;
 ||ad-download.hismarttv.com^
-text-decoration: none;
 ||ad-imp.hismarttv.com^
-a:hover {
+a {
+color: #007bff;
 ||ad-scope.com^
 ||ad-scope.com.cn^
-text-decoration: underline;
+text-decoration: none;
 ||ad-sdk-config.youdao.com^
-</style>
-</head>
+a:hover {
 ||ad-sdk.huxiu.com^
-<body>
+text-decoration: underline;
 ||ad.12306.cn^
+</style>
 ||ad.51wnl.com^
+</head>
+<body>
+||ad.bwton.com^
 <h1>域名已过期 | Domain Expired</h1>
 <p>
-||ad.bwton.com^
 ||ad.cctv.com^
 该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.cyapi.cn^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-||ad.doubleclick.net^
 </p>
+||ad.doubleclick.net^
 ||ad.partner.gifshow.com^
 如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad.qingting.fm^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.qq.com^
-||ad.richmob.cn^
 </body>
+||ad.richmob.cn^
 </html>
 ||ad.tencentmusic.com^
 ||ad.toutiao.com^
