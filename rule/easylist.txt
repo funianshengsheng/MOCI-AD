@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-14 09:12:26
+! Last Modified: 2025-01-14 16:20:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -14,58 +14,58 @@ window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + 
 </script>
 <style>
 body {
-||1010pic.com^
 font-family: Arial, sans-serif;
 text-align: center;
 margin: 0;
-||8le8le.com^
+||1010pic.com^
 padding: 20px;
-||a0.app.xiaomi.com^
-||aaid.umeng.com^
 background-color: #f9f9f9;
 }
-||abtest-ch.snssdk.com^
+||8le8le.com^
 h1 {
-||ad-cache.dopool.com^
 color: #333;
-||ad-cdn.qingting.fm^
-||ad-cmp.hismarttv.com^
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
 p {
 color: #666;
+||abtest-ch.snssdk.com^
+a {
+||ad-cache.dopool.com^
+color: #007bff;
+||ad-cdn.qingting.fm^
+text-decoration: none;
+||ad-cmp.hismarttv.com^
+a:hover {
 ||ad-download.hismarttv.com^
 ||ad-imp.hismarttv.com^
-a {
-color: #007bff;
-||ad-scope.com^
-||ad-scope.com.cn^
-text-decoration: none;
-||ad-sdk-config.youdao.com^
-a:hover {
-||ad-sdk.huxiu.com^
 text-decoration: underline;
-||ad.12306.cn^
+||ad-scope.com^
 </style>
-||ad.51wnl.com^
+||ad-scope.com.cn^
 </head>
 <body>
-||ad.bwton.com^
+||ad-sdk-config.youdao.com^
+||ad-sdk.huxiu.com^
+||ad.12306.cn^
+||ad.51wnl.com^
 <h1>域名已过期 | Domain Expired</h1>
-<p>
+||ad.bwton.com^
 ||ad.cctv.com^
-该域名已过期，5秒后将跳转到新域名。<br>
+<p>
 ||ad.cyapi.cn^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-</p>
+该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.doubleclick.net^
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||ad.partner.gifshow.com^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+</p>
 ||ad.qingting.fm^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.qq.com^
-</body>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.richmob.cn^
-</html>
+</body>
 ||ad.tencentmusic.com^
+</html>
 ||ad.toutiao.com^
 ||ad.v3mh.com^
 ||ad.winrar.com.cn^
