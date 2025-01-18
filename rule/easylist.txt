@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-18 16:18:16
+! Last Modified: 2025-01-19 00:17:29
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -9,66 +9,66 @@
 <title>Domain Expired</title>
 <script>
 setTimeout(() => {
-||1010pic.com^
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
+||1010pic.com^
 }, 5000);
 </script>
 <style>
 body {
-font-family: Arial, sans-serif;
 ||8le8le.com^
+font-family: Arial, sans-serif;
 ||a0.app.xiaomi.com^
 text-align: center;
-margin: 0;
 ||aaid.umeng.com^
-padding: 20px;
+margin: 0;
 ||abtest-ch.snssdk.com^
-background-color: #f9f9f9;
-}
+padding: 20px;
 ||ad-cache.dopool.com^
-h1 {
 ||ad-cdn.qingting.fm^
-color: #333;
+background-color: #f9f9f9;
 ||ad-cmp.hismarttv.com^
-p {
+}
 ||ad-download.hismarttv.com^
-color: #666;
+h1 {
 ||ad-imp.hismarttv.com^
-a {
+color: #333;
 ||ad-scope.com^
-color: #007bff;
+p {
+color: #666;
 ||ad-scope.com.cn^
-text-decoration: none;
 ||ad-sdk-config.youdao.com^
-a:hover {
+a {
+color: #007bff;
 ||ad-sdk.huxiu.com^
-text-decoration: underline;
+text-decoration: none;
 ||ad.12306.cn^
-</style>
+a:hover {
 ||ad.51wnl.com^
-</head>
+text-decoration: underline;
 ||ad.bwton.com^
-<body>
+</style>
 ||ad.cctv.com^
+</head>
+<body>
 ||ad.cyapi.cn^
-<h1>域名已过期 | Domain Expired</h1>
-<p>
 ||ad.doubleclick.net^
-该域名已过期，5秒后将跳转到新域名。<br>
+<h1>域名已过期 | Domain Expired</h1>
 ||ad.partner.gifshow.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+<p>
 ||ad.qingting.fm^
-</p>
+该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.qq.com^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||ad.richmob.cn^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</p>
 ||ad.tencentmusic.com^
-</body>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad.toutiao.com^
-</html>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.v3mh.com^
+</body>
 ||ad.winrar.com.cn^
+</html>
 ||ad.xelements.cn^
 ||ad.xiaomi.com^
 ||ad.ximalaya.com^
