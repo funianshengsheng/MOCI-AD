@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-18 09:11:27
+! Last Modified: 2025-01-18 16:18:16
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -14,71 +14,71 @@ window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + 
 }, 5000);
 </script>
 <style>
-||8le8le.com^
 body {
-||a0.app.xiaomi.com^
-||aaid.umeng.com^
 font-family: Arial, sans-serif;
-||abtest-ch.snssdk.com^
+||8le8le.com^
+||a0.app.xiaomi.com^
 text-align: center;
-||ad-cache.dopool.com^
 margin: 0;
-||ad-cdn.qingting.fm^
-||ad-cmp.hismarttv.com^
+||aaid.umeng.com^
 padding: 20px;
-||ad-download.hismarttv.com^
+||abtest-ch.snssdk.com^
 background-color: #f9f9f9;
 }
-||ad-imp.hismarttv.com^
+||ad-cache.dopool.com^
 h1 {
-||ad-scope.com^
+||ad-cdn.qingting.fm^
 color: #333;
-||ad-scope.com.cn^
-||ad-sdk-config.youdao.com^
+||ad-cmp.hismarttv.com^
 p {
-||ad-sdk.huxiu.com^
+||ad-download.hismarttv.com^
 color: #666;
-||ad.12306.cn^
+||ad-imp.hismarttv.com^
 a {
-||ad.51wnl.com^
+||ad-scope.com^
 color: #007bff;
-||ad.bwton.com^
+||ad-scope.com.cn^
 text-decoration: none;
-||ad.cctv.com^
+||ad-sdk-config.youdao.com^
 a:hover {
-||ad.cyapi.cn^
-||ad.doubleclick.net^
+||ad-sdk.huxiu.com^
 text-decoration: underline;
-||ad.partner.gifshow.com^
+||ad.12306.cn^
 </style>
-||ad.qingting.fm^
+||ad.51wnl.com^
 </head>
-||ad.qq.com^
+||ad.bwton.com^
 <body>
-||ad.richmob.cn^
-||ad.tencentmusic.com^
+||ad.cctv.com^
+||ad.cyapi.cn^
 <h1>域名已过期 | Domain Expired</h1>
-||ad.toutiao.com^
 <p>
-||ad.v3mh.com^
+||ad.doubleclick.net^
 该域名已过期，5秒后将跳转到新域名。<br>
+||ad.partner.gifshow.com^
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+||ad.qingting.fm^
+</p>
+||ad.qq.com^
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+||ad.richmob.cn^
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+||ad.tencentmusic.com^
+</body>
+||ad.toutiao.com^
+</html>
+||ad.v3mh.com^
 ||ad.winrar.com.cn^
 ||ad.xelements.cn^
 ||ad.xiaomi.com^
 ||ad.ximalaya.com^
 ||ad.zijieapi.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||adapi.izuiyou.com^
-</p>
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||adc.hpplay.cn^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
-</body>
-</html>
 ||adclick.g.doubleclick.net^
 ||adclick.tencentmusic.com^
 ||adcolony.com^
