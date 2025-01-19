@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-19 00:17:29
+! Last Modified: 2025-01-19 09:18:54
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -10,65 +10,65 @@
 <script>
 setTimeout(() => {
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-||1010pic.com^
 }, 5000);
 </script>
 <style>
 body {
-||8le8le.com^
 font-family: Arial, sans-serif;
-||a0.app.xiaomi.com^
 text-align: center;
-||aaid.umeng.com^
 margin: 0;
-||abtest-ch.snssdk.com^
 padding: 20px;
-||ad-cache.dopool.com^
-||ad-cdn.qingting.fm^
 background-color: #f9f9f9;
-||ad-cmp.hismarttv.com^
 }
-||ad-download.hismarttv.com^
 h1 {
-||ad-imp.hismarttv.com^
 color: #333;
-||ad-scope.com^
 p {
 color: #666;
-||ad-scope.com.cn^
-||ad-sdk-config.youdao.com^
 a {
 color: #007bff;
-||ad-sdk.huxiu.com^
 text-decoration: none;
-||ad.12306.cn^
 a:hover {
-||ad.51wnl.com^
 text-decoration: underline;
-||ad.bwton.com^
 </style>
-||ad.cctv.com^
 </head>
 <body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>
+||1010pic.com^
+||8le8le.com^
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
+||abtest-ch.snssdk.com^
+||ad-cache.dopool.com^
+||ad-cdn.qingting.fm^
+||ad-cmp.hismarttv.com^
+||ad-download.hismarttv.com^
+||ad-imp.hismarttv.com^
+||ad-scope.com^
+||ad-scope.com.cn^
+||ad-sdk-config.youdao.com^
+||ad-sdk.huxiu.com^
+||ad.12306.cn^
+||ad.51wnl.com^
+||ad.bwton.com^
+||ad.cctv.com^
 ||ad.cyapi.cn^
 ||ad.doubleclick.net^
-<h1>域名已过期 | Domain Expired</h1>
 ||ad.partner.gifshow.com^
-<p>
 ||ad.qingting.fm^
-该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.qq.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||ad.richmob.cn^
-</p>
 ||ad.tencentmusic.com^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad.toutiao.com^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.v3mh.com^
-</body>
 ||ad.winrar.com.cn^
-</html>
 ||ad.xelements.cn^
 ||ad.xiaomi.com^
 ||ad.ximalaya.com^
