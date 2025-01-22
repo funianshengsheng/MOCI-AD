@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-01-22 00:19:52
+# Last Modified: 2025-01-22 09:15:11
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	8le8le.com
@@ -149,7 +149,6 @@
 0.0.0.0	analysis.yozocloud.cn
 0.0.0.0	analytics-api.samsunghealthcn.com
 0.0.0.0	analytics.126.net
-0.0.0.0	analytics.95516.com
 0.0.0.0	analytics.google.com
 0.0.0.0	analytics.pinterest.com
 0.0.0.0	analytics.pointdrive.linkedin.com

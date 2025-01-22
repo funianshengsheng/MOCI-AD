@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-22 00:19:52
+! Last Modified: 2025-01-22 09:15:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||8le8le.com^
@@ -129,96 +129,55 @@
 ||adx-bj.anythinktech.com^
 ||adx-cn.anythinktech.com^
 ||adx-drcn.op.dbankcloud.cn^
-<!DOCTYPE html>
 ||adx-open-service.youku.com^
-<html lang="en">
-<head>
 ||adx-os.anythinktech.com^
-<meta charset="UTF-8">
 ||adx.ads.heytapmobi.com^
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ||adx.ads.oppomobile.com^
-<title>Domain Expired</title>
-<script>
 ||adxlog-adnet.vivo.com.cn^
 ||adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn^
-setTimeout(() => {
 ||adxserver.ad.cmvideo.cn^
-window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 ||aegis.qq.com^
-}, 5000);
-</script>
 ||afs.googlesyndication.com^
-<style>
 ||aiseet.aa.atianqi.com^
 ||ali-ad.a.yximgs.com^
-body {
 ||alog.umeng.com^
-font-family: Arial, sans-serif;
 ||alogus.umeng.com^
-text-align: center;
 ||als.baidu.com^
-margin: 0;
 ||amdcopen.m.taobao.com^
 ||amdcopen.m.umeng.com^
-padding: 20px;
 ||an.facebook.com^
-background-color: #f9f9f9;
 ||analysis.yozocloud.cn^
-}
-h1 {
 ||analytics-api.samsunghealthcn.com^
-color: #333;
 ||analytics.126.net^
-||analytics.95516.com^
-p {
 ||analytics.google.com^
-color: #666;
 ||analytics.pinterest.com^
 ||analytics.pointdrive.linkedin.com^
-a {
 ||analytics.query.yahoo.com^
-color: #007bff;
 ||analytics.rayjump.com^
-text-decoration: none;
 ||analytics.s3.amazonaws.com^
-a:hover {
 ||analytics.tiktok.com^
 ||analytics.woozooo.com^
-text-decoration: underline;
 ||analyticsengine.s3.amazonaws.com^
-</style>
 ||analyze.lemurbrowser.com^
 ||andrqd.play.aiseet.atianqi.com^
 ||ap.dongqiudi.com^
-</head>
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
-<body>
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||api-access.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao1.com^
-<h1>域名已过期 | Domain Expired</h1>
 ||api-access.pangolin-sdk-toutiao2.com^
-<p>
 ||api-access.pangolin-sdk-toutiao3.com^
-该域名已过期，5秒后将跳转到新域名。<br>
 ||api-access.pangolin-sdk-toutiao4.com^
 ||api-access.pangolin-sdk-toutiao5.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||api-ad-product.huxiu.com^
-</p>
 ||api-adservices.apple.com^
 ||api-gd.hiaiabc.com^
 ||api-htp.beizi.biz^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||api.ad.xiaomi.com^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||api.e.kuaishou.com^
 ||api.htp.hubcloud.com.cn^
-</body>
 ||api.hzsanjiaomao.com^
-</html>
 ||api.installer.xiaomi.com^
 ||api.jietuhb.com^
 ||api.kingdata.ksyun.com^
@@ -794,3 +753,43 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Domain Expired</title>
+<script>
+setTimeout(() => {
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
+}, 5000);
+</script>
+<style>
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 0;
+padding: 20px;
+background-color: #f9f9f9;
+}
+h1 {
+color: #333;
+p {
+color: #666;
+a {
+color: #007bff;
+text-decoration: none;
+a:hover {
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>

@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2025-01-22 00:19:52
+#Last Modified: 2025-01-22 09:15:11
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1010pic.com"
@@ -150,7 +150,6 @@ payload:
   - "+.analysis.yozocloud.cn"
   - "+.analytics-api.samsunghealthcn.com"
   - "+.analytics.126.net"
-  - "+.analytics.95516.com"
   - "+.analytics.google.com"
   - "+.analytics.pinterest.com"
   - "+.analytics.pointdrive.linkedin.com"
