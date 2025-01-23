@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-23 00:20:23
+! Last Modified: 2025-01-23 09:13:42
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -9,38 +9,53 @@
 <title>Domain Expired</title>
 <script>
 setTimeout(() => {
-||1010pic.com^
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 }, 5000);
 </script>
 <style>
-||8le8le.com^
 body {
-||a0.app.xiaomi.com^
 font-family: Arial, sans-serif;
-||aaid.umeng.com^
 text-align: center;
-||abtest-ch.snssdk.com^
 margin: 0;
+padding: 20px;
+background-color: #f9f9f9;
+}
+h1 {
+color: #333;
+p {
+color: #666;
+a {
+color: #007bff;
+text-decoration: none;
+a:hover {
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>
+||1010pic.com^
+||8le8le.com^
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
+||abtest-ch.snssdk.com^
 ||ad-cache.dopool.com^
 ||ad-cdn.qingting.fm^
-padding: 20px;
 ||ad-cmp.hismarttv.com^
-background-color: #f9f9f9;
 ||ad-download.hismarttv.com^
-}
 ||ad-imp.hismarttv.com^
-h1 {
 ||ad-scope.com^
-color: #333;
 ||ad-scope.com.cn^
-p {
 ||ad-sdk-config.youdao.com^
-color: #666;
 ||ad-sdk.huxiu.com^
-a {
 ||ad.12306.cn^
-color: #007bff;
 ||ad.51wnl.com^
 ||ad.bwton.com^
 ||ad.cctv.com^
@@ -49,36 +64,21 @@ color: #007bff;
 ||ad.partner.gifshow.com^
 ||ad.qingting.fm^
 ||ad.qq.com^
-text-decoration: none;
 ||ad.richmob.cn^
 ||ad.tencentmusic.com^
-a:hover {
 ||ad.toutiao.com^
-text-decoration: underline;
 ||ad.v3mh.com^
-</style>
 ||ad.winrar.com.cn^
-</head>
 ||ad.xelements.cn^
-<body>
 ||ad.xiaomi.com^
-<h1>域名已过期 | Domain Expired</h1>
 ||ad.ximalaya.com^
-<p>
 ||ad.zijieapi.com^
-该域名已过期，5秒后将跳转到新域名。<br>
 ||adapi.izuiyou.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||adapi.yynetwk.com^
-</p>
 ||adashbc.ut.taobao.com^
 ||adc.hpplay.cn^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
-</body>
-</html>
 ||adclick.g.doubleclick.net^
 ||adclick.tencentmusic.com^
 ||adcolony.com^
