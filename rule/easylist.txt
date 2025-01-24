@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-24 16:20:35
+! Last Modified: 2025-01-25 00:19:34
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -8,67 +8,67 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Domain Expired</title>
 <script>
-||1010pic.com^
 setTimeout(() => {
+||1010pic.com^
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 }, 5000);
-||8le8le.com^
 </script>
 <style>
-||a0.app.xiaomi.com^
+||8le8le.com^
 body {
-||aaid.umeng.com^
-||abtest-ch.snssdk.com^
+||a0.app.xiaomi.com^
 font-family: Arial, sans-serif;
-||ad-cache.dopool.com^
+||aaid.umeng.com^
 text-align: center;
-||ad-cdn.qingting.fm^
+||abtest-ch.snssdk.com^
 margin: 0;
 padding: 20px;
-||ad-cmp.hismarttv.com^
-||ad-download.hismarttv.com^
+||ad-cache.dopool.com^
+||ad-cdn.qingting.fm^
 background-color: #f9f9f9;
-||ad-imp.hismarttv.com^
+||ad-cmp.hismarttv.com^
 }
 h1 {
-||ad-scope.com^
+||ad-download.hismarttv.com^
 color: #333;
-||ad-scope.com.cn^
-||ad-sdk-config.youdao.com^
+||ad-imp.hismarttv.com^
 p {
+||ad-scope.com^
 color: #666;
-||ad-sdk.huxiu.com^
+||ad-scope.com.cn^
 a {
-||ad.12306.cn^
 color: #007bff;
-||ad.51wnl.com^
 text-decoration: none;
-||ad.bwton.com^
 a:hover {
-||ad.cctv.com^
+||ad-sdk-config.youdao.com^
 text-decoration: underline;
-||ad.cyapi.cn^
+||ad-sdk.huxiu.com^
+||ad.12306.cn^
 </style>
-||ad.doubleclick.net^
 </head>
-||ad.partner.gifshow.com^
+||ad.51wnl.com^
 <body>
-||ad.qingting.fm^
+||ad.bwton.com^
+||ad.cctv.com^
 <h1>域名已过期 | Domain Expired</h1>
 <p>
+||ad.cyapi.cn^
+||ad.doubleclick.net^
+||ad.partner.gifshow.com^
 该域名已过期，5秒后将跳转到新域名。<br>
+||ad.qingting.fm^
 ||ad.qq.com^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-||ad.richmob.cn^
 </p>
+||ad.richmob.cn^
 ||ad.tencentmusic.com^
 如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad.toutiao.com^
-||ad.v3mh.com^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-||ad.winrar.com.cn^
+||ad.v3mh.com^
 </body>
 </html>
+||ad.winrar.com.cn^
 ||ad.xelements.cn^
 ||ad.xiaomi.com^
 ||ad.ximalaya.com^
