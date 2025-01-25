@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-25 00:19:34
+! Last Modified: 2025-01-25 09:10:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -9,64 +9,64 @@
 <title>Domain Expired</title>
 <script>
 setTimeout(() => {
-||1010pic.com^
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
+||1010pic.com^
 }, 5000);
 </script>
 <style>
-||8le8le.com^
 body {
-||a0.app.xiaomi.com^
 font-family: Arial, sans-serif;
-||aaid.umeng.com^
+||8le8le.com^
 text-align: center;
-||abtest-ch.snssdk.com^
 margin: 0;
+||a0.app.xiaomi.com^
 padding: 20px;
+||aaid.umeng.com^
+||abtest-ch.snssdk.com^
+background-color: #f9f9f9;
 ||ad-cache.dopool.com^
 ||ad-cdn.qingting.fm^
-background-color: #f9f9f9;
-||ad-cmp.hismarttv.com^
 }
+||ad-cmp.hismarttv.com^
 h1 {
 ||ad-download.hismarttv.com^
 color: #333;
 ||ad-imp.hismarttv.com^
-p {
 ||ad-scope.com^
+p {
 color: #666;
 ||ad-scope.com.cn^
+||ad-sdk-config.youdao.com^
 a {
 color: #007bff;
-text-decoration: none;
-a:hover {
-||ad-sdk-config.youdao.com^
-text-decoration: underline;
 ||ad-sdk.huxiu.com^
 ||ad.12306.cn^
+text-decoration: none;
+||ad.51wnl.com^
+a:hover {
+||ad.bwton.com^
+text-decoration: underline;
+||ad.cctv.com^
 </style>
 </head>
-||ad.51wnl.com^
-<body>
-||ad.bwton.com^
-||ad.cctv.com^
-<h1>域名已过期 | Domain Expired</h1>
-<p>
 ||ad.cyapi.cn^
+<body>
 ||ad.doubleclick.net^
 ||ad.partner.gifshow.com^
+<h1>域名已过期 | Domain Expired</h1>
+<p>
 该域名已过期，5秒后将跳转到新域名。<br>
-||ad.qingting.fm^
-||ad.qq.com^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+||ad.qingting.fm^
 </p>
+||ad.qq.com^
 ||ad.richmob.cn^
-||ad.tencentmusic.com^
 如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-||ad.toutiao.com^
+||ad.tencentmusic.com^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-||ad.v3mh.com^
+||ad.toutiao.com^
 </body>
+||ad.v3mh.com^
 </html>
 ||ad.winrar.com.cn^
 ||ad.xelements.cn^
