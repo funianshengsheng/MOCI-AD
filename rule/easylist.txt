@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-25 09:10:10
+! Last Modified: 2025-01-25 16:19:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -10,54 +10,54 @@
 <script>
 setTimeout(() => {
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-||1010pic.com^
 }, 5000);
+||1010pic.com^
 </script>
 <style>
 body {
 font-family: Arial, sans-serif;
 ||8le8le.com^
+||a0.app.xiaomi.com^
 text-align: center;
 margin: 0;
-||a0.app.xiaomi.com^
-padding: 20px;
 ||aaid.umeng.com^
+padding: 20px;
 ||abtest-ch.snssdk.com^
 background-color: #f9f9f9;
 ||ad-cache.dopool.com^
-||ad-cdn.qingting.fm^
 }
-||ad-cmp.hismarttv.com^
+||ad-cdn.qingting.fm^
 h1 {
-||ad-download.hismarttv.com^
+||ad-cmp.hismarttv.com^
 color: #333;
+||ad-download.hismarttv.com^
 ||ad-imp.hismarttv.com^
-||ad-scope.com^
 p {
+||ad-scope.com^
 color: #666;
 ||ad-scope.com.cn^
-||ad-sdk-config.youdao.com^
 a {
+||ad-sdk-config.youdao.com^
 color: #007bff;
 ||ad-sdk.huxiu.com^
-||ad.12306.cn^
 text-decoration: none;
-||ad.51wnl.com^
+||ad.12306.cn^
 a:hover {
-||ad.bwton.com^
+||ad.51wnl.com^
 text-decoration: underline;
-||ad.cctv.com^
+||ad.bwton.com^
 </style>
+||ad.cctv.com^
 </head>
-||ad.cyapi.cn^
 <body>
-||ad.doubleclick.net^
-||ad.partner.gifshow.com^
+||ad.cyapi.cn^
 <h1>域名已过期 | Domain Expired</h1>
+||ad.doubleclick.net^
 <p>
+||ad.partner.gifshow.com^
 该域名已过期，5秒后将跳转到新域名。<br>
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||ad.qingting.fm^
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 </p>
 ||ad.qq.com^
 ||ad.richmob.cn^
@@ -65,8 +65,8 @@ The domain you are visiting has expired. You will be redirected to a new domain 
 ||ad.tencentmusic.com^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.toutiao.com^
-</body>
 ||ad.v3mh.com^
+</body>
 </html>
 ||ad.winrar.com.cn^
 ||ad.xelements.cn^
