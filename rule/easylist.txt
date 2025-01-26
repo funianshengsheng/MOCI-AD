@@ -1,46 +1,6 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-01-26 00:19:09
+! Last Modified: 2025-01-26 09:16:00
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Domain Expired</title>
-<script>
-setTimeout(() => {
-window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-}, 5000);
-</script>
-<style>
-body {
-font-family: Arial, sans-serif;
-text-align: center;
-margin: 0;
-padding: 20px;
-background-color: #f9f9f9;
-}
-h1 {
-color: #333;
-p {
-color: #666;
-a {
-color: #007bff;
-text-decoration: none;
-a:hover {
-text-decoration: underline;
-</style>
-</head>
-<body>
-<h1>域名已过期 | Domain Expired</h1>
-<p>
-该域名已过期，5秒后将跳转到新域名。<br>
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-</p>
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-</body>
-</html>
 ||1010pic.com^
 ||8le8le.com^
 ||a0.app.xiaomi.com^
@@ -273,66 +233,106 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||ccs.umeng.com^
 ||cctv.adsunion.com^
 ||cdn-ad.wtzw.com^
+<!DOCTYPE html>
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
+<html lang="en">
+<head>
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
+<meta charset="UTF-8">
 ||cdn.ad.xiaomi.com^
 ||cdn.aiclk.com^
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ||cdn.ynuf.aliapp.org^
+<title>Domain Expired</title>
+<script>
 ||cfg.imtt.qq.com^
 ||chat1.jd.com^
+setTimeout(() => {
 ||chiq-cloud.com^
 ||cj.qidian.com^
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 ||ck.ads.oppomobile.com^
+}, 5000);
+</script>
 ||click.googleanalytics.com^
+<style>
 ||click.oneplus.cn^
+body {
 ||clog.miguvideo.com^
 ||cnlogs.umeng.com^
+font-family: Arial, sans-serif;
 ||cnlogs.umengcloud.com^
+text-align: center;
 ||cnzz.com^
 ||collect.kugou.com^
+margin: 0;
 ||commdata.v.qq.com^
+padding: 20px;
 ||config.chsmarttv.com^
 ||config.unityads.unity3d.com^
+background-color: #f9f9f9;
 ||cpc-service-square.aiclk.com^
+}
 ||cpro.baidustatic.com^
+h1 {
 ||crashlytics.com^
+color: #333;
 ||crashlyticsreports-pa.googleapis.com^
 ||csjplatform.com^
 ||cws-cctv.conviva.com^
 ||data.ads.oppomobile.com^
+p {
 ||data.chsmarttv.com^
+color: #666;
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
+a {
 ||data.mistat.xiaomi.com^
+color: #007bff;
 ||dc.sigmob.cn^
+text-decoration: none;
 ||diagnosis.ad.xiaomi.com^
 ||dig.bdurl.net^
+a:hover {
 ||dl.zuimeitianqi.com^
+text-decoration: underline;
 ||dlogs.bwton.com^
 ||dm.toutiao.com^
+</style>
 ||domain.aishengji.com^
+</head>
 ||doubleclick-cn.net^
+<body>
 ||download.changhong.upgrade2.huan.tv^
 ||downloadxml.changhong.upgrade2.huan.tv^
 ||drcn-weather.cloud.huawei.com^
 ||dsp-x.jd.com^
 ||dsp.fcbox.com^
+<h1>域名已过期 | Domain Expired</h1>
 ||dualstack-logs.amap.com^
 ||dutils.com^
+<p>
 ||dxp.baidu.com^
 ||e.ad.xiaomi.com^
 ||eclick.baidu.com^
+该域名已过期，5秒后将跳转到新域名。<br>
 ||edge.ads.twitch.tv^
 ||ef-dongfeng.tanx.com^
 ||entry.baidu.com^
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||errlog.umeng.com^
+</p>
 ||errnewlog.umeng.com^
 ||event.tradplusad.com^
 ||events-drcn.op.dbankcloud.cn^
 ||events.reddit.com^
 ||events.redditmedia.com^
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||fclog.baidu.com^
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||feed-image.baidu.com^
+</body>
+</html>
 ||file.daihuo.qq.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
