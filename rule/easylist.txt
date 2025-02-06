@@ -1,6 +1,46 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-02-06 00:20:12
+! Last Modified: 2025-02-06 09:15:16
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Domain Expired</title>
+<script>
+setTimeout(() => {
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
+}, 5000);
+</script>
+<style>
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 0;
+padding: 20px;
+background-color: #f9f9f9;
+}
+h1 {
+color: #333;
+p {
+color: #666;
+a {
+color: #007bff;
+text-decoration: none;
+a:hover {
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>
 ||1010pic.com^
 ||8le8le.com^
 ||a0.app.xiaomi.com^
@@ -66,98 +106,58 @@
 ||ads.google.cn^
 ||ads.heytapmobi.com^
 ||ads.huan.tv^
-<!DOCTYPE html>
 ||ads.huantest.com^
-<html lang="en">
 ||ads.icloseli.cn^
-<head>
 ||ads.linkedin.com^
-<meta charset="UTF-8">
 ||ads.music.126.net^
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ||ads.oppomobile.com^
 ||ads.pinterest.com^
 ||ads.servebom.com^
 ||ads.service.kugou.com^
-<title>Domain Expired</title>
 ||ads.tiktok.com^
-<script>
 ||ads.v3mh.com^
-setTimeout(() => {
 ||ads.youtube.com^
-window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 ||ads3-normal-hl.zijieapi.com^
-}, 5000);
-</script>
-<style>
 ||ads3-normal-lf.zijieapi.com^
-body {
 ||ads3-normal-lq.zijieapi.com^
-font-family: Arial, sans-serif;
 ||ads3-normal.zijieapi.com^
-text-align: center;
-margin: 0;
 ||ads5-normal-hl.zijieapi.com^
 ||ads5-normal-lf.zijieapi.com^
-padding: 20px;
 ||ads5-normal-lq.zijieapi.com^
 ||ads5-normal.zijieapi.com^
-background-color: #f9f9f9;
 ||adse.test.ximalaya.com^
-}
 ||adse.wsa.ximalaya.com^
 ||adse.ximalaya.com^
-h1 {
 ||adsebs.ximalaya.com^
-color: #333;
 ||adsense.google.cn^
 ||adserver.unityads.unity3d.com^
 ||adservice.google.cn^
-p {
-color: #666;
 ||adservice.google.com^
-a {
 ||adservice.sigmob.cn^
-color: #007bff;
 ||adserviceretry.kugou.com^
 ||adsfile.bssdlbig.kugou.com^
-text-decoration: none;
 ||adsfile.qq.com^
 ||adsfilebssdlbig.ali.kugou.com^
-a:hover {
 ||adsfileretry.service.kugou.com^
 ||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.oppomobile.com^
-text-decoration: underline;
 ||adslvfile.qq.com^
-</style>
 ||adsmart.konka.com^
-</head>
 ||adsmind.gdtimg.com^
-<body>
 ||adsmind.ugdtimg.com^
 ||adsp.xunlei.com^
 ||adstats.tencentmusic.com^
-<h1>域名已过期 | Domain Expired</h1>
-<p>
 ||adstore-1252524079.file.myqcloud.com^
-该域名已过期，5秒后将跳转到新域名。<br>
 ||adstore-index-1252524079.file.myqcloud.com^
 ||adtago.s3.amazonaws.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-</p>
 ||adtech.yahooinc.com^
 ||adtrack.quark.cn^
 ||adukwai.com^
 ||adv.fjtv.net^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||adv.sec.intl.miui.com^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||adv.sec.miui.com^
 ||advertiseonbing.azureedge.net^
-</body>
 ||advertising-api-eu.amazon.com^
-</html>
 ||advertising-api-fe.amazon.com^
 ||advertising-api.amazon.com^
 ||advertising.apple.com^
@@ -376,7 +376,6 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||hugelog.fcbox.com^
 ||huichuan.sm.cn^
 ||hw-ot-ad.a.yximgs.com^
-||hw.zuimeitianqi.com^
 ||hwpub-s01-drcn.cloud.dbankcloud.cn^
 ||hya.comp.360os.com^
 ||hybrid.miniapp.taobao.com^

@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-02-06 00:20:12
+# Last Modified: 2025-02-06 09:15:16
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	8le8le.com
@@ -336,7 +336,6 @@
 0.0.0.0	hugelog.fcbox.com
 0.0.0.0	huichuan.sm.cn
 0.0.0.0	hw-ot-ad.a.yximgs.com
-0.0.0.0	hw.zuimeitianqi.com
 0.0.0.0	hwpub-s01-drcn.cloud.dbankcloud.cn
 0.0.0.0	hya.comp.360os.com
 0.0.0.0	hybrid.miniapp.taobao.com

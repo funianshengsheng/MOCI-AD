@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2025-02-06 00:20:12
+#Last Modified: 2025-02-06 09:15:16
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1010pic.com"
@@ -337,7 +337,6 @@ payload:
   - "+.hugelog.fcbox.com"
   - "+.huichuan.sm.cn"
   - "+.hw-ot-ad.a.yximgs.com"
-  - "+.hw.zuimeitianqi.com"
   - "+.hwpub-s01-drcn.cloud.dbankcloud.cn"
   - "+.hya.comp.360os.com"
   - "+.hybrid.miniapp.taobao.com"
