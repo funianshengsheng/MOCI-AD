@@ -1,6 +1,46 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-02-08 00:19:42
+! Last Modified: 2025-02-08 09:12:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Domain Expired</title>
+<script>
+setTimeout(() => {
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
+}, 5000);
+</script>
+<style>
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 0;
+padding: 20px;
+background-color: #f9f9f9;
+}
+h1 {
+color: #333;
+p {
+color: #666;
+a {
+color: #007bff;
+text-decoration: none;
+a:hover {
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>
 ||1010pic.com^
 ||8le8le.com^
 ||a0.app.xiaomi.com^
@@ -111,122 +151,82 @@
 ||adstore-index-1252524079.file.myqcloud.com^
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
-<!DOCTYPE html>
 ||adtrack.quark.cn^
 ||adukwai.com^
-<html lang="en">
 ||adv.fjtv.net^
-<head>
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
-<meta charset="UTF-8">
 ||advertiseonbing.azureedge.net^
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ||advertising-api-eu.amazon.com^
-<title>Domain Expired</title>
 ||advertising-api-fe.amazon.com^
-<script>
 ||advertising-api.amazon.com^
 ||advertising.apple.com^
-setTimeout(() => {
 ||advertising.yahoo.com^
 ||advertising.yandex.ru^
-window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 ||advice-ads.s3.amazonaws.com^
-}, 5000);
 ||adview.cn^
 ||adx-ad.smart-tv.cn^
-</script>
 ||adx-bj.anythinktech.com^
-<style>
 ||adx-cn.anythinktech.com^
 ||adx-drcn.op.dbankcloud.cn^
-body {
 ||adx-open-service.youku.com^
 ||adx-os.anythinktech.com^
-font-family: Arial, sans-serif;
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
-text-align: center;
 ||adxlog-adnet.vivo.com.cn^
-margin: 0;
 ||adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn^
 ||adxserver.ad.cmvideo.cn^
-padding: 20px;
 ||aegis.qq.com^
 ||afs.googlesyndication.com^
 ||aiseet.aa.atianqi.com^
-background-color: #f9f9f9;
 ||ali-ad.a.yximgs.com^
-}
 ||alog.umeng.com^
 ||alogus.umeng.com^
-h1 {
 ||als.baidu.com^
-color: #333;
 ||amdcopen.m.taobao.com^
 ||amdcopen.m.umeng.com^
 ||an.facebook.com^
 ||analysis.yozocloud.cn^
-p {
 ||analytics-api.samsunghealthcn.com^
 ||analytics.126.net^
-color: #666;
 ||analytics.google.com^
 ||analytics.pinterest.com^
-a {
 ||analytics.pointdrive.linkedin.com^
 ||analytics.query.yahoo.com^
-color: #007bff;
 ||analytics.rayjump.com^
 ||analytics.s3.amazonaws.com^
-text-decoration: none;
 ||analytics.tiktok.com^
 ||analytics.woozooo.com^
 ||analyticsengine.s3.amazonaws.com^
-a:hover {
 ||analyze.lemurbrowser.com^
 ||andrqd.play.aiseet.atianqi.com^
-text-decoration: underline;
 ||ap.dongqiudi.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
-</style>
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
-</head>
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||api-access.pangolin-sdk-toutiao.com^
-<body>
 ||api-access.pangolin-sdk-toutiao1.com^
 ||api-access.pangolin-sdk-toutiao2.com^
 ||api-access.pangolin-sdk-toutiao3.com^
 ||api-access.pangolin-sdk-toutiao4.com^
-<h1>域名已过期 | Domain Expired</h1>
 ||api-access.pangolin-sdk-toutiao5.com^
 ||api-ad-product.huxiu.com^
-<p>
 ||api-adservices.apple.com^
 ||api-gd.hiaiabc.com^
-该域名已过期，5秒后将跳转到新域名。<br>
 ||api-htp.beizi.biz^
 ||api.ad.xiaomi.com^
 ||api.e.kuaishou.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||api.htp.hubcloud.com.cn^
-</p>
 ||api.hzsanjiaomao.com^
 ||api.installer.xiaomi.com^
 ||api.jietuhb.com^
 ||api.kingdata.ksyun.com^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||api.statsig.com^
 ||api.touch-moblie.com^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||api5-normal-quic-lf.ixigua.com^
 ||apiyd.my91app.com^
-</body>
 ||apks.webxiaobai.top^
 ||app-measurement.com^
-</html>
 ||appcfg.v.qq.com^
 ||appcloud2.in.zhihu.com^
 ||applog.lc.quark.cn^
