@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-02-11 00:20:33
+# Last Modified: 2025-02-11 09:14:51
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /8le8le.com/#
@@ -63,6 +63,7 @@ address /ads-us.tiktok.com/#
 address /ads-video-al.xhscdn.com/#
 address /ads-video-qc.xhscdn.com/#
 address /ads.95516.com/#
+address /ads.flurry.com/#
 address /ads.google.cn/#
 address /ads.heytapmobi.com/#
 address /ads.huan.tv/#
@@ -72,6 +73,7 @@ address /ads.linkedin.com/#
 address /ads.music.126.net/#
 address /ads.oppomobile.com/#
 address /ads.pinterest.com/#
+address /ads.pubmatic.com/#
 address /ads.servebom.com/#
 address /ads.service.kugou.com/#
 address /ads.tiktok.com/#
@@ -109,6 +111,8 @@ address /adsp.xunlei.com/#
 address /adstats.tencentmusic.com/#
 address /adstore-1252524079.file.myqcloud.com/#
 address /adstore-index-1252524079.file.myqcloud.com/#
+address /adstudio-assets.scdn.co/#
+address /adstudio.spotify.com/#
 address /adtago.s3.amazonaws.com/#
 address /adtech.yahooinc.com/#
 address /adtrack.quark.cn/#
@@ -326,6 +330,8 @@ address /grs.platform.dbankcloud.ru/#
 address /h-adashx.ut.taobao.com/#
 address /h.trace.qq.com/#
 address /hanlanad.com/#
+address /heads-ak.spotify.com.edgesuite.net/#
+address /heads-fa.spotify.com/#
 address /hexagon-analytics.com/#
 address /hm.baidu.com/#
 address /hmma.baidu.com/#
@@ -451,6 +457,7 @@ address /mission-pub.smart-tv.cn/#
 address /miui-fxcse.avlyun.com/#
 address /mmgame.qpic.cn/#
 address /mnqlog.ldmnq.com/#
+address /moatads.com/#
 address /mobads-logs.baidu.com/#
 address /mobads-pre-config.cdn.bcebos.com/#
 address /mobads.baidu.com/#
@@ -504,6 +511,7 @@ address /pagead2.googleadservices.com/#
 address /pagead2.googlesyndication.com/#
 address /pangolin-sdk-toutiao-b.com/#
 address /pay.sboot.cn/#
+address /pgdt.gtimg.cn/#
 address /pgdt.ugdtimg.com/#
 address /pglstatp-toutiao.com/#
 address /pig.pupuapi.com/#
@@ -639,6 +647,7 @@ address /tsvrv.com/#
 address /tvuser-ch.cedock.com/#
 address /tx-ad.a.yximgs.com/#
 address /tx-kmpaudio.pull.yximgs.com/#
+address /tytx.m.cn.miaozhen.com/#
 address /tz.sec.xiaomi.com/#
 address /uapi.ads.heytapmobi.com/#
 address /udc.yahoo.com/#
@@ -713,6 +722,7 @@ address /webstat.qiumibao.com/#
 address /webview.unityads.unity3d.com/#
 address /widgets.outbrain.com/#
 address /widgets.pinterest.com/#
+address /wildcard.moatads.com.edgekey.net/#
 address /win.gdt.qq.com/#
 address /wn.x.jd.com/#
 address /ws-keyboard.shouji.sogou.com/#

@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-02-11 00:20:33
+! Last Modified: 2025-02-11 09:14:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||8le8le.com^
@@ -63,6 +63,7 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||ads.95516.com^
+||ads.flurry.com^
 ||ads.google.cn^
 ||ads.heytapmobi.com^
 ||ads.huan.tv^
@@ -72,6 +73,7 @@
 ||ads.music.126.net^
 ||ads.oppomobile.com^
 ||ads.pinterest.com^
+||ads.pubmatic.com^
 ||ads.servebom.com^
 ||ads.service.kugou.com^
 ||ads.tiktok.com^
@@ -109,6 +111,8 @@
 ||adstats.tencentmusic.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
+||adstudio-assets.scdn.co^
+||adstudio.spotify.com^
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
 ||adtrack.quark.cn^
@@ -326,6 +330,8 @@
 ||h-adashx.ut.taobao.com^
 ||h.trace.qq.com^
 ||hanlanad.com^
+||heads-ak.spotify.com.edgesuite.net^
+||heads-fa.spotify.com^
 ||hexagon-analytics.com^
 ||hm.baidu.com^
 ||hmma.baidu.com^
@@ -451,6 +457,7 @@
 ||miui-fxcse.avlyun.com^
 ||mmgame.qpic.cn^
 ||mnqlog.ldmnq.com^
+||moatads.com^
 ||mobads-logs.baidu.com^
 ||mobads-pre-config.cdn.bcebos.com^
 ||mobads.baidu.com^
@@ -504,6 +511,7 @@
 ||pagead2.googlesyndication.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pay.sboot.cn^
+||pgdt.gtimg.cn^
 ||pgdt.ugdtimg.com^
 ||pglstatp-toutiao.com^
 ||pig.pupuapi.com^
@@ -639,6 +647,7 @@
 ||tvuser-ch.cedock.com^
 ||tx-ad.a.yximgs.com^
 ||tx-kmpaudio.pull.yximgs.com^
+||tytx.m.cn.miaozhen.com^
 ||tz.sec.xiaomi.com^
 ||uapi.ads.heytapmobi.com^
 ||udc.yahoo.com^
@@ -713,6 +722,7 @@
 ||webview.unityads.unity3d.com^
 ||widgets.outbrain.com^
 ||widgets.pinterest.com^
+||wildcard.moatads.com.edgekey.net^
 ||win.gdt.qq.com^
 ||wn.x.jd.com^
 ||ws-keyboard.shouji.sogou.com^
