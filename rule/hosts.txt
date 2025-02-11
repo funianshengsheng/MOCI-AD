@@ -1,7 +1,8 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-02-11 09:14:51
+# Last Modified: 2025-02-11 16:20:39
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
+0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	8le8le.com
 0.0.0.0	a0.app.xiaomi.com
 0.0.0.0	aaid.umeng.com
@@ -327,6 +328,7 @@
 0.0.0.0	grs.dbankcloud.com
 0.0.0.0	grs.hicloud.com
 0.0.0.0	grs.platform.dbankcloud.ru
+0.0.0.0	gvideo.qpic.cn
 0.0.0.0	h-adashx.ut.taobao.com
 0.0.0.0	h.trace.qq.com
 0.0.0.0	hanlanad.com
@@ -511,6 +513,7 @@
 0.0.0.0	pagead2.googlesyndication.com
 0.0.0.0	pangolin-sdk-toutiao-b.com
 0.0.0.0	pay.sboot.cn
+0.0.0.0	pcm-img.zhls.qq.com
 0.0.0.0	pgdt.gtimg.cn
 0.0.0.0	pgdt.ugdtimg.com
 0.0.0.0	pglstatp-toutiao.com
@@ -593,6 +596,7 @@
 0.0.0.0	stat.dongqiudi.com
 0.0.0.0	stat.y.qq.com
 0.0.0.0	static.ads-twitter.com
+0.0.0.0	static.wxqcloud.qq.com.cn
 0.0.0.0	statics.woozooo.com
 0.0.0.0	stats.qiumibao.com
 0.0.0.0	stats.wp.com
@@ -688,31 +692,8 @@
 0.0.0.0	vungle.com
 0.0.0.0	w.l.qq.com
 0.0.0.0	w1.askwai.com
-0.0.0.0	w1.bskwai.com
-0.0.0.0	w1.cskwai.com
-0.0.0.0	w1.dskwai.com
-0.0.0.0	w1.eskwai.com
-0.0.0.0	w1.fskwai.com
 0.0.0.0	w1.gskwai.com
-0.0.0.0	w1.hskwai.com
-0.0.0.0	w1.iskwai.com
-0.0.0.0	w1.jskwai.com
 0.0.0.0	w1.kskwai.com
-0.0.0.0	w1.lskwai.com
-0.0.0.0	w1.mskwai.com
-0.0.0.0	w1.nskwai.com
-0.0.0.0	w1.oskwai.com
-0.0.0.0	w1.pskwai.com
-0.0.0.0	w1.qskwai.com
-0.0.0.0	w1.rskwai.com
-0.0.0.0	w1.sskwai.com
-0.0.0.0	w1.tskwai.com
-0.0.0.0	w1.uskwai.com
-0.0.0.0	w1.vskwai.com
-0.0.0.0	w1.wskwai.com
-0.0.0.0	w1.xskwai.com
-0.0.0.0	w1.yskwai.com
-0.0.0.0	w1.zskwai.com
 0.0.0.0	watson.microsoft.com
 0.0.0.0	watson.telemetry.microsoft.com
 0.0.0.0	wcp.taobao.com

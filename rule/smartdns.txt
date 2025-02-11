@@ -1,7 +1,8 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-02-11 09:14:51
+# Last Modified: 2025-02-11 16:20:39
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
+address /1500020991.vodplayer.wxamedia.com/#
 address /8le8le.com/#
 address /a0.app.xiaomi.com/#
 address /aaid.umeng.com/#
@@ -327,6 +328,7 @@ address /gromore.pangolin-sdk-toutiao.com/#
 address /grs.dbankcloud.com/#
 address /grs.hicloud.com/#
 address /grs.platform.dbankcloud.ru/#
+address /gvideo.qpic.cn/#
 address /h-adashx.ut.taobao.com/#
 address /h.trace.qq.com/#
 address /hanlanad.com/#
@@ -511,6 +513,7 @@ address /pagead2.googleadservices.com/#
 address /pagead2.googlesyndication.com/#
 address /pangolin-sdk-toutiao-b.com/#
 address /pay.sboot.cn/#
+address /pcm-img.zhls.qq.com/#
 address /pgdt.gtimg.cn/#
 address /pgdt.ugdtimg.com/#
 address /pglstatp-toutiao.com/#
@@ -593,6 +596,7 @@ address /snowflake.qq.com/#
 address /stat.dongqiudi.com/#
 address /stat.y.qq.com/#
 address /static.ads-twitter.com/#
+address /static.wxqcloud.qq.com.cn/#
 address /statics.woozooo.com/#
 address /stats.qiumibao.com/#
 address /stats.wp.com/#
@@ -688,31 +692,8 @@ address /volc.bj.ad.track.66mobi.com/#
 address /vungle.com/#
 address /w.l.qq.com/#
 address /w1.askwai.com/#
-address /w1.bskwai.com/#
-address /w1.cskwai.com/#
-address /w1.dskwai.com/#
-address /w1.eskwai.com/#
-address /w1.fskwai.com/#
 address /w1.gskwai.com/#
-address /w1.hskwai.com/#
-address /w1.iskwai.com/#
-address /w1.jskwai.com/#
 address /w1.kskwai.com/#
-address /w1.lskwai.com/#
-address /w1.mskwai.com/#
-address /w1.nskwai.com/#
-address /w1.oskwai.com/#
-address /w1.pskwai.com/#
-address /w1.qskwai.com/#
-address /w1.rskwai.com/#
-address /w1.sskwai.com/#
-address /w1.tskwai.com/#
-address /w1.uskwai.com/#
-address /w1.vskwai.com/#
-address /w1.wskwai.com/#
-address /w1.xskwai.com/#
-address /w1.yskwai.com/#
-address /w1.zskwai.com/#
 address /watson.microsoft.com/#
 address /watson.telemetry.microsoft.com/#
 address /wcp.taobao.com/#

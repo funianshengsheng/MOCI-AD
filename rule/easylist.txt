@@ -1,47 +1,8 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-02-11 09:14:51
+! Last Modified: 2025-02-11 16:20:39
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Domain Expired</title>
-<script>
-setTimeout(() => {
-window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-}, 5000);
-</script>
-<style>
-body {
-font-family: Arial, sans-serif;
-text-align: center;
-margin: 0;
-padding: 20px;
-background-color: #f9f9f9;
-}
-h1 {
-color: #333;
-p {
-color: #666;
-a {
-color: #007bff;
-text-decoration: none;
-a:hover {
-text-decoration: underline;
-</style>
-</head>
-<body>
-<h1>域名已过期 | Domain Expired</h1>
-<p>
-该域名已过期，5秒后将跳转到新域名。<br>
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-</p>
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-</body>
-</html>
 ||1010pic.com^
+||1500020991.vodplayer.wxamedia.com^
 ||8le8le.com^
 ||a0.app.xiaomi.com^
 ||aaid.umeng.com^
@@ -367,6 +328,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||grs.dbankcloud.com^
 ||grs.hicloud.com^
 ||grs.platform.dbankcloud.ru^
+||gvideo.qpic.cn^
 ||h-adashx.ut.taobao.com^
 ||h.trace.qq.com^
 ||hanlanad.com^
@@ -551,6 +513,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||pagead2.googlesyndication.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pay.sboot.cn^
+||pcm-img.zhls.qq.com^
 ||pgdt.gtimg.cn^
 ||pgdt.ugdtimg.com^
 ||pglstatp-toutiao.com^
@@ -633,6 +596,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||stat.dongqiudi.com^
 ||stat.y.qq.com^
 ||static.ads-twitter.com^
+||static.wxqcloud.qq.com.cn^
 ||statics.woozooo.com^
 ||stats.qiumibao.com^
 ||stats.wp.com^
@@ -728,31 +692,8 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||vungle.com^
 ||w.l.qq.com^
 ||w1.askwai.com^
-||w1.bskwai.com^
-||w1.cskwai.com^
-||w1.dskwai.com^
-||w1.eskwai.com^
-||w1.fskwai.com^
 ||w1.gskwai.com^
-||w1.hskwai.com^
-||w1.iskwai.com^
-||w1.jskwai.com^
 ||w1.kskwai.com^
-||w1.lskwai.com^
-||w1.mskwai.com^
-||w1.nskwai.com^
-||w1.oskwai.com^
-||w1.pskwai.com^
-||w1.qskwai.com^
-||w1.rskwai.com^
-||w1.sskwai.com^
-||w1.tskwai.com^
-||w1.uskwai.com^
-||w1.vskwai.com^
-||w1.wskwai.com^
-||w1.xskwai.com^
-||w1.yskwai.com^
-||w1.zskwai.com^
 ||watson.microsoft.com^
 ||watson.telemetry.microsoft.com^
 ||wcp.taobao.com^
@@ -802,3 +743,43 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Domain Expired</title>
+<script>
+setTimeout(() => {
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
+}, 5000);
+</script>
+<style>
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 0;
+padding: 20px;
+background-color: #f9f9f9;
+}
+h1 {
+color: #333;
+p {
+color: #666;
+a {
+color: #007bff;
+text-decoration: none;
+a:hover {
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>
