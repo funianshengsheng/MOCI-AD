@@ -1,46 +1,6 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-02-16 16:18:44
+! Last Modified: 2025-02-17 00:17:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Domain Expired</title>
-<script>
-setTimeout(() => {
-window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-}, 5000);
-</script>
-<style>
-body {
-font-family: Arial, sans-serif;
-text-align: center;
-margin: 0;
-padding: 20px;
-background-color: #f9f9f9;
-}
-h1 {
-color: #333;
-p {
-color: #666;
-a {
-color: #007bff;
-text-decoration: none;
-a:hover {
-text-decoration: underline;
-</style>
-</head>
-<body>
-<h1>域名已过期 | Domain Expired</h1>
-<p>
-该域名已过期，5秒后将跳转到新域名。<br>
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-</p>
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-</body>
-</html>
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
 ||8le8le.com^
@@ -472,41 +432,62 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||logrcv.aiclk.com^
 ||logs.amap.com^
 ||logservice.hicloud.com^
+<!DOCTYPE html>
 ||logservice1.hicloud.com^
 ||logtj.kugou.com^
+<html lang="en">
 ||logupdate.avlyun.sec.miui.com^
 ||luimg.baidu.com^
+<head>
 ||m-adnet.hiaiabc.com^
+<meta charset="UTF-8">
 ||m.ad.zhangyue.com^
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ||m.atm.youku.com^
+<title>Domain Expired</title>
 ||m.kubiqq.com^
+<script>
 ||m1.ad.10010.com^
 ||mapi.m.jd.com^
+setTimeout(() => {
 ||masdkv6.3g.qq.com^
 ||mazu.m.qq.com^
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 ||mbdlog.iqiyi.com^
+}, 5000);
 ||metrics.apple.com^
 ||metrics.data.hicloud.com^
+</script>
 ||metrics.icloud.com^
+<style>
 ||metrics.mzstatic.com^
 ||metrics2.data.hicloud.com^
+body {
 ||metrika.yandex.ru^
+font-family: Arial, sans-serif;
 ||mi.gdt.qq.com^
 ||miav-cse.avlyun.com^
+text-align: center;
 ||mime.baidu.com^
 ||mine.baidu.com^
+margin: 0;
 ||mission-pub.smart-tv.cn^
+padding: 20px;
 ||miui-fxcse.avlyun.com^
 ||mmgame.qpic.cn^
 ||mnqlog.ldmnq.com^
 ||moatads.com^
+background-color: #f9f9f9;
 ||mobads-logs.baidu.com^
 ||mobads-pre-config.cdn.bcebos.com^
+}
 ||mobads.baidu.com^
 ||mobile.da.mgtv.com^
 ||mobilelog.upqzfile.com^
+h1 {
 ||mobileservice.cn^
 ||mon.zijieapi.com^
+color: #333;
 ||monitor-ads-test.huan.tv^
 ||monitor-uu.play.aiseet.atianqi.com^
 ||monitor.music.qq.com^
@@ -514,17 +495,32 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||monsetting.toutiao.com^
 ||mssdk.volces.com^
 ||mssdk.zijieapi.com^
+p {
 ||mtj.baidu.com^
 ||nadvideo2.baidu.com^
+color: #666;
 ||newvoice.chiq5.smart-tv.cn^
 ||nmetrics.samsung.com^
 ||notes-analytics-events.apple.com^
+a {
 ||nsclick.baidu.com^
+color: #007bff;
 ||o2o.api.xiaomi.com^
+text-decoration: none;
 ||oauth-login-drcn.platform.dbankcloud.com^
 ||offerwall.yandex.net^
+a:hover {
 ||omgmta.play.aiseet.atianqi.com^
 ||open.e.kuaishou.cn^
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
 ||open.e.kuaishou.com^
 ||open.kuaishouzt.com^
 ||open.kwaizt.com^
@@ -554,10 +550,14 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||pangolin-sdk-toutiao-b.com^
 ||pay.sboot.cn^
 ||pcm-img.zhls.qq.com^
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||pgdt.gtimg.cn^
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||pgdt.ugdtimg.com^
 ||pglstatp-toutiao.com^
+</body>
 ||pig.pupuapi.com^
+</html>
 ||pixon.ads-pixiv.net^
 ||pkoplink.com^
 ||plbslog.umeng.com^
