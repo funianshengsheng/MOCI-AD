@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-02-17 09:18:14
+! Last Modified: 2025-02-17 16:22:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -14,61 +14,61 @@ window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + 
 }, 5000);
 </script>
 <style>
-body {
 ||1500020991.vodplayer.wxamedia.com^
-font-family: Arial, sans-serif;
+body {
 ||8le8le.com^
-text-align: center;
 ||a0.app.xiaomi.com^
-margin: 0;
-padding: 20px;
+font-family: Arial, sans-serif;
 ||aaid.umeng.com^
+text-align: center;
 ||abtest-ch.snssdk.com^
+margin: 0;
+||ad-cache.dopool.com^
+padding: 20px;
+||ad-cdn.qingting.fm^
+||ad-cmp.hismarttv.com^
 background-color: #f9f9f9;
 }
-||ad-cache.dopool.com^
-h1 {
-||ad-cdn.qingting.fm^
-color: #333;
-||ad-cmp.hismarttv.com^
 ||ad-download.hismarttv.com^
+h1 {
+||ad-imp.hismarttv.com^
+color: #333;
+||ad-scope.com^
+||ad-scope.com.cn^
 p {
 color: #666;
-||ad-imp.hismarttv.com^
-||ad-scope.com^
-a {
-||ad-scope.com.cn^
-color: #007bff;
 ||ad-sdk-config.youdao.com^
-text-decoration: none;
 ||ad-sdk.huxiu.com^
-a:hover {
+a {
+color: #007bff;
 ||ad.12306.cn^
-text-decoration: underline;
+text-decoration: none;
 ||ad.51wnl.com^
-</style>
+a:hover {
 ||ad.bwton.com^
-</head>
-<body>
+text-decoration: underline;
 ||ad.cctv.com^
+</style>
+</head>
 ||ad.cyapi.cn^
-<h1>域名已过期 | Domain Expired</h1>
-<p>
+<body>
 ||ad.doubleclick.net^
+<h1>域名已过期 | Domain Expired</h1>
 ||ad.partner.gifshow.com^
+<p>
 该域名已过期，5秒后将跳转到新域名。<br>
-||ad.qingting.fm^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 </p>
-||ad.qq.com^
-||ad.richmob.cn^
 如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-||ad.tencentmusic.com^
+||ad.qingting.fm^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-||ad.toutiao.com^
+||ad.qq.com^
 </body>
-||ad.v3mh.com^
 </html>
+||ad.richmob.cn^
+||ad.tencentmusic.com^
+||ad.toutiao.com^
+||ad.v3mh.com^
 ||ad.winrar.com.cn^
 ||ad.xelements.cn^
 ||ad.xiaomi.com^
