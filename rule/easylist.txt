@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-02-17 16:22:50
+! Last Modified: 2025-02-18 00:20:13
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -9,62 +9,62 @@
 <title>Domain Expired</title>
 <script>
 setTimeout(() => {
-||1010pic.com^
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 }, 5000);
 </script>
 <style>
-||1500020991.vodplayer.wxamedia.com^
 body {
-||8le8le.com^
-||a0.app.xiaomi.com^
+||1010pic.com^
 font-family: Arial, sans-serif;
-||aaid.umeng.com^
 text-align: center;
-||abtest-ch.snssdk.com^
 margin: 0;
-||ad-cache.dopool.com^
 padding: 20px;
-||ad-cdn.qingting.fm^
-||ad-cmp.hismarttv.com^
+||1500020991.vodplayer.wxamedia.com^
 background-color: #f9f9f9;
+||8le8le.com^
 }
-||ad-download.hismarttv.com^
+||a0.app.xiaomi.com^
 h1 {
-||ad-imp.hismarttv.com^
+||aaid.umeng.com^
+||abtest-ch.snssdk.com^
 color: #333;
-||ad-scope.com^
-||ad-scope.com.cn^
 p {
 color: #666;
-||ad-sdk-config.youdao.com^
-||ad-sdk.huxiu.com^
+||ad-cache.dopool.com^
+||ad-cdn.qingting.fm^
 a {
+||ad-cmp.hismarttv.com^
 color: #007bff;
-||ad.12306.cn^
+||ad-download.hismarttv.com^
+||ad-imp.hismarttv.com^
 text-decoration: none;
-||ad.51wnl.com^
+||ad-scope.com^
+||ad-scope.com.cn^
 a:hover {
-||ad.bwton.com^
+||ad-sdk-config.youdao.com^
 text-decoration: underline;
-||ad.cctv.com^
+||ad-sdk.huxiu.com^
 </style>
+||ad.12306.cn^
 </head>
-||ad.cyapi.cn^
 <body>
-||ad.doubleclick.net^
+||ad.51wnl.com^
 <h1>域名已过期 | Domain Expired</h1>
-||ad.partner.gifshow.com^
+||ad.bwton.com^
 <p>
+||ad.cctv.com^
 该域名已过期，5秒后将跳转到新域名。<br>
+||ad.cyapi.cn^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+||ad.doubleclick.net^
 </p>
+||ad.partner.gifshow.com^
 如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-||ad.qingting.fm^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-||ad.qq.com^
+||ad.qingting.fm^
 </body>
 </html>
+||ad.qq.com^
 ||ad.richmob.cn^
 ||ad.tencentmusic.com^
 ||ad.toutiao.com^
