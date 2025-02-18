@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-02-18 16:21:04
+# Last Modified: 2025-02-19 00:20:53
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /1500020991.vodplayer.wxamedia.com/#
@@ -34,6 +34,7 @@ address /ad.xelements.cn/#
 address /ad.xiaomi.com/#
 address /ad.ximalaya.com/#
 address /ad.zijieapi.com/#
+address /ad2.ettoday.net/#
 address /adapi.izuiyou.com/#
 address /adapi.yynetwk.com/#
 address /adashbc.ut.taobao.com/#
@@ -270,6 +271,7 @@ address /data.mistat.india.xiaomi.com/#
 address /data.mistat.rus.xiaomi.com/#
 address /data.mistat.xiaomi.com/#
 address /dc.sigmob.cn/#
+address /de.tynt.com/#
 address /diagnosis.ad.xiaomi.com/#
 address /dig.bdurl.net/#
 address /dl.zuimeitianqi.com/#
@@ -368,6 +370,7 @@ address /img-x.jd.com/#
 address /img.adnyg.com/#
 address /img.adnyg.com.w.kunlungr.com/#
 address /imtmp.net/#
+address /in.treasuredata.com/#
 address /iot-eu-logser.realme.com/#
 address /iot-logser.realme.com/#
 address /ipv4.kkmh.com/#
@@ -420,6 +423,7 @@ address /log.byteoversea.com/#
 address /log.fc.yahoo.com/#
 address /log.kuwo.cn/#
 address /log.pinterest.com/#
+address /log.popin.cc/#
 address /log.snssdk.com/#
 address /log.stat.kugou.com/#
 address /log.tagtic.cn/#
@@ -502,7 +506,6 @@ address /p1-be-pack-sign.pglstatp-toutiao.com/#
 address /p1-lm.adkwai.com/#
 address /p2-be-pack-sign.pglstatp-toutiao.com/#
 address /p2-lm.adkwai.com/#
-address /p2p.huya.com/#
 address /p3-be-pack-sign.pglstatp-toutiao.com/#
 address /p3-lm.adkwai.com/#
 address /p3-tt.byteimg.com/#
@@ -539,6 +542,7 @@ address /res3.hubcloud.com.cn/#
 address /resolve.umeng.com/#
 address /rev.aiclk.com/#
 address /review.gdtimg.com/#
+address /rlog.popin.cc/#
 address /rms-drcn.platform.dbankcloud.cn/#
 address /roi.soulapp.cn/#
 address /rpt.gdt.qq.com/#
@@ -547,6 +551,7 @@ address /s.amazon-adsystem.com/#
 address /s1.qq.com/#
 address /s2.qq.com/#
 address /s3.qq.com/#
+address /s8t.teads.tv/#
 address /saad.ms.zhangyue.net/#
 address /samsung-com.112.2o7.net/#
 address /samsungads.com/#
@@ -607,9 +612,11 @@ address /syh-imp.cdnjtzy.com/#
 address /szbdyd.com/#
 address /t-dsp.pinduoduo.com/#
 address /t.l.qq.com/#
+address /t.teads.tv/#
 address /t.track.ad.xiaomi.com/#
 address /t002.ottcn.com/#
 address /t1.a.market.xiaomi.com/#
+address /t1.teads.tv/#
 address /t2.a.market.xiaomi.com/#
 address /t3.a.market.xiaomi.com/#
 address /tangram.e.qq.com/#

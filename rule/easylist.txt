@@ -1,72 +1,32 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-02-18 16:21:04
+! Last Modified: 2025-02-19 00:20:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Domain Expired</title>
-<script>
-setTimeout(() => {
-window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 ||1010pic.com^
-}, 5000);
-</script>
-<style>
-body {
 ||1500020991.vodplayer.wxamedia.com^
-font-family: Arial, sans-serif;
 ||8le8le.com^
-text-align: center;
 ||a0.app.xiaomi.com^
-margin: 0;
 ||aaid.umeng.com^
-padding: 20px;
 ||abtest-ch.snssdk.com^
-background-color: #f9f9f9;
 ||ad-cache.dopool.com^
-}
 ||ad-cdn.qingting.fm^
-h1 {
 ||ad-cmp.hismarttv.com^
-color: #333;
 ||ad-download.hismarttv.com^
-p {
 ||ad-imp.hismarttv.com^
-color: #666;
 ||ad-scope.com^
 ||ad-scope.com.cn^
-a {
-color: #007bff;
 ||ad-sdk-config.youdao.com^
 ||ad-sdk.huxiu.com^
-text-decoration: none;
 ||ad.12306.cn^
-a:hover {
-text-decoration: underline;
-</style>
-</head>
 ||ad.51wnl.com^
-<body>
 ||ad.bwton.com^
 ||ad.cctv.com^
-<h1>域名已过期 | Domain Expired</h1>
 ||ad.cyapi.cn^
-<p>
 ||ad.doubleclick.net^
-该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.partner.gifshow.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||ad.qingting.fm^
-</p>
 ||ad.qq.com^
 ||ad.richmob.cn^
 ||ad.tencentmusic.com^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-</body>
-</html>
 ||ad.toutiao.com^
 ||ad.v3mh.com^
 ||ad.winrar.com.cn^
@@ -74,6 +34,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||ad.xiaomi.com^
 ||ad.ximalaya.com^
 ||ad.zijieapi.com^
+||ad2.ettoday.net^
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
@@ -310,6 +271,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||dc.sigmob.cn^
+||de.tynt.com^
 ||diagnosis.ad.xiaomi.com^
 ||dig.bdurl.net^
 ||dl.zuimeitianqi.com^
@@ -408,6 +370,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||img.adnyg.com^
 ||img.adnyg.com.w.kunlungr.com^
 ||imtmp.net^
+||in.treasuredata.com^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||ipv4.kkmh.com^
@@ -460,6 +423,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||log.fc.yahoo.com^
 ||log.kuwo.cn^
 ||log.pinterest.com^
+||log.popin.cc^
 ||log.snssdk.com^
 ||log.stat.kugou.com^
 ||log.tagtic.cn^
@@ -542,7 +506,6 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||p1-lm.adkwai.com^
 ||p2-be-pack-sign.pglstatp-toutiao.com^
 ||p2-lm.adkwai.com^
-||p2p.huya.com^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
 ||p3-lm.adkwai.com^
 ||p3-tt.byteimg.com^
@@ -579,6 +542,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||resolve.umeng.com^
 ||rev.aiclk.com^
 ||review.gdtimg.com^
+||rlog.popin.cc^
 ||rms-drcn.platform.dbankcloud.cn^
 ||roi.soulapp.cn^
 ||rpt.gdt.qq.com^
@@ -587,6 +551,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||s1.qq.com^
 ||s2.qq.com^
 ||s3.qq.com^
+||s8t.teads.tv^
 ||saad.ms.zhangyue.net^
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
@@ -647,9 +612,11 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||szbdyd.com^
 ||t-dsp.pinduoduo.com^
 ||t.l.qq.com^
+||t.teads.tv^
 ||t.track.ad.xiaomi.com^
 ||t002.ottcn.com^
 ||t1.a.market.xiaomi.com^
+||t1.teads.tv^
 ||t2.a.market.xiaomi.com^
 ||t3.a.market.xiaomi.com^
 ||tangram.e.qq.com^
@@ -783,3 +750,43 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Domain Expired</title>
+<script>
+setTimeout(() => {
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
+}, 5000);
+</script>
+<style>
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 0;
+padding: 20px;
+background-color: #f9f9f9;
+}
+h1 {
+color: #333;
+p {
+color: #666;
+a {
+color: #007bff;
+text-decoration: none;
+a:hover {
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>

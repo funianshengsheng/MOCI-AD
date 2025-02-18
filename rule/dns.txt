@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-02-18 16:21:04
+! Last Modified: 2025-02-19 00:20:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
@@ -34,6 +34,7 @@
 ||ad.xiaomi.com^
 ||ad.ximalaya.com^
 ||ad.zijieapi.com^
+||ad2.ettoday.net^
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
@@ -270,6 +271,7 @@
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||dc.sigmob.cn^
+||de.tynt.com^
 ||diagnosis.ad.xiaomi.com^
 ||dig.bdurl.net^
 ||dl.zuimeitianqi.com^
@@ -368,6 +370,7 @@
 ||img.adnyg.com^
 ||img.adnyg.com.w.kunlungr.com^
 ||imtmp.net^
+||in.treasuredata.com^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||ipv4.kkmh.com^
@@ -420,6 +423,7 @@
 ||log.fc.yahoo.com^
 ||log.kuwo.cn^
 ||log.pinterest.com^
+||log.popin.cc^
 ||log.snssdk.com^
 ||log.stat.kugou.com^
 ||log.tagtic.cn^
@@ -502,7 +506,6 @@
 ||p1-lm.adkwai.com^
 ||p2-be-pack-sign.pglstatp-toutiao.com^
 ||p2-lm.adkwai.com^
-||p2p.huya.com^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
 ||p3-lm.adkwai.com^
 ||p3-tt.byteimg.com^
@@ -539,6 +542,7 @@
 ||resolve.umeng.com^
 ||rev.aiclk.com^
 ||review.gdtimg.com^
+||rlog.popin.cc^
 ||rms-drcn.platform.dbankcloud.cn^
 ||roi.soulapp.cn^
 ||rpt.gdt.qq.com^
@@ -547,6 +551,7 @@
 ||s1.qq.com^
 ||s2.qq.com^
 ||s3.qq.com^
+||s8t.teads.tv^
 ||saad.ms.zhangyue.net^
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
@@ -607,9 +612,11 @@
 ||szbdyd.com^
 ||t-dsp.pinduoduo.com^
 ||t.l.qq.com^
+||t.teads.tv^
 ||t.track.ad.xiaomi.com^
 ||t002.ottcn.com^
 ||t1.a.market.xiaomi.com^
+||t1.teads.tv^
 ||t2.a.market.xiaomi.com^
 ||t3.a.market.xiaomi.com^
 ||tangram.e.qq.com^
