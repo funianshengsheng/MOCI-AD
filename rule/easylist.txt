@@ -1,80 +1,80 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-02-20 00:19:44
+! Last Modified: 2025-02-20 09:15:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-||1010pic.com^
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Domain Expired</title>
 <script>
-||1500020991.vodplayer.wxamedia.com^
 setTimeout(() => {
-||8le8le.com^
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-||a0.app.xiaomi.com^
 }, 5000);
-||aaid.umeng.com^
 </script>
-||abtest-ch.snssdk.com^
 <style>
 body {
-||ad-cache.dopool.com^
-||ad-cdn.qingting.fm^
-||ad-cmp.hismarttv.com^
 font-family: Arial, sans-serif;
-||ad-download.hismarttv.com^
 text-align: center;
 margin: 0;
-||ad-imp.hismarttv.com^
-||ad-scope.com^
 padding: 20px;
-||ad-scope.com.cn^
-||ad-sdk-config.youdao.com^
 background-color: #f9f9f9;
-||ad-sdk.huxiu.com^
 }
 h1 {
-||ad.12306.cn^
 color: #333;
-||ad.51wnl.com^
-||ad.bwton.com^
 p {
 color: #666;
-||ad.cctv.com^
-||ad.cyapi.cn^
 a {
 color: #007bff;
-||ad.doubleclick.net^
-||ad.partner.gifshow.com^
 text-decoration: none;
-||ad.qingting.fm^
 a:hover {
-||ad.qq.com^
 text-decoration: underline;
 </style>
 </head>
-||ad.richmob.cn^
 <body>
-||ad.tencentmusic.com^
 <h1>域名已过期 | Domain Expired</h1>
-||ad.toutiao.com^
 <p>
-||ad.v3mh.com^
 该域名已过期，5秒后将跳转到新域名。<br>
-||ad.winrar.com.cn^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-||ad.xelements.cn^
 </p>
-||ad.xiaomi.com^
 如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-||ad.ximalaya.com^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-||ad.zijieapi.com^
 </body>
-||ad2.ettoday.net^
 </html>
+||1010pic.com^
+||1500020991.vodplayer.wxamedia.com^
+||8le8le.com^
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
+||abtest-ch.snssdk.com^
+||ad-cache.dopool.com^
+||ad-cdn.qingting.fm^
+||ad-cmp.hismarttv.com^
+||ad-download.hismarttv.com^
+||ad-imp.hismarttv.com^
+||ad-scope.com^
+||ad-scope.com.cn^
+||ad-sdk-config.youdao.com^
+||ad-sdk.huxiu.com^
+||ad.12306.cn^
+||ad.51wnl.com^
+||ad.bwton.com^
+||ad.cctv.com^
+||ad.cyapi.cn^
+||ad.doubleclick.net^
+||ad.partner.gifshow.com^
+||ad.qingting.fm^
+||ad.qq.com^
+||ad.richmob.cn^
+||ad.tencentmusic.com^
+||ad.toutiao.com^
+||ad.v3mh.com^
+||ad.winrar.com.cn^
+||ad.xelements.cn^
+||ad.xiaomi.com^
+||ad.ximalaya.com^
+||ad.zijieapi.com^
+||ad2.ettoday.net^
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
