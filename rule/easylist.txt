@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-02-25 16:21:45
+! Last Modified: 2025-02-26 00:21:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
@@ -139,38 +139,78 @@
 ||adx-os.anythinktech.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
+<!DOCTYPE html>
 ||adxlog-adnet.vivo.com.cn^
+<html lang="en">
 ||adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn^
+<head>
 ||adxserver.ad.cmvideo.cn^
+<meta charset="UTF-8">
 ||aegis.qq.com^
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ||afs.googlesyndication.com^
+<title>Domain Expired</title>
 ||aiseet.aa.atianqi.com^
+<script>
 ||ali-ad.a.yximgs.com^
 ||alog.umeng.com^
+setTimeout(() => {
 ||alogus.umeng.com^
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 ||als.baidu.com^
+}, 5000);
 ||amdcopen.m.taobao.com^
+</script>
 ||amdcopen.m.umeng.com^
+<style>
 ||an.facebook.com^
+body {
 ||analysis.yozocloud.cn^
+font-family: Arial, sans-serif;
 ||analytics-api.samsunghealthcn.com^
+text-align: center;
 ||analytics.126.net^
+margin: 0;
 ||analytics.google.com^
+padding: 20px;
 ||analytics.pinterest.com^
+background-color: #f9f9f9;
 ||analytics.pointdrive.linkedin.com^
+}
 ||analytics.query.yahoo.com^
+h1 {
 ||analytics.rayjump.com^
+color: #333;
+p {
+color: #666;
+a {
+color: #007bff;
+text-decoration: none;
+a:hover {
+text-decoration: underline;
+</style>
+</head>
 ||analytics.s3.amazonaws.com^
+<body>
 ||analytics.tiktok.com^
+<h1>域名已过期 | Domain Expired</h1>
 ||analytics.woozooo.com^
+<p>
 ||analyticsengine.s3.amazonaws.com^
+该域名已过期，5秒后将跳转到新域名。<br>
 ||analyze.lemurbrowser.com^
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||andrqd.play.aiseet.atianqi.com^
+</p>
 ||ap.dongqiudi.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
+</body>
 ||api-access.pangolin-sdk-toutiao.com^
+</html>
 ||api-access.pangolin-sdk-toutiao1.com^
 ||api-access.pangolin-sdk-toutiao2.com^
 ||api-access.pangolin-sdk-toutiao3.com^
@@ -750,43 +790,3 @@
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Domain Expired</title>
-<script>
-setTimeout(() => {
-window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-}, 5000);
-</script>
-<style>
-body {
-font-family: Arial, sans-serif;
-text-align: center;
-margin: 0;
-padding: 20px;
-background-color: #f9f9f9;
-}
-h1 {
-color: #333;
-p {
-color: #666;
-a {
-color: #007bff;
-text-decoration: none;
-a:hover {
-text-decoration: underline;
-</style>
-</head>
-<body>
-<h1>域名已过期 | Domain Expired</h1>
-<p>
-该域名已过期，5秒后将跳转到新域名。<br>
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-</p>
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-</body>
-</html>
