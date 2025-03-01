@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-03-01 16:19:45
+# Last Modified: 2025-03-02 00:18:34
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	1500020991.vodplayer.wxamedia.com
@@ -252,6 +252,7 @@
 0.0.0.0	click.googleanalytics.com
 0.0.0.0	click.oneplus.cn
 0.0.0.0	clog.miguvideo.com
+0.0.0.0	cn-api.anythinktech.com
 0.0.0.0	cnlogs.umeng.com
 0.0.0.0	cnlogs.umengcloud.com
 0.0.0.0	cnzz.com
@@ -270,6 +271,7 @@
 0.0.0.0	data.mistat.india.xiaomi.com
 0.0.0.0	data.mistat.rus.xiaomi.com
 0.0.0.0	data.mistat.xiaomi.com
+0.0.0.0	datk.anythinktech.com
 0.0.0.0	dc.sigmob.cn
 0.0.0.0	de.tynt.com
 0.0.0.0	diagnosis.ad.xiaomi.com
@@ -715,6 +717,7 @@
 0.0.0.0	wn.x.jd.com
 0.0.0.0	ws-keyboard.shouji.sogou.com
 0.0.0.0	ws.sj.qq.com
+0.0.0.0	wwads.cn
 0.0.0.0	www42.zskwai.com
 0.0.0.0	wxa.wxs.qq.com
 0.0.0.0	wxaintpcos.wxqcloud.qq.com.cn
