@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-04 09:18:31
+! Last Modified: 2025-03-04 16:19:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
@@ -251,6 +251,7 @@
 ||ck.ads.oppomobile.com^
 ||click.googleanalytics.com^
 ||click.oneplus.cn^
+||client.app.coc.10086.cn^
 ||clog.miguvideo.com^
 ||cn-api.anythinktech.com^
 ||cnlogs.umeng.com^
