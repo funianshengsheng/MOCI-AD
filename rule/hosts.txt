@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-03-06 16:21:41
+# Last Modified: 2025-03-07 00:21:20
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	1500020991.vodplayer.wxamedia.com
@@ -81,6 +81,7 @@
 0.0.0.0	ads.tiktok.com
 0.0.0.0	ads.v3mh.com
 0.0.0.0	ads.youtube.com
+0.0.0.0	ads.zhinengxiyifang.cn
 0.0.0.0	ads3-normal-hl.zijieapi.com
 0.0.0.0	ads3-normal-lf.zijieapi.com
 0.0.0.0	ads3-normal-lq.zijieapi.com
@@ -189,6 +190,7 @@
 0.0.0.0	api.kingdata.ksyun.com
 0.0.0.0	api.statsig.com
 0.0.0.0	api.touch-moblie.com
+0.0.0.0	api.yfanads.com
 0.0.0.0	api5-normal-quic-lf.ixigua.com
 0.0.0.0	apiyd.my91app.com
 0.0.0.0	apks.webxiaobai.top
@@ -251,7 +253,6 @@
 0.0.0.0	ck.ads.oppomobile.com
 0.0.0.0	click.googleanalytics.com
 0.0.0.0	click.oneplus.cn
-0.0.0.0	client.app.coc.10086.cn
 0.0.0.0	clog.miguvideo.com
 0.0.0.0	cn-api.anythinktech.com
 0.0.0.0	cnlogs.umeng.com

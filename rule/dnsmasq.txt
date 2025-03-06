@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2025-03-06 16:21:41
+# Last Modified: 2025-03-07 00:21:20
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1010pic.com/
 address=/1500020991.vodplayer.wxamedia.com/
@@ -81,6 +81,7 @@ address=/ads.service.kugou.com/
 address=/ads.tiktok.com/
 address=/ads.v3mh.com/
 address=/ads.youtube.com/
+address=/ads.zhinengxiyifang.cn/
 address=/ads3-normal-hl.zijieapi.com/
 address=/ads3-normal-lf.zijieapi.com/
 address=/ads3-normal-lq.zijieapi.com/
@@ -189,6 +190,7 @@ address=/api.jietuhb.com/
 address=/api.kingdata.ksyun.com/
 address=/api.statsig.com/
 address=/api.touch-moblie.com/
+address=/api.yfanads.com/
 address=/api5-normal-quic-lf.ixigua.com/
 address=/apiyd.my91app.com/
 address=/apks.webxiaobai.top/
@@ -251,7 +253,6 @@ address=/cj.qidian.com/
 address=/ck.ads.oppomobile.com/
 address=/click.googleanalytics.com/
 address=/click.oneplus.cn/
-address=/client.app.coc.10086.cn/
 address=/clog.miguvideo.com/
 address=/cn-api.anythinktech.com/
 address=/cnlogs.umeng.com/

@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-06 16:21:41
+! Last Modified: 2025-03-07 00:21:20
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
@@ -81,6 +81,7 @@
 ||ads.tiktok.com^
 ||ads.v3mh.com^
 ||ads.youtube.com^
+||ads.zhinengxiyifang.cn^
 ||ads3-normal-hl.zijieapi.com^
 ||ads3-normal-lf.zijieapi.com^
 ||ads3-normal-lq.zijieapi.com^
@@ -189,6 +190,7 @@
 ||api.kingdata.ksyun.com^
 ||api.statsig.com^
 ||api.touch-moblie.com^
+||api.yfanads.com^
 ||api5-normal-quic-lf.ixigua.com^
 ||apiyd.my91app.com^
 ||apks.webxiaobai.top^
@@ -251,7 +253,6 @@
 ||ck.ads.oppomobile.com^
 ||click.googleanalytics.com^
 ||click.oneplus.cn^
-||client.app.coc.10086.cn^
 ||clog.miguvideo.com^
 ||cn-api.anythinktech.com^
 ||cnlogs.umeng.com^
