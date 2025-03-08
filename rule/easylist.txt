@@ -1,6 +1,46 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-08 00:20:40
+! Last Modified: 2025-03-08 09:03:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Domain Expired</title>
+<script>
+setTimeout(() => {
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
+}, 5000);
+</script>
+<style>
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 0;
+padding: 20px;
+background-color: #f9f9f9;
+}
+h1 {
+color: #333;
+p {
+color: #666;
+a {
+color: #007bff;
+text-decoration: none;
+a:hover {
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
 ||8le8le.com^
@@ -114,79 +154,39 @@
 ||adstats.tencentmusic.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
-<!DOCTYPE html>
-<html lang="en">
 ||adstudio-assets.scdn.co^
-<head>
-<meta charset="UTF-8">
 ||adstudio.spotify.com^
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ||adtago.s3.amazonaws.com^
-<title>Domain Expired</title>
 ||adtech.yahooinc.com^
-<script>
 ||adtrack.quark.cn^
-setTimeout(() => {
 ||adukwai.com^
 ||adv.fjtv.net^
-window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-}, 5000);
 ||adv.sec.intl.miui.com^
-</script>
 ||adv.sec.miui.com^
-<style>
 ||advertiseonbing.azureedge.net^
-body {
 ||advertising-api-eu.amazon.com^
-font-family: Arial, sans-serif;
 ||advertising-api-fe.amazon.com^
 ||advertising-api.amazon.com^
-text-align: center;
 ||advertising.apple.com^
-margin: 0;
 ||advertising.yahoo.com^
-padding: 20px;
 ||advertising.yandex.ru^
 ||advice-ads.s3.amazonaws.com^
-background-color: #f9f9f9;
-}
 ||adview.cn^
-h1 {
 ||adx-ad.smart-tv.cn^
-color: #333;
 ||adx-bj.anythinktech.com^
 ||adx-cn.anythinktech.com^
-p {
 ||adx-drcn.op.dbankcloud.cn^
-color: #666;
-a {
-color: #007bff;
 ||adx-open-service.youku.com^
 ||adx-os.anythinktech.com^
-text-decoration: none;
 ||adx.ads.heytapmobi.com^
-a:hover {
 ||adx.ads.oppomobile.com^
-text-decoration: underline;
 ||adxlog-adnet.vivo.com.cn^
-</style>
 ||adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn^
-</head>
 ||adxserver.ad.cmvideo.cn^
-<body>
 ||aegis.qq.com^
-<h1>域名已过期 | Domain Expired</h1>
 ||afs.googlesyndication.com^
-<p>
 ||aiseet.aa.atianqi.com^
 ||ali-ad.a.yximgs.com^
-该域名已过期，5秒后将跳转到新域名。<br>
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-</p>
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-</body>
-</html>
 ||alog.umeng.com^
 ||alogus.umeng.com^
 ||als.baidu.com^
