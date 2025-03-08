@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-08 16:17:05
+! Last Modified: 2025-03-09 00:16:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -10,69 +10,69 @@
 <script>
 setTimeout(() => {
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-||1010pic.com^
 }, 5000);
+||1010pic.com^
 </script>
 <style>
-||1500020991.vodplayer.wxamedia.com^
 body {
-||8le8le.com^
 font-family: Arial, sans-serif;
-||a0.app.xiaomi.com^
 text-align: center;
-||aaid.umeng.com^
+||1500020991.vodplayer.wxamedia.com^
 margin: 0;
-||abtest-ch.snssdk.com^
+||8le8le.com^
 padding: 20px;
-||ad-cache.dopool.com^
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
 background-color: #f9f9f9;
+||abtest-ch.snssdk.com^
 }
-||ad-cdn.qingting.fm^
+||ad-cache.dopool.com^
 h1 {
-||ad-cmp.hismarttv.com^
 color: #333;
+||ad-cdn.qingting.fm^
+||ad-cmp.hismarttv.com^
+p {
+color: #666;
 ||ad-download.hismarttv.com^
 ||ad-imp.hismarttv.com^
-p {
 ||ad-scope.com^
-color: #666;
-||ad-scope.com.cn^
 a {
-||ad-sdk-config.youdao.com^
+||ad-scope.com.cn^
 color: #007bff;
-||ad-sdk.huxiu.com^
+||ad-sdk-config.youdao.com^
 text-decoration: none;
-||ad.12306.cn^
+||ad-sdk.huxiu.com^
 a:hover {
-||ad.51wnl.com^
-||ad.bwton.com^
+||ad.12306.cn^
 text-decoration: underline;
+||ad.51wnl.com^
+</style>
+||ad.bwton.com^
+</head>
+<body>
 ||ad.cctv.com^
 ||ad.cyapi.cn^
-</style>
-</head>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
 ||ad.doubleclick.net^
+该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.partner.gifshow.com^
 ||ad.qingting.fm^
-<body>
-||ad.qq.com^
-<h1>域名已过期 | Domain Expired</h1>
-||ad.richmob.cn^
-<p>
-||ad.tencentmusic.com^
-该域名已过期，5秒后将跳转到新域名。<br>
-||ad.toutiao.com^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-||ad.v3mh.com^
 </p>
-||ad.winrar.com.cn^
+||ad.qq.com^
+||ad.richmob.cn^
 如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-||ad.xelements.cn^
+||ad.tencentmusic.com^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-||ad.xiaomi.com^
+||ad.toutiao.com^
 </body>
-||ad.ximalaya.com^
+||ad.v3mh.com^
 </html>
+||ad.winrar.com.cn^
+||ad.xelements.cn^
+||ad.xiaomi.com^
+||ad.ximalaya.com^
 ||ad.zijieapi.com^
 ||ad2.ettoday.net^
 ||adapi.izuiyou.com^
@@ -668,7 +668,6 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||tdsdk.cpatrk.net^
 ||tdsdk.xdrig.com^
 ||tencent-dtv.m.cn.miaozhen.com^
-||terms-drcn.platform.dbankcloud.cn^
 ||test.ad.xiaomi.com^
 ||test.e.ad.xiaomi.com^
 ||tj.b.qq.com^
