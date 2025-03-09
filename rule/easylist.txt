@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-09 09:08:44
+! Last Modified: 2025-03-09 16:17:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -26,34 +26,34 @@ p {
 color: #666;
 a {
 color: #007bff;
+||1010pic.com^
 text-decoration: none;
 a:hover {
+||1500020991.vodplayer.wxamedia.com^
 text-decoration: underline;
+||8le8le.com^
 </style>
+||a0.app.xiaomi.com^
 </head>
 <body>
+||aaid.umeng.com^
 <h1>域名已过期 | Domain Expired</h1>
 <p>
-该域名已过期，5秒后将跳转到新域名。<br>
-||1010pic.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-</p>
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-||1500020991.vodplayer.wxamedia.com^
-</body>
-||8le8le.com^
-</html>
-||a0.app.xiaomi.com^
-||aaid.umeng.com^
 ||abtest-ch.snssdk.com^
+该域名已过期，5秒后将跳转到新域名。<br>
 ||ad-cache.dopool.com^
 ||ad-cdn.qingting.fm^
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
 ||ad-cmp.hismarttv.com^
 ||ad-download.hismarttv.com^
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad-imp.hismarttv.com^
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad-scope.com^
+</body>
 ||ad-scope.com.cn^
+</html>
 ||ad-sdk-config.youdao.com^
 ||ad-sdk.huxiu.com^
 ||ad.12306.cn^
