@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-03-11 16:22:16
+# Last Modified: 2025-03-12 00:23:02
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	1500020991.vodplayer.wxamedia.com
@@ -628,6 +628,7 @@
 0.0.0.0	tdsdk.cpatrk.net
 0.0.0.0	tdsdk.xdrig.com
 0.0.0.0	tencent-dtv.m.cn.miaozhen.com
+0.0.0.0	terms-drcn.platform.dbankcloud.cn
 0.0.0.0	test.ad.xiaomi.com
 0.0.0.0	test.e.ad.xiaomi.com
 0.0.0.0	tj.b.qq.com
