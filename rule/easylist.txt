@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-14 09:18:13
+! Last Modified: 2025-03-14 16:21:34
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -10,64 +10,64 @@
 <script>
 setTimeout(() => {
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-||1010pic.com^
 }, 5000);
 </script>
 <style>
-||1500020991.vodplayer.wxamedia.com^
+||1010pic.com^
 body {
 font-family: Arial, sans-serif;
-||1500026601.vodplayer.wxamedia.com^
 text-align: center;
+||1500020991.vodplayer.wxamedia.com^
 margin: 0;
-||8le8le.com^
-||a0.app.xiaomi.com^
+||1500026601.vodplayer.wxamedia.com^
 padding: 20px;
-||aaid.umeng.com^
+||8le8le.com^
 background-color: #f9f9f9;
-||abtest-ch.snssdk.com^
+||a0.app.xiaomi.com^
 }
-||ad-cache.dopool.com^
+||aaid.umeng.com^
 h1 {
-||ad-cdn.qingting.fm^
+||abtest-ch.snssdk.com^
 color: #333;
-||ad-cmp.hismarttv.com^
-||ad-download.hismarttv.com^
+||ad-cache.dopool.com^
 p {
+||ad-cdn.qingting.fm^
+||ad-cmp.hismarttv.com^
 color: #666;
-||ad-imp.hismarttv.com^
 a {
-||ad-scope.com^
 color: #007bff;
 text-decoration: none;
-||ad-scope.com.cn^
-||ad-sdk-config.youdao.com^
+||ad-download.hismarttv.com^
+||ad-imp.hismarttv.com^
 a:hover {
-||ad-sdk.huxiu.com^
+||ad-scope.com^
 text-decoration: underline;
-||ad.12306.cn^
+||ad-scope.com.cn^
 </style>
-||ad.51wnl.com^
+||ad-sdk-config.youdao.com^
+||ad-sdk.huxiu.com^
 </head>
 <body>
-||ad.bwton.com^
+||ad.12306.cn^
 <h1>域名已过期 | Domain Expired</h1>
-||ad.cctv.com^
+||ad.51wnl.com^
 <p>
-||ad.cyapi.cn^
+||ad.bwton.com^
 该域名已过期，5秒后将跳转到新域名。<br>
-||ad.doubleclick.net^
+||ad.cctv.com^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-||ad.partner.gifshow.com^
 </p>
-||ad.qingting.fm^
+||ad.cyapi.cn^
+||ad.doubleclick.net^
 如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-||ad.qq.com^
+||ad.partner.gifshow.com^
 If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-||ad.richmob.cn^
+||ad.qingting.fm^
 </body>
-||ad.tencentmusic.com^
+||ad.qq.com^
 </html>
+||ad.richmob.cn^
+||ad.tencentmusic.com^
 ||ad.toutiao.com^
 ||ad.v3mh.com^
 ||ad.winrar.com.cn^
