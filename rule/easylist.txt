@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-14 16:21:34
+! Last Modified: 2025-03-15 00:20:54
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -13,59 +13,59 @@ window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + 
 }, 5000);
 </script>
 <style>
-||1010pic.com^
 body {
 font-family: Arial, sans-serif;
 text-align: center;
-||1500020991.vodplayer.wxamedia.com^
 margin: 0;
-||1500026601.vodplayer.wxamedia.com^
 padding: 20px;
-||8le8le.com^
 background-color: #f9f9f9;
-||a0.app.xiaomi.com^
 }
-||aaid.umeng.com^
 h1 {
-||abtest-ch.snssdk.com^
 color: #333;
-||ad-cache.dopool.com^
 p {
-||ad-cdn.qingting.fm^
-||ad-cmp.hismarttv.com^
 color: #666;
 a {
 color: #007bff;
 text-decoration: none;
-||ad-download.hismarttv.com^
-||ad-imp.hismarttv.com^
 a:hover {
-||ad-scope.com^
 text-decoration: underline;
-||ad-scope.com.cn^
 </style>
-||ad-sdk-config.youdao.com^
-||ad-sdk.huxiu.com^
 </head>
 <body>
-||ad.12306.cn^
 <h1>域名已过期 | Domain Expired</h1>
-||ad.51wnl.com^
 <p>
-||ad.bwton.com^
 该域名已过期，5秒后将跳转到新域名。<br>
-||ad.cctv.com^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 </p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>
+||1010pic.com^
+||1500020991.vodplayer.wxamedia.com^
+||1500026601.vodplayer.wxamedia.com^
+||8le8le.com^
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
+||abtest-ch.snssdk.com^
+||ad-cache.dopool.com^
+||ad-cdn.qingting.fm^
+||ad-cmp.hismarttv.com^
+||ad-download.hismarttv.com^
+||ad-imp.hismarttv.com^
+||ad-scope.com^
+||ad-scope.com.cn^
+||ad-sdk-config.youdao.com^
+||ad-sdk.huxiu.com^
+||ad.12306.cn^
+||ad.51wnl.com^
+||ad.bwton.com^
+||ad.cctv.com^
 ||ad.cyapi.cn^
 ||ad.doubleclick.net^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad.partner.gifshow.com^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.qingting.fm^
-</body>
 ||ad.qq.com^
-</html>
 ||ad.richmob.cn^
 ||ad.tencentmusic.com^
 ||ad.toutiao.com^
