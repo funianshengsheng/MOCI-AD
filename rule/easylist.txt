@@ -1,74 +1,34 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-16 09:24:51
+! Last Modified: 2025-03-16 16:19:32
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Domain Expired</title>
-<script>
-setTimeout(() => {
-window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-}, 5000);
-</script>
 ||1010pic.com^
-<style>
-body {
-font-family: Arial, sans-serif;
-text-align: center;
 ||1500020991.vodplayer.wxamedia.com^
-margin: 0;
 ||1500026601.vodplayer.wxamedia.com^
-padding: 20px;
 ||8le8le.com^
-background-color: #f9f9f9;
 ||a0.app.xiaomi.com^
-}
-h1 {
-color: #333;
 ||aaid.umeng.com^
 ||abtest-ch.snssdk.com^
-p {
-color: #666;
 ||ad-cache.dopool.com^
 ||ad-cdn.qingting.fm^
-a {
-color: #007bff;
 ||ad-cmp.hismarttv.com^
 ||ad-download.hismarttv.com^
-text-decoration: none;
 ||ad-imp.hismarttv.com^
-a:hover {
 ||ad-scope.com^
-text-decoration: underline;
 ||ad-scope.com.cn^
-</style>
 ||ad-sdk-config.youdao.com^
-</head>
-<body>
 ||ad-sdk.huxiu.com^
 ||ad.12306.cn^
-<h1>域名已过期 | Domain Expired</h1>
-<p>
 ||ad.51wnl.com^
 ||ad.bwton.com^
-该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.cctv.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||ad.cyapi.cn^
-</p>
 ||ad.doubleclick.net^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad.partner.gifshow.com^
 ||ad.qingting.fm^
 ||ad.qq.com^
 ||ad.richmob.cn^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.tencentmusic.com^
-</body>
 ||ad.toutiao.com^
-</html>
 ||ad.v3mh.com^
 ||ad.winrar.com.cn^
 ||ad.xelements.cn^
@@ -796,3 +756,43 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Domain Expired</title>
+<script>
+setTimeout(() => {
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
+}, 5000);
+</script>
+<style>
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 0;
+padding: 20px;
+background-color: #f9f9f9;
+}
+h1 {
+color: #333;
+p {
+color: #666;
+a {
+color: #007bff;
+text-decoration: none;
+a:hover {
+text-decoration: underline;
+</style>
+</head>
+<body>
+<h1>域名已过期 | Domain Expired</h1>
+<p>
+该域名已过期，5秒后将跳转到新域名。<br>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+</body>
+</html>
