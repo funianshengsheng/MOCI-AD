@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-17 00:19:09
+! Last Modified: 2025-03-17 09:21:41
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
@@ -169,79 +169,39 @@
 ||analyze.lemurbrowser.com^
 ||andrqd.play.aiseet.atianqi.com^
 ||ap.dongqiudi.com^
-<!DOCTYPE html>
-<html lang="en">
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
-<head>
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
-<meta charset="UTF-8">
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ||api-access.pangolin-sdk-toutiao.com^
-<title>Domain Expired</title>
-<script>
 ||api-access.pangolin-sdk-toutiao1.com^
 ||api-access.pangolin-sdk-toutiao2.com^
-setTimeout(() => {
-window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 ||api-access.pangolin-sdk-toutiao3.com^
-}, 5000);
-</script>
 ||api-access.pangolin-sdk-toutiao4.com^
-<style>
 ||api-access.pangolin-sdk-toutiao5.com^
-body {
 ||api-ad-product.huxiu.com^
-font-family: Arial, sans-serif;
 ||api-adservices.apple.com^
 ||api-gd.hiaiabc.com^
-text-align: center;
 ||api-htp.beizi.biz^
-margin: 0;
 ||api.ad.xiaomi.com^
 ||api.e.kuaishou.com^
-padding: 20px;
 ||api.htp.hubcloud.com.cn^
-background-color: #f9f9f9;
 ||api.hzsanjiaomao.com^
-}
 ||api.installer.xiaomi.com^
-h1 {
 ||api.jietuhb.com^
-color: #333;
-p {
-color: #666;
-a {
-color: #007bff;
-text-decoration: none;
-a:hover {
 ||api.kingdata.ksyun.com^
-text-decoration: underline;
 ||api.statsig.com^
-</style>
 ||api.touch-moblie.com^
-</head>
 ||api.yfanads.com^
-<body>
 ||api5-normal-quic-lf.ixigua.com^
 ||apiyd.my91app.com^
-<h1>域名已过期 | Domain Expired</h1>
-<p>
 ||apks.webxiaobai.top^
-该域名已过期，5秒后将跳转到新域名。<br>
 ||app-measurement.com^
 ||appcfg.v.qq.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||appcloud2.in.zhihu.com^
-</p>
 ||applog.lc.quark.cn^
 ||applog.uc.cn^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||applog.zijieapi.com^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-</body>
 ||aspect-upush.umeng.com^
-</html>
 ||ata-sdk-uuid-report.dreport.meituan.net^
 ||auction.unityads.unity3d.com^
 ||audid-api.taobao.com^
@@ -663,26 +623,42 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||t1.a.market.xiaomi.com^
 ||t1.teads.tv^
 ||t2.a.market.xiaomi.com^
+<!DOCTYPE html>
 ||t3.a.market.xiaomi.com^
 ||tangram.e.qq.com^
+<html lang="en">
 ||tdc.qq.com^
+<head>
 ||tdsdk.cpatrk.net^
+<meta charset="UTF-8">
 ||tdsdk.xdrig.com^
 ||tencent-dtv.m.cn.miaozhen.com^
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ||terms-drcn.platform.dbankcloud.cn^
+<title>Domain Expired</title>
 ||test.ad.xiaomi.com^
+<script>
 ||test.e.ad.xiaomi.com^
 ||tj.b.qq.com^
+setTimeout(() => {
 ||tj.video.qq.com^
+window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 ||tmead.y.qq.com^
 ||tmeadcomm.y.qq.com^
+}, 5000);
+</script>
 ||tmfmazu-wangka.m.qq.com^
+<style>
 ||tmfmazu.m.qq.com^
 ||tmfsdk.m.qq.com^
+body {
 ||tmfsdktcpv4.m.qq.com^
 ||tnc3-aliec1.toutiaoapi.com^
+font-family: Arial, sans-serif;
 ||tnc3-aliec2.bytedance.com^
+text-align: center;
 ||tnc3-aliec2.toutiaoapi.com^
+margin: 0;
 ||tnc3-alisc1.bytedance.com^
 ||tnc3-alisc1.zijieapi.com^
 ||tnc3-alisc2.zijieapi.com^
@@ -702,45 +678,69 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||tsvrv.com^
 ||tvuser-ch.cedock.com^
 ||tx-ad.a.yximgs.com^
+padding: 20px;
+background-color: #f9f9f9;
+}
+h1 {
+color: #333;
+p {
 ||tx-kmpaudio.pull.yximgs.com^
 ||tytx.m.cn.miaozhen.com^
+color: #666;
 ||tz.sec.xiaomi.com^
 ||uapi.ads.heytapmobi.com^
 ||udc.yahoo.com^
+a {
 ||udcm.yahoo.com^
 ||uedas.qidian.com^
+color: #007bff;
 ||ulog-sdk.gifshow.com^
 ||ulogjs.gifshow.com^
+text-decoration: none;
 ||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
+a:hover {
 ||umengacs.m.taobao.com^
 ||umengjmacs.m.taobao.com^
+text-decoration: underline;
 ||umini.shujupie.com^
 ||umsns.com^
+</style>
 ||union.baidu.cn^
 ||union.baidu.com^
+</head>
+<body>
 ||update.avlyun.sec.miui.com^
 ||update.lejiao.tv^
 ||update0.aiclk.com^
+<h1>域名已过期 | Domain Expired</h1>
 ||upgrade-update.hismarttv.com^
+<p>
 ||uranus.jd.com^
 ||us.l.qq.com^
 ||usr-api.aiclk.com^
+该域名已过期，5秒后将跳转到新域名。<br>
 ||v.adintl.cn^
 ||v.adx.hubcloud.com.cn^
 ||v1-ad.video.yximgs.com^
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||v2-ad.video.yximgs.com^
 ||v2-api-channel-launcher.hismarttv.com^
+</p>
 ||v2.gdt.qq.com^
 ||v2mi.gdt.qq.com^
 ||v3-ad.video.yximgs.com^
 ||v3.gdt.qq.com^
 ||video-ad.sm.cn^
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||video-dsp.pddpic.com^
 ||video.dispatch.tc.qq.com^
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||virusinfo-cloudscan-cn.heytapmobi.com^
 ||vlive.qqvideo.tc.qq.com^
+</body>
 ||volc.bj.ad.track.66mobi.com^
+</html>
 ||vungle.com^
 ||w.l.qq.com^
 ||w1.askwai.com^
