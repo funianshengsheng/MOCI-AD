@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-03-17 09:21:41
+# Last Modified: 2025-03-17 16:23:43
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /1500020991.vodplayer.wxamedia.com/#
@@ -8,7 +8,6 @@ address /8le8le.com/#
 address /a0.app.xiaomi.com/#
 address /aaid.umeng.com/#
 address /abtest-ch.snssdk.com/#
-address /ad-cache.dopool.com/#
 address /ad-cdn.qingting.fm/#
 address /ad-cmp.hismarttv.com/#
 address /ad-download.hismarttv.com/#
@@ -23,6 +22,7 @@ address /ad.bwton.com/#
 address /ad.cctv.com/#
 address /ad.cyapi.cn/#
 address /ad.doubleclick.net/#
+address /ad.hpplay.cn/#
 address /ad.partner.gifshow.com/#
 address /ad.qingting.fm/#
 address /ad.qq.com/#
@@ -31,7 +31,6 @@ address /ad.tencentmusic.com/#
 address /ad.toutiao.com/#
 address /ad.v3mh.com/#
 address /ad.winrar.com.cn/#
-address /ad.xelements.cn/#
 address /ad.xiaomi.com/#
 address /ad.ximalaya.com/#
 address /ad.zijieapi.com/#
@@ -46,6 +45,7 @@ address /adclick.g.doubleclick.net/#
 address /adclick.tencentmusic.com/#
 address /adcolony.com/#
 address /addata.jd.com/#
+address /adeng.hpplay.cn/#
 address /adexpo.tencentmusic.com/#
 address /adfilter.imtt.qq.com/#
 address /adfstat.yandex.ru/#
@@ -68,13 +68,11 @@ address /ads-video-qc.xhscdn.com/#
 address /ads.95516.com/#
 address /ads.flurry.com/#
 address /ads.google.cn/#
-address /ads.heytapmobi.com/#
 address /ads.huan.tv/#
 address /ads.huantest.com/#
 address /ads.icloseli.cn/#
 address /ads.linkedin.com/#
 address /ads.music.126.net/#
-address /ads.oppomobile.com/#
 address /ads.pinterest.com/#
 address /ads.pubmatic.com/#
 address /ads.servebom.com/#
@@ -124,7 +122,6 @@ address /adukwai.com/#
 address /adv.fjtv.net/#
 address /adv.sec.intl.miui.com/#
 address /adv.sec.miui.com/#
-address /advertiseonbing.azureedge.net/#
 address /advertising-api-eu.amazon.com/#
 address /advertising-api-fe.amazon.com/#
 address /advertising-api.amazon.com/#
@@ -142,7 +139,6 @@ address /adx-os.anythinktech.com/#
 address /adx.ads.heytapmobi.com/#
 address /adx.ads.oppomobile.com/#
 address /adxlog-adnet.vivo.com.cn/#
-address /adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn/#
 address /adxserver.ad.cmvideo.cn/#
 address /aegis.qq.com/#
 address /afs.googlesyndication.com/#
@@ -152,11 +148,9 @@ address /alog.umeng.com/#
 address /alogus.umeng.com/#
 address /als.baidu.com/#
 address /amdcopen.m.taobao.com/#
-address /amdcopen.m.umeng.com/#
 address /an.facebook.com/#
 address /analysis.yozocloud.cn/#
 address /analytics-api.samsunghealthcn.com/#
-address /analytics.126.net/#
 address /analytics.google.com/#
 address /analytics.pinterest.com/#
 address /analytics.pointdrive.linkedin.com/#
@@ -167,6 +161,7 @@ address /analytics.tiktok.com/#
 address /analytics.woozooo.com/#
 address /analyticsengine.s3.amazonaws.com/#
 address /analyze.lemurbrowser.com/#
+address /android.bugly.qq.com/#
 address /andrqd.play.aiseet.atianqi.com/#
 address /ap.dongqiudi.com/#
 address /apd-pcdnwxlogin.teg.tencent-cloud.net/#
@@ -194,7 +189,6 @@ address /api.touch-moblie.com/#
 address /api.yfanads.com/#
 address /api5-normal-quic-lf.ixigua.com/#
 address /apiyd.my91app.com/#
-address /apks.webxiaobai.top/#
 address /app-measurement.com/#
 address /appcfg.v.qq.com/#
 address /appcloud2.in.zhihu.com/#
@@ -206,7 +200,6 @@ address /ata-sdk-uuid-report.dreport.meituan.net/#
 address /auction.unityads.unity3d.com/#
 address /audid-api.taobao.com/#
 address /audid.umeng.com/#
-address /azr.footprintdns.com/#
 address /b1-data.ads.heytapmobi.com/#
 address /baichuan-sdk.alicdn.com/#
 address /baichuan-sdk.taobao.com/#
@@ -246,6 +239,7 @@ address /cdn-ads.oss-cn-shanghai.aliyuncs.com/#
 address /cdn-plugin-sync-upgrade-juui.hismarttv.com/#
 address /cdn.ad.xiaomi.com/#
 address /cdn.aiclk.com/#
+address /cdn.hpplay.com.cn/#
 address /cdn.ynuf.aliapp.org/#
 address /cfg.imtt.qq.com/#
 address /chat1.jd.com/#
@@ -261,6 +255,7 @@ address /cnlogs.umengcloud.com/#
 address /cnzz.com/#
 address /collect.kugou.com/#
 address /commdata.v.qq.com/#
+address /conf.hpplay.cn/#
 address /config.chsmarttv.com/#
 address /config.unityads.unity3d.com/#
 address /cpc-service-square.aiclk.com/#
@@ -312,6 +307,7 @@ address /frontend-perf-service.e.kuaishou.com/#
 address /fxgate.baidu.com/#
 address /g-adnet.hiaiabc.com/#
 address /g-staic.ganjingworld.com/#
+address /g.dtv.cn.miaozhen.com/#
 address /g2.ganjing.world/#
 address /game.loveota.com/#
 address /gdfp.gifshow.com/#
@@ -335,17 +331,20 @@ address /gromore.pangolin-sdk-toutiao.com/#
 address /grs.dbankcloud.com/#
 address /grs.hicloud.com/#
 address /grs.platform.dbankcloud.ru/#
+address /gslb.hpplay.cn/#
 address /gvideo.qpic.cn/#
 address /h-adashx.ut.taobao.com/#
 address /h.trace.qq.com/#
+address /h5.hpplay.com.cn/#
 address /hanlanad.com/#
 address /heads-ak.spotify.com.edgesuite.net/#
 address /heads-fa.spotify.com/#
 address /hexagon-analytics.com/#
 address /hm.baidu.com/#
 address /hmma.baidu.com/#
+address /hotupgrade.hpplay.cn/#
 address /houyi.kkmh.com/#
-address /hpplay.cn/#
+address /hpplay.cdn.cibn.cc/#
 address /httpdns.bcelive.com/#
 address /httpdns.ocloud.oppomobile.com/#
 address /hugelog.fcbox.com/#
@@ -367,14 +366,15 @@ address /ii.gdt.qq.com/#
 address /imag8.pubmatic.com/#
 address /imag86.pubmatic.com/#
 address /image-ad.sm.cn/#
+address /image.hpplay.cn/#
 address /imageplus.baidu.com/#
 address /images.outbrainimg.com/#
 address /images.pinduoduo.com/#
+address /imdns.hpplay.cn/#
 address /img-c.heytapimage.com/#
 address /img-x.jd.com/#
 address /img.adnyg.com/#
 address /img.adnyg.com.w.kunlungr.com/#
-address /imtmp.net/#
 address /in.treasuredata.com/#
 address /iot-eu-logser.realme.com/#
 address /iot-logser.realme.com/#
@@ -526,6 +526,7 @@ address /pgdt.gtimg.cn/#
 address /pgdt.ugdtimg.com/#
 address /pglstatp-toutiao.com/#
 address /pig.pupuapi.com/#
+address /pin.hpplay.cn/#
 address /pixon.ads-pixiv.net/#
 address /pkoplink.com/#
 address /plbslog.umeng.com/#
@@ -550,6 +551,7 @@ address /review.gdtimg.com/#
 address /rlog.popin.cc/#
 address /rms-drcn.platform.dbankcloud.cn/#
 address /roi.soulapp.cn/#
+address /rp.hpplay.cn/#
 address /rpt.gdt.qq.com/#
 address /rtb.voiceads.cn/#
 address /s.amazon-adsystem.com/#
@@ -572,6 +574,7 @@ address /sdk.e.qq.com/#
 address /sdk.hzsanjiaomao.com/#
 address /sdk.markmedia.com.cn/#
 address /sdk.mobads.adwangmai.com/#
+address /sdkauth.hpplay.cn/#
 address /sdkconf.avlyun.com/#
 address /sdkconfig.ad.intl.xiaomi.com/#
 address /sdkconfig.ad.xiaomi.com/#
@@ -595,6 +598,7 @@ address /shouji.sogou.com/#
 address /sigmob.cn/#
 address /sigmob.com/#
 address /skdisplay.jd.com/#
+address /sl.hpplay.cn/#
 address /slb-p2p.vcloud.ks-live.com/#
 address /smad.ms.zhangyue.net/#
 address /smart-tv.cn/#
@@ -606,7 +610,6 @@ address /snowflake.qq.com/#
 address /stat.dongqiudi.com/#
 address /stat.y.qq.com/#
 address /static.ads-twitter.com/#
-address /static.wxqcloud.qq.com.cn/#
 address /statics.woozooo.com/#
 address /stats.qiumibao.com/#
 address /stats.wp.com/#
@@ -660,6 +663,7 @@ address /tracker.gitee.com/#
 address /tracking.miui.com/#
 address /tracking.rus.miui.com/#
 address /tsvrv.com/#
+address /tvapp.hpplay.cn/#
 address /tvuser-ch.cedock.com/#
 address /tx-ad.a.yximgs.com/#
 address /tx-kmpaudio.pull.yximgs.com/#
@@ -698,6 +702,7 @@ address /v3.gdt.qq.com/#
 address /video-ad.sm.cn/#
 address /video-dsp.pddpic.com/#
 address /video.dispatch.tc.qq.com/#
+address /vipauth.hpplay.cn/#
 address /virusinfo-cloudscan-cn.heytapmobi.com/#
 address /vlive.qqvideo.tc.qq.com/#
 address /volc.bj.ad.track.66mobi.com/#
