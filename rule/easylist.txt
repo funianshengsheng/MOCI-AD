@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-22 09:18:46
+! Last Modified: 2025-03-22 16:19:59
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -18,66 +18,66 @@ body {
 ||1500020991.vodplayer.wxamedia.com^
 font-family: Arial, sans-serif;
 ||1500026601.vodplayer.wxamedia.com^
-text-align: center;
 ||8le8le.com^
-margin: 0;
+text-align: center;
 ||a0.app.xiaomi.com^
+margin: 0;
 padding: 20px;
 ||aaid.umeng.com^
-background-color: #f9f9f9;
-}
 ||abtest-ch.snssdk.com^
 ||ad-cdn.qingting.fm^
-h1 {
-color: #333;
 ||ad-cmp.hismarttv.com^
 ||ad-download.hismarttv.com^
-p {
+background-color: #f9f9f9;
 ||ad-imp.hismarttv.com^
-color: #666;
+}
 ||ad-scope.com^
-a {
+h1 {
 ||ad-scope.com.cn^
-color: #007bff;
 ||ad-sdk-config.youdao.com^
-text-decoration: none;
+color: #333;
 ||ad-sdk.huxiu.com^
-a:hover {
+p {
 ||ad.12306.cn^
-text-decoration: underline;
+color: #666;
 ||ad.51wnl.com^
-</style>
+a {
 ||ad.bwton.com^
+color: #007bff;
 ||ad.cctv.com^
-</head>
 ||ad.cyapi.cn^
-<body>
+text-decoration: none;
 ||ad.doubleclick.net^
-<h1>域名已过期 | Domain Expired</h1>
+a:hover {
 ||ad.hpplay.cn^
-<p>
+text-decoration: underline;
 ||ad.partner.gifshow.com^
-该域名已过期，5秒后将跳转到新域名。<br>
+</style>
+</head>
 ||ad.qingting.fm^
+<body>
 ||ad.qq.com^
+<h1>域名已过期 | Domain Expired</h1>
 ||ad.richmob.cn^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+<p>
 ||ad.tencentmusic.com^
-</p>
 ||ad.toutiao.com^
 ||ad.v3mh.com^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.winrar.com.cn^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.xiaomi.com^
-</body>
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
+</p>
 ||ad.ximalaya.com^
-</html>
 ||ad.zijieapi.com^
 ||ad2.ettoday.net^
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||adapi.izuiyou.com^
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||adapi.yynetwk.com^
+</body>
 ||adashbc.ut.taobao.com^
+</html>
 ||adc.hpplay.cn^
 ||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
