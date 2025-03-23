@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-03-23 00:18:56
+# Last Modified: 2025-03-23 09:25:15
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	1500020991.vodplayer.wxamedia.com
@@ -326,7 +326,6 @@
 0.0.0.0	hmma.baidu.com
 0.0.0.0	hotupgrade.hpplay.cn
 0.0.0.0	houyi.kkmh.com
-0.0.0.0	hpplay.cdn.cibn.cc
 0.0.0.0	httpdns.bcelive.com
 0.0.0.0	httpdns.ocloud.oppomobile.com
 0.0.0.0	hugelog.fcbox.com

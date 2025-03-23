@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-23 00:18:56
+! Last Modified: 2025-03-23 09:25:15
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
@@ -326,7 +326,6 @@
 ||hmma.baidu.com^
 ||hotupgrade.hpplay.cn^
 ||houyi.kkmh.com^
-||hpplay.cdn.cibn.cc^
 ||httpdns.bcelive.com^
 ||httpdns.ocloud.oppomobile.com^
 ||hugelog.fcbox.com^
