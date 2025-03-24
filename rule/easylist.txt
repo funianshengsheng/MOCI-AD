@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-24 16:23:57
+! Last Modified: 2025-03-25 00:23:04
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -9,70 +9,70 @@
 <title>Domain Expired</title>
 <script>
 setTimeout(() => {
+||1010pic.com^
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
 }, 5000);
-||1010pic.com^
 </script>
 <style>
 body {
 ||1500020991.vodplayer.wxamedia.com^
 font-family: Arial, sans-serif;
 ||1500026601.vodplayer.wxamedia.com^
-text-align: center;
 ||8le8le.com^
-margin: 0;
+text-align: center;
 ||a0.app.xiaomi.com^
+margin: 0;
 padding: 20px;
 ||aaid.umeng.com^
-background-color: #f9f9f9;
 ||abtest-ch.snssdk.com^
+background-color: #f9f9f9;
+||ad-cdn.qingting.fm^
 }
 h1 {
-||ad-cdn.qingting.fm^
-color: #333;
 ||ad-cmp.hismarttv.com^
 ||ad-download.hismarttv.com^
-p {
 ||ad-imp.hismarttv.com^
-color: #666;
 ||ad-scope.com^
-a {
+color: #333;
 ||ad-scope.com.cn^
+||ad-sdk-config.youdao.com^
+p {
+||ad-sdk.huxiu.com^
+color: #666;
+||ad.12306.cn^
+a {
+||ad.51wnl.com^
 color: #007bff;
+||ad.bwton.com^
+||ad.cctv.com^
 text-decoration: none;
+||ad.cyapi.cn^
 a:hover {
 text-decoration: underline;
 </style>
 </head>
-<body>
-<h1>域名已过期 | Domain Expired</h1>
-<p>
-该域名已过期，5秒后将跳转到新域名。<br>
-||ad-sdk-config.youdao.com^
-The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-||ad-sdk.huxiu.com^
-</p>
-||ad.12306.cn^
-||ad.51wnl.com^
-||ad.bwton.com^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
-||ad.cctv.com^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
-||ad.cyapi.cn^
-</body>
 ||ad.doubleclick.net^
-</html>
+<body>
 ||ad.hpplay.cn^
 ||ad.partner.gifshow.com^
+<h1>域名已过期 | Domain Expired</h1>
 ||ad.qingting.fm^
+<p>
 ||ad.qq.com^
+该域名已过期，5秒后将跳转到新域名。<br>
 ||ad.richmob.cn^
+The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
 ||ad.tencentmusic.com^
+</p>
 ||ad.toutiao.com^
 ||ad.v3mh.com^
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad.winrar.com.cn^
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.ximalaya.com^
+</body>
 ||ad.zijieapi.com^
+</html>
 ||ad2.ettoday.net^
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
