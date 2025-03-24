@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-24 09:22:50
+! Last Modified: 2025-03-24 16:23:57
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!DOCTYPE html>
 <html lang="en">
@@ -10,8 +10,8 @@
 <script>
 setTimeout(() => {
 window.location.href = "https://y.demo.lhyang.org" + window.location.pathname + window.location.search;
-||1010pic.com^
 }, 5000);
+||1010pic.com^
 </script>
 <style>
 body {
@@ -23,52 +23,52 @@ text-align: center;
 margin: 0;
 ||a0.app.xiaomi.com^
 padding: 20px;
-background-color: #f9f9f9;
 ||aaid.umeng.com^
-}
+background-color: #f9f9f9;
 ||abtest-ch.snssdk.com^
+}
 h1 {
 ||ad-cdn.qingting.fm^
 color: #333;
 ||ad-cmp.hismarttv.com^
-p {
-color: #666;
 ||ad-download.hismarttv.com^
+p {
 ||ad-imp.hismarttv.com^
-a {
+color: #666;
 ||ad-scope.com^
-color: #007bff;
+a {
 ||ad-scope.com.cn^
+color: #007bff;
 text-decoration: none;
-||ad-sdk-config.youdao.com^
 a:hover {
-||ad-sdk.huxiu.com^
 text-decoration: underline;
-||ad.12306.cn^
 </style>
-||ad.51wnl.com^
 </head>
-||ad.bwton.com^
 <body>
-||ad.cctv.com^
 <h1>域名已过期 | Domain Expired</h1>
-||ad.cyapi.cn^
 <p>
 该域名已过期，5秒后将跳转到新域名。<br>
-||ad.doubleclick.net^
-||ad.hpplay.cn^
+||ad-sdk-config.youdao.com^
 The domain you are visiting has expired. You will be redirected to a new domain in 5 seconds.
-||ad.partner.gifshow.com^
+||ad-sdk.huxiu.com^
 </p>
+||ad.12306.cn^
+||ad.51wnl.com^
+||ad.bwton.com^
+如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
+||ad.cctv.com^
+If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
+||ad.cyapi.cn^
+</body>
+||ad.doubleclick.net^
+</html>
+||ad.hpplay.cn^
+||ad.partner.gifshow.com^
 ||ad.qingting.fm^
 ||ad.qq.com^
-如果未能自动跳转，请<a href="https://y.demo.lhyang.org">点击这里</a>。<br>
 ||ad.richmob.cn^
-If the redirection does not work, <a href="https://y.demo.lhyang.org">click here</a>.
 ||ad.tencentmusic.com^
-</body>
 ||ad.toutiao.com^
-</html>
 ||ad.v3mh.com^
 ||ad.winrar.com.cn^
 ||ad.ximalaya.com^
@@ -231,6 +231,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||audid-api.taobao.com^
 ||audid.umeng.com^
 ||b1-data.ads.heytapmobi.com^
+||badjs.weixinbridge.com^
 ||baichuan-sdk.alicdn.com^
 ||baichuan-sdk.taobao.com^
 ||bdad.123pan.cn^
@@ -264,7 +265,6 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||ccc-x.jd.com^
 ||ccs.umeng.com^
 ||cctv.adsunion.com^
-||cdn-ad.wtzw.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn.aiclk.com^
@@ -366,6 +366,7 @@ If the redirection does not work, <a href="https://y.demo.lhyang.org">click here
 ||hmma.baidu.com^
 ||hotupgrade.hpplay.cn^
 ||houyi.kkmh.com^
+||hpplay.cdn.cibn.cc^
 ||httpdns.bcelive.com^
 ||httpdns.ocloud.oppomobile.com^
 ||hugelog.fcbox.com^

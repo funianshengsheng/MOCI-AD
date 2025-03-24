@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-03-24 09:22:50
+# Last Modified: 2025-03-24 16:23:57
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	1500020991.vodplayer.wxamedia.com
@@ -191,6 +191,7 @@
 0.0.0.0	audid-api.taobao.com
 0.0.0.0	audid.umeng.com
 0.0.0.0	b1-data.ads.heytapmobi.com
+0.0.0.0	badjs.weixinbridge.com
 0.0.0.0	baichuan-sdk.alicdn.com
 0.0.0.0	baichuan-sdk.taobao.com
 0.0.0.0	bdad.123pan.cn
@@ -224,7 +225,6 @@
 0.0.0.0	ccc-x.jd.com
 0.0.0.0	ccs.umeng.com
 0.0.0.0	cctv.adsunion.com
-0.0.0.0	cdn-ad.wtzw.com
 0.0.0.0	cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0	cdn.aiclk.com
@@ -326,6 +326,7 @@
 0.0.0.0	hmma.baidu.com
 0.0.0.0	hotupgrade.hpplay.cn
 0.0.0.0	houyi.kkmh.com
+0.0.0.0	hpplay.cdn.cibn.cc
 0.0.0.0	httpdns.bcelive.com
 0.0.0.0	httpdns.ocloud.oppomobile.com
 0.0.0.0	hugelog.fcbox.com

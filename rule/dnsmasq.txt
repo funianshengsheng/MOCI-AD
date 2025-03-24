@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2025-03-24 09:22:50
+# Last Modified: 2025-03-24 16:23:57
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1010pic.com/
 address=/1500020991.vodplayer.wxamedia.com/
@@ -191,6 +191,7 @@ address=/auction.unityads.unity3d.com/
 address=/audid-api.taobao.com/
 address=/audid.umeng.com/
 address=/b1-data.ads.heytapmobi.com/
+address=/badjs.weixinbridge.com/
 address=/baichuan-sdk.alicdn.com/
 address=/baichuan-sdk.taobao.com/
 address=/bdad.123pan.cn/
@@ -224,7 +225,6 @@ address=/cbjs.baidu.com/
 address=/ccc-x.jd.com/
 address=/ccs.umeng.com/
 address=/cctv.adsunion.com/
-address=/cdn-ad.wtzw.com/
 address=/cdn-ads.oss-cn-shanghai.aliyuncs.com/
 address=/cdn-plugin-sync-upgrade-juui.hismarttv.com/
 address=/cdn.aiclk.com/
@@ -326,6 +326,7 @@ address=/hm.baidu.com/
 address=/hmma.baidu.com/
 address=/hotupgrade.hpplay.cn/
 address=/houyi.kkmh.com/
+address=/hpplay.cdn.cibn.cc/
 address=/httpdns.bcelive.com/
 address=/httpdns.ocloud.oppomobile.com/
 address=/hugelog.fcbox.com/
