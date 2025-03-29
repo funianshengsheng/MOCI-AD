@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-29 09:19:41
+! Last Modified: 2025-03-29 16:20:35
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
@@ -613,9 +613,11 @@
 ||tx-ad.a.yximgs.com^
 ||tx-kmpaudio.pull.yximgs.com^
 ||tytx.m.cn.miaozhen.com^
+<!doctype html>
 ||tz.sec.xiaomi.com^
 ||uapi.ads.heytapmobi.com^
 ||udc.yahoo.com^
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
 ||udcm.yahoo.com^
 ||uedas.qidian.com^
 ||ulog-sdk.gifshow.com^
@@ -636,15 +638,21 @@
 ||usr-api.aiclk.com^
 ||v.adintl.cn^
 ||v.adx.hubcloud.com.cn^
+<head>
 ||v1-ad.video.yximgs.com^
+<meta charset="utf-8">
 ||v2-ad.video.yximgs.com^
+<meta name="viewport" content="width=device-width, initial-scale=1">
 ||v2-api-channel-launcher.hismarttv.com^
 ||v2.gdt.qq.com^
 ||v2mi.gdt.qq.com^
 ||v3-ad.video.yximgs.com^
+<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
 ||v3.gdt.qq.com^
 ||video-ad.sm.cn^
+<link rel="preconnect" href="https://www.google.com" crossorigin>
 ||video-dsp.pddpic.com^
+</head>
 ||video.dispatch.tc.qq.com^
 ||vipauth.hpplay.cn^
 ||virusinfo-cloudscan-cn.heytapmobi.com^
@@ -653,13 +661,19 @@
 ||vungle.com^
 ||w.l.qq.com^
 ||w1.askwai.com^
+<body>
 ||w1.gskwai.com^
 ||w1.kskwai.com^
+<div id="target" style="opacity: 0"></div>
 ||watson.microsoft.com^
 ||watson.telemetry.microsoft.com^
+<script>window.park = "eyJ1dWlkIjoiMzhhZmRmMzMtMWYzNy00ZTViLWFkZjAtN2YzMTk2NzcwYjdlIiwicGFnZV90aW1lIjoxNzQzMjM2NDM1LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiNTIuMjM0LjQ0LjUzIn0K";</script>
 ||wcp.taobao.com^
+<script src="/bFmsTuhZu.js"></script>
 ||weather-analytics-events.apple.com^
+</body>
 ||weather-community-drcn.weather.dbankcloud.cn^
+</html>
 ||webstat.qiumibao.com^
 ||webview.unityads.unity3d.com^
 ||widgets.outbrain.com^
@@ -701,17 +715,3 @@
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
-<!doctype html>
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-<link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
-<body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiMjgzZTcwZGItZTdjYi00OTM3LTgzZDMtZjAxZWY1N2VhMDJkIiwicGFnZV90aW1lIjoxNzQzMjExMTgyLCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiNTIuMjM0LjM4LjMxIn0K";</script>
-<script src="/bcCeYVzvS.js"></script>
-</body>
-</html>
