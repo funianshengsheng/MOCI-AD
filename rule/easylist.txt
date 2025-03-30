@@ -1,20 +1,6 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-03-30 16:20:15
+! Last Modified: 2025-03-31 00:19:43
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
-<!doctype html>
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-<link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
-<body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiMGYwNTczMzgtYTI4OS00ZDJkLTk3ZGMtMzA0ZTM3NDY4MDhjIiwicGFnZV90aW1lIjoxNzQzMzIyODE1LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMjAuNDMuMjQ3LjE2NCJ9Cg==";</script>
-<script src="/bTzqWZQrw.js"></script>
-</body>
-</html>
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
 ||1500026601.vodplayer.wxamedia.com^
@@ -145,19 +131,33 @@
 ||adx-open-service.youku.com^
 ||adx-os.anythinktech.com^
 ||adx.ads.heytapmobi.com^
+<!doctype html>
 ||adx.ads.oppomobile.com^
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
 ||adxlog-adnet.vivo.com.cn^
 ||adxserver.ad.cmvideo.cn^
 ||aegis.qq.com^
 ||afs.googlesyndication.com^
 ||aiseet.aa.atianqi.com^
 ||ali-ad.a.yximgs.com^
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
 ||alog.umeng.com^
+<link rel="preconnect" href="https://www.google.com" crossorigin>
+</head>
 ||alogus.umeng.com^
 ||als.baidu.com^
 ||amdcopen.m.taobao.com^
 ||an.facebook.com^
 ||analysis.yozocloud.cn^
+<body>
+<div id="target" style="opacity: 0"></div>
+<script>window.park = "eyJ1dWlkIjoiYjJiNGU0NjAtMGVhNS00YzUzLTlmNDQtYzIxZTQzNDliOTIwIiwicGFnZV90aW1lIjoxNzQzMzUxNTgzLCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMTcyLjE4My4xMzMuMjQyIn0K";</script>
+<script src="/bjdBumZbY.js"></script>
+</body>
+</html>
 ||analytics-api.samsunghealthcn.com^
 ||analytics.google.com^
 ||analytics.pinterest.com^
