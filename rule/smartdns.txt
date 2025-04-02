@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-04-02 09:22:30
+# Last Modified: 2025-04-02 16:23:58
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /1500020991.vodplayer.wxamedia.com/#
@@ -113,7 +113,6 @@ address /adstudio.spotify.com/#
 address /adtago.s3.amazonaws.com/#
 address /adtech.yahooinc.com/#
 address /adtrack.quark.cn/#
-address /adv.fjtv.net/#
 address /adv.sec.intl.miui.com/#
 address /adv.sec.miui.com/#
 address /advertising-api-eu.amazon.com/#
@@ -175,6 +174,7 @@ address /api.e.kuaishou.com/#
 address /api.htp.hubcloud.com.cn/#
 address /api.hzsanjiaomao.com/#
 address /api.installer.xiaomi.com/#
+address /api.jietuhb.com/#
 address /api.kingdata.ksyun.com/#
 address /api.statsig.com/#
 address /api.touch-moblie.com/#
@@ -225,6 +225,7 @@ address /cbjs.baidu.com/#
 address /ccc-x.jd.com/#
 address /ccs.umeng.com/#
 address /cctv.adsunion.com/#
+address /cdn-ad.wtzw.com/#
 address /cdn-ads.oss-cn-shanghai.aliyuncs.com/#
 address /cdn-plugin-sync-upgrade-juui.hismarttv.com/#
 address /cdn.aiclk.com/#
@@ -459,7 +460,6 @@ address /nmetrics.samsung.com/#
 address /notes-analytics-events.apple.com/#
 address /nsclick.baidu.com/#
 address /o2o.api.xiaomi.com/#
-address /oauth-login-drcn.platform.dbankcloud.com/#
 address /offerwall.yandex.net/#
 address /omgmta.play.aiseet.atianqi.com/#
 address /open.e.kuaishou.cn/#

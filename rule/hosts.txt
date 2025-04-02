@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-04-02 09:22:30
+# Last Modified: 2025-04-02 16:23:58
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1010pic.com
 0.0.0.0	1500020991.vodplayer.wxamedia.com
@@ -113,7 +113,6 @@
 0.0.0.0	adtago.s3.amazonaws.com
 0.0.0.0	adtech.yahooinc.com
 0.0.0.0	adtrack.quark.cn
-0.0.0.0	adv.fjtv.net
 0.0.0.0	adv.sec.intl.miui.com
 0.0.0.0	adv.sec.miui.com
 0.0.0.0	advertising-api-eu.amazon.com
@@ -175,6 +174,7 @@
 0.0.0.0	api.htp.hubcloud.com.cn
 0.0.0.0	api.hzsanjiaomao.com
 0.0.0.0	api.installer.xiaomi.com
+0.0.0.0	api.jietuhb.com
 0.0.0.0	api.kingdata.ksyun.com
 0.0.0.0	api.statsig.com
 0.0.0.0	api.touch-moblie.com
@@ -225,6 +225,7 @@
 0.0.0.0	ccc-x.jd.com
 0.0.0.0	ccs.umeng.com
 0.0.0.0	cctv.adsunion.com
+0.0.0.0	cdn-ad.wtzw.com
 0.0.0.0	cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0	cdn.aiclk.com
@@ -459,7 +460,6 @@
 0.0.0.0	notes-analytics-events.apple.com
 0.0.0.0	nsclick.baidu.com
 0.0.0.0	o2o.api.xiaomi.com
-0.0.0.0	oauth-login-drcn.platform.dbankcloud.com
 0.0.0.0	offerwall.yandex.net
 0.0.0.0	omgmta.play.aiseet.atianqi.com
 0.0.0.0	open.e.kuaishou.cn
