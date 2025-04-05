@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-05 09:19:57
+! Last Modified: 2025-04-05 16:20:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
@@ -11,36 +11,22 @@
 ||ad-cdn.qingting.fm^
 ||ad-cmp.hismarttv.com^
 ||ad-download.hismarttv.com^
-<!doctype html>
 ||ad-imp.hismarttv.com^
 ||ad-scope.com^
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
 ||ad-scope.com.cn^
 ||ad-sdk-config.youdao.com^
 ||ad-sdk.huxiu.com^
 ||ad.12306.cn^
-<head>
 ||ad.51wnl.com^
-<meta charset="utf-8">
 ||ad.bwton.com^
-<meta name="viewport" content="width=device-width, initial-scale=1">
 ||ad.cctv.com^
-<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-<link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
 ||ad.cyapi.cn^
 ||ad.doubleclick.net^
 ||ad.hpplay.cn^
-<body>
 ||ad.partner.gifshow.com^
-<div id="target" style="opacity: 0"></div>
 ||ad.qingting.fm^
-<script>window.park = "eyJ1dWlkIjoiZGEyZmFmYzktZGMzNy00NmU4LThjNmUtNDM4MmE3NjE3YjQxIiwicGFnZV90aW1lIjoxNzQzODE1OTk4LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMjAuNTcuNDcuMjUzIn0K";</script>
 ||ad.qq.com^
-<script src="/baDCrLUAO.js"></script>
 ||ad.richmob.cn^
-</body>
-</html>
 ||ad.tencentmusic.com^
 ||ad.toutiao.com^
 ||ad.v3mh.com^
@@ -715,3 +701,17 @@
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
+<!doctype html>
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
+<link rel="preconnect" href="https://www.google.com" crossorigin>
+</head>
+<body>
+<div id="target" style="opacity: 0"></div>
+<script>window.park = "eyJ1dWlkIjoiNWFmMWYwMTgtYWQ0ZS00M2NmLWIzMzAtMzFmODRmNWQ3NzEwIiwicGFnZV90aW1lIjoxNzQzODQxMjA2LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMTcyLjE4My4xOTkuMTc2In0K";</script>
+<script src="/bOMOutwVh.js"></script>
+</body>
+</html>

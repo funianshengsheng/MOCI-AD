@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-04-05 09:19:57
+# Last Modified: 2025-04-05 16:20:06
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1010pic.com/#
 address /1500020991.vodplayer.wxamedia.com/#
