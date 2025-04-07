@@ -1,12 +1,26 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-07 00:19:14
+! Last Modified: 2025-04-07 09:23:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+<!doctype html>
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
 ||1010pic.com^
+<link rel="preconnect" href="https://www.google.com" crossorigin>
+</head>
 ||1500020991.vodplayer.wxamedia.com^
+<body>
 ||1500026601.vodplayer.wxamedia.com^
+<div id="target" style="opacity: 0"></div>
 ||8le8le.com^
+<script>window.park = "eyJ1dWlkIjoiNjBhZWI3MzMtMWZjNi00YmI1LWE1YjYtMTRjOGZiMzdlZWUzIiwicGFnZV90aW1lIjoxNzQzOTg5MDE4LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMjAuNTcuNDcuMjE2In0K";</script>
 ||a0.app.xiaomi.com^
+<script src="/biHGavSCh.js"></script>
+</body>
 ||aaid.umeng.com^
+</html>
 ||abtest-ch.snssdk.com^
 ||ad-cdn.qingting.fm^
 ||ad-cmp.hismarttv.com^
@@ -701,17 +715,3 @@
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
-<!doctype html>
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-<link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
-<body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiZDcwZmI4OTMtZjgzNC00OGY1LWIwZTgtYjBhOGI4MGI0ODZiIiwicGFnZV90aW1lIjoxNzQzOTU2MzU1LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiNTIuMjM0LjUuMjQ4In0K";</script>
-<script src="/bmThGpijT.js"></script>
-</body>
-</html>
