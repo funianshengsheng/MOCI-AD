@@ -1,7 +1,6 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-04-09 16:25:28
+# Last Modified: 2025-04-10 00:23:09
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
-0.0.0.0	1010pic.com
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500026601.vodplayer.wxamedia.com
 0.0.0.0	8le8le.com
@@ -45,6 +44,8 @@
 0.0.0.0	adcolony.com
 0.0.0.0	addata.jd.com
 0.0.0.0	adeng.hpplay.cn
+0.0.0.0	adexp.chinaliftoff.io
+0.0.0.0	adexp.liftoff.io
 0.0.0.0	adexpo.tencentmusic.com
 0.0.0.0	adfilter.imtt.qq.com
 0.0.0.0	adfstat.yandex.ru
@@ -113,6 +114,7 @@
 0.0.0.0	adtago.s3.amazonaws.com
 0.0.0.0	adtech.yahooinc.com
 0.0.0.0	adtrack.quark.cn
+0.0.0.0	adv.fjtv.net
 0.0.0.0	adv.sec.intl.miui.com
 0.0.0.0	adv.sec.miui.com
 0.0.0.0	advertising-api-eu.amazon.com
@@ -229,15 +231,20 @@
 0.0.0.0	cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0	cdn.aiclk.com
+0.0.0.0	cdn.chinaliftoff-creatives.io
 0.0.0.0	cdn.hpplay.com.cn
+0.0.0.0	cdn.liftoff-creatives.io
 0.0.0.0	cdn.ynuf.aliapp.org
 0.0.0.0	cfg.imtt.qq.com
 0.0.0.0	chat1.jd.com
 0.0.0.0	chiq-cloud.com
 0.0.0.0	cj.qidian.com
 0.0.0.0	ck.ads.oppomobile.com
+0.0.0.0	click.chinaliftoff.io
 0.0.0.0	click.googleanalytics.com
+0.0.0.0	click.liftoff.io
 0.0.0.0	click.oneplus.cn
+0.0.0.0	click4.chinaliftoff.io
 0.0.0.0	clog.miguvideo.com
 0.0.0.0	cn-api.anythinktech.com
 0.0.0.0	cnlogs.umeng.com
@@ -250,7 +257,6 @@
 0.0.0.0	config.unityads.unity3d.com
 0.0.0.0	cpc-service-square.aiclk.com
 0.0.0.0	cpro.baidustatic.com
-0.0.0.0	crashlytics.com
 0.0.0.0	crashlyticsreports-pa.googleapis.com
 0.0.0.0	csjplatform.com
 0.0.0.0	cws-cctv.conviva.com
@@ -293,6 +299,7 @@
 0.0.0.0	firebaselogging-pa.googleapis.com
 0.0.0.0	flurry.com
 0.0.0.0	frontend-perf-service.e.kuaishou.com
+0.0.0.0	fundingchoicesmessages.google.com
 0.0.0.0	fxgate.baidu.com
 0.0.0.0	g.dtv.cn.miaozhen.com
 0.0.0.0	g2.ganjing.world
@@ -306,6 +313,7 @@
 0.0.0.0	ggx01.miguvideo.com
 0.0.0.0	ggx03.miguvideo.com
 0.0.0.0	google-analytics.com
+0.0.0.0	googleads.g.doubleclick-cn.net
 0.0.0.0	googleads.g.doubleclick.net
 0.0.0.0	googleadservices-cn.com
 0.0.0.0	googleadservices.com
@@ -352,6 +360,8 @@
 0.0.0.0	img-c.heytapimage.com
 0.0.0.0	img-x.jd.com
 0.0.0.0	img.adnyg.com.w.kunlungr.com
+0.0.0.0	impression-asia.chinaliftoff.io
+0.0.0.0	impression-asia.liftoff.io
 0.0.0.0	in.treasuredata.com
 0.0.0.0	iot-eu-logser.realme.com
 0.0.0.0	iot-logser.realme.com
@@ -376,6 +386,7 @@
 0.0.0.0	launcherimg.smart-tv.cn
 0.0.0.0	lf3-ad-union-sdk.pglstatp-toutiao.com
 0.0.0.0	lf6-ad-union-sdk.pglstatp-toutiao.com
+0.0.0.0	lh3.googleadsserving.cn
 0.0.0.0	litchiads.com
 0.0.0.0	liveats-vod.video.ptqy.gitv.tv
 0.0.0.0	livemonitor.huan.tv
@@ -461,6 +472,7 @@
 0.0.0.0	nsclick.baidu.com
 0.0.0.0	o2o.api.xiaomi.com
 0.0.0.0	offerwall.yandex.net
+0.0.0.0	ogads-pa.clients6.google.com
 0.0.0.0	omgmta.play.aiseet.atianqi.com
 0.0.0.0	open.e.kuaishou.cn
 0.0.0.0	open.e.kuaishou.com
@@ -598,6 +610,8 @@
 0.0.0.0	tnc3-bjlgy.toutiaoapi.com
 0.0.0.0	tnc3-bjlgy.zijieapi.com
 0.0.0.0	toblog.ctobsnssdk.com
+0.0.0.0	tpc.googlesyndication-cn.com
+0.0.0.0	tpc.googlesyndication.com
 0.0.0.0	trace.qq.com
 0.0.0.0	tracelog-debug.aiclk.com
 0.0.0.0	tracelog-debug.qquanquan.com
@@ -607,7 +621,6 @@
 0.0.0.0	tracker.gitee.com
 0.0.0.0	tracking.miui.com
 0.0.0.0	tracking.rus.miui.com
-0.0.0.0	tsvrv.com
 0.0.0.0	tvapp.hpplay.cn
 0.0.0.0	tvuser-ch.cedock.com
 0.0.0.0	tx-ad.a.yximgs.com

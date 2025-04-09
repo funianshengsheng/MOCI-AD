@@ -1,27 +1,26 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-09 16:25:28
+! Last Modified: 2025-04-10 00:23:09
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!doctype html>
 <html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+||1500020991.vodplayer.wxamedia.com^
 <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
 <link rel="preconnect" href="https://www.google.com" crossorigin>
 </head>
+||1500026601.vodplayer.wxamedia.com^
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiOWU5MTExY2UtY2ViZC00NzJkLTg0NDgtOWUzNGIxMWNmMzgzIiwicGFnZV90aW1lIjoxNzQ0MTg3MTI4LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMjAuMjUuMTkyLjE2NCJ9Cg==";</script>
-<script src="/btMvvtgEK.js"></script>
-</body>
-</html>
-||1010pic.com^
-||1500020991.vodplayer.wxamedia.com^
-||1500026601.vodplayer.wxamedia.com^
 ||8le8le.com^
 ||a0.app.xiaomi.com^
+<script>window.park = "eyJ1dWlkIjoiNmIxNGU2NzctZTU1NS00NTFmLWI3YzktN2E3ZDA0YTdhZjg5IiwicGFnZV90aW1lIjoxNzQ0MjE1Nzg5LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMTcyLjIwMC4xODEuMTI3In0K";</script>
 ||aaid.umeng.com^
+<script src="/boUdRgaMX.js"></script>
 ||abtest-ch.snssdk.com^
+</body>
+</html>
 ||ad-cdn.qingting.fm^
 ||ad-cmp.hismarttv.com^
 ||ad-download.hismarttv.com^
@@ -59,6 +58,8 @@
 ||adcolony.com^
 ||addata.jd.com^
 ||adeng.hpplay.cn^
+||adexp.chinaliftoff.io^
+||adexp.liftoff.io^
 ||adexpo.tencentmusic.com^
 ||adfilter.imtt.qq.com^
 ||adfstat.yandex.ru^
@@ -127,6 +128,7 @@
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
 ||adtrack.quark.cn^
+||adv.fjtv.net^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
 ||advertising-api-eu.amazon.com^
@@ -243,15 +245,20 @@
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn.aiclk.com^
+||cdn.chinaliftoff-creatives.io^
 ||cdn.hpplay.com.cn^
+||cdn.liftoff-creatives.io^
 ||cdn.ynuf.aliapp.org^
 ||cfg.imtt.qq.com^
 ||chat1.jd.com^
 ||chiq-cloud.com^
 ||cj.qidian.com^
 ||ck.ads.oppomobile.com^
+||click.chinaliftoff.io^
 ||click.googleanalytics.com^
+||click.liftoff.io^
 ||click.oneplus.cn^
+||click4.chinaliftoff.io^
 ||clog.miguvideo.com^
 ||cn-api.anythinktech.com^
 ||cnlogs.umeng.com^
@@ -264,7 +271,6 @@
 ||config.unityads.unity3d.com^
 ||cpc-service-square.aiclk.com^
 ||cpro.baidustatic.com^
-||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||csjplatform.com^
 ||cws-cctv.conviva.com^
@@ -307,6 +313,7 @@
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
 ||frontend-perf-service.e.kuaishou.com^
+||fundingchoicesmessages.google.com^
 ||fxgate.baidu.com^
 ||g.dtv.cn.miaozhen.com^
 ||g2.ganjing.world^
@@ -320,6 +327,7 @@
 ||ggx01.miguvideo.com^
 ||ggx03.miguvideo.com^
 ||google-analytics.com^
+||googleads.g.doubleclick-cn.net^
 ||googleads.g.doubleclick.net^
 ||googleadservices-cn.com^
 ||googleadservices.com^
@@ -366,6 +374,8 @@
 ||img-c.heytapimage.com^
 ||img-x.jd.com^
 ||img.adnyg.com.w.kunlungr.com^
+||impression-asia.chinaliftoff.io^
+||impression-asia.liftoff.io^
 ||in.treasuredata.com^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
@@ -390,6 +400,7 @@
 ||launcherimg.smart-tv.cn^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
+||lh3.googleadsserving.cn^
 ||litchiads.com^
 ||liveats-vod.video.ptqy.gitv.tv^
 ||livemonitor.huan.tv^
@@ -475,6 +486,7 @@
 ||nsclick.baidu.com^
 ||o2o.api.xiaomi.com^
 ||offerwall.yandex.net^
+||ogads-pa.clients6.google.com^
 ||omgmta.play.aiseet.atianqi.com^
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
@@ -612,6 +624,8 @@
 ||tnc3-bjlgy.toutiaoapi.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||toblog.ctobsnssdk.com^
+||tpc.googlesyndication-cn.com^
+||tpc.googlesyndication.com^
 ||trace.qq.com^
 ||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
@@ -621,7 +635,6 @@
 ||tracker.gitee.com^
 ||tracking.miui.com^
 ||tracking.rus.miui.com^
-||tsvrv.com^
 ||tvapp.hpplay.cn^
 ||tvuser-ch.cedock.com^
 ||tx-ad.a.yximgs.com^
