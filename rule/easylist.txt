@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-09 00:22:50
+! Last Modified: 2025-04-09 09:21:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!doctype html>
 <html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
@@ -9,16 +9,16 @@
 <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
 <link rel="preconnect" href="https://www.google.com" crossorigin>
 </head>
-||1010pic.com^
 <body>
 <div id="target" style="opacity: 0"></div>
-||1500020991.vodplayer.wxamedia.com^
-<script>window.park = "eyJ1dWlkIjoiNjVjNGY4MzQtNTJiNS00YmU2LWE5OTgtNzU3YTU0ZTRmN2I5IiwicGFnZV90aW1lIjoxNzQ0MTI5MzcwLCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiNTIuMTkwLjEzOC4xOTYifQo=";</script>
-||1500026601.vodplayer.wxamedia.com^
-<script src="/bGTBETwoI.js"></script>
+<script>window.park = "eyJ1dWlkIjoiYTRjNmExMDQtMDU1Yy00MGIxLTg4ZjYtMTUwMzEzNjdhNjVkIiwicGFnZV90aW1lIjoxNzQ0MTYxNzA5LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMjAuNDIuMTcuMTE2In0K";</script>
+<script src="/biKcMBUGk.js"></script>
 </body>
-||8le8le.com^
 </html>
+||1010pic.com^
+||1500020991.vodplayer.wxamedia.com^
+||1500026601.vodplayer.wxamedia.com^
+||8le8le.com^
 ||a0.app.xiaomi.com^
 ||aaid.umeng.com^
 ||abtest-ch.snssdk.com^
