@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-10 16:23:25
+! Last Modified: 2025-04-11 00:22:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1500020991.vodplayer.wxamedia.com^
 ||1500026601.vodplayer.wxamedia.com^
@@ -724,7 +724,7 @@
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiZGIzZWRmNDctYmRhZS00OGUyLTk5ZGYtYmRiNTBjZDU2NmZkIiwicGFnZV90aW1lIjoxNzQ0MjczNDA1LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiNTIuMjI1LjI4LjE0MCJ9Cg==";</script>
-<script src="/bKaqmtMOr.js"></script>
+<script>window.park = "eyJ1dWlkIjoiZDkxOTdmNjgtYTRkMS00ZDM0LThmMGQtMjc0MmFmZTEwYWIxIiwicGFnZV90aW1lIjoxNzQ0MzAyMTc2LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMjAuMTY5LjE0LjkifQo=";</script>
+<script src="/bZwxthycg.js"></script>
 </body>
 </html>
