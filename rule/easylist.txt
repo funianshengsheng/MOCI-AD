@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-12 09:20:11
+! Last Modified: 2025-04-12 16:20:30
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!doctype html>
 <html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
@@ -9,18 +9,18 @@
 <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
 <link rel="preconnect" href="https://www.google.com" crossorigin>
 </head>
-||1500020991.vodplayer.wxamedia.com^
 <body>
-||1500026601.vodplayer.wxamedia.com^
 <div id="target" style="opacity: 0"></div>
-||8le8le.com^
-<script>window.park = "eyJ1dWlkIjoiZjFiZTY3ODQtOGFjMC00MzhiLWExNmMtODdhN2YwMmY1MjNmIiwicGFnZV90aW1lIjoxNzQ0NDIwODEyLCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMjAuNzUuOTIuMTUyIn0K";</script>
-||a0.app.xiaomi.com^
-<script src="/brBfjwojs.js"></script>
-||aaid.umeng.com^
+<script>window.park = "eyJ1dWlkIjoiZTY4ZWQ3YjAtYjBkMC00NGJjLWEyYmUtOTgzYTY4NzJjZGIwIiwicGFnZV90aW1lIjoxNzQ0NDQ2MDMwLCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMjAuNzUuOTIuMTUzIn0K";</script>
+||1500020991.vodplayer.wxamedia.com^
+<script src="/btqBGgmfx.js"></script>
 </body>
-||abtest-ch.snssdk.com^
 </html>
+||1500026601.vodplayer.wxamedia.com^
+||8le8le.com^
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
+||abtest-ch.snssdk.com^
 ||ad-cdn.qingting.fm^
 ||ad-cmp.hismarttv.com^
 ||ad-download.hismarttv.com^
