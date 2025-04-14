@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-14 16:24:33
+! Last Modified: 2025-04-15 00:22:43
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -591,7 +591,6 @@
 ||stat.y.qq.com^
 ||static.ads-twitter.com^
 ||statics.woozooo.com^
-||stats.qiumibao.com^
 ||stats.wp.com^
 ||statsigapi.net^
 ||stg-data.ads.heytapmobi.com^
