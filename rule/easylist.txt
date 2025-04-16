@@ -1,26 +1,26 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-16 16:24:53
+! Last Modified: 2025-04-17 00:23:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!doctype html>
 <html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+||1500020991.vodplayer.wxamedia.com^
 <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
 <link rel="preconnect" href="https://www.google.com" crossorigin>
 </head>
+||1500022744.vodplayer.wxamedia.com^
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiYTU4MGQ5NDgtY2NmNy00NWExLTg0Y2UtN2M4M2I5NmZkNWIwIiwicGFnZV90aW1lIjoxNzQ0NzkxODk0LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMTcyLjIxNC4xNzQuMTA4In0K";</script>
-<script src="/bydOXUkwi.js"></script>
-</body>
-</html>
-||1500020991.vodplayer.wxamedia.com^
-||1500022744.vodplayer.wxamedia.com^
 ||1500026601.vodplayer.wxamedia.com^
+<script>window.park = "eyJ1dWlkIjoiOGJhZmI2ZDgtNzg4OS00MDdkLWI1YzgtMzJmYTMyYzc0MTYzIiwicGFnZV90aW1lIjoxNzQ0ODIwNjAyLCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMTcyLjE4My43Ny42NCJ9Cg==";</script>
 ||8le8le.com^
+<script src="/bRVUdKQzv.js"></script>
 ||a0.app.xiaomi.com^
+</body>
 ||aaid.umeng.com^
+</html>
 ||abtest-ch.snssdk.com^
 ||ad-cdn.qingting.fm^
 ||ad-scope.com^
