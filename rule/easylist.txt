@@ -1,40 +1,40 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-19 00:21:17
+! Last Modified: 2025-04-19 09:19:54
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
-<!doctype html>
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-<link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
-<body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiOWM4Yjg4OTYtMmExMS00ZGVjLTlkYzQtZThiMGFiY2ZjZTYxIiwicGFnZV90aW1lIjoxNzQ0OTkzMjc4LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiNTIuMTU1LjYyLjI0NyJ9Cg==";</script>
-<script src="/bwcMRMJXX.js"></script>
-</body>
-</html>
 ||1500020991.vodplayer.wxamedia.com^
+<!doctype html>
 ||1500022744.vodplayer.wxamedia.com^
 ||1500026601.vodplayer.wxamedia.com^
 ||8le8le.com^
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
 ||a0.app.xiaomi.com^
 ||aaid.umeng.com^
 ||abtest-ch.snssdk.com^
 ||ad-cdn.qingting.fm^
+<head>
 ||ad-scope.com^
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 ||ad-scope.com.cn^
 ||ad-sdk-config.youdao.com^
+<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
 ||ad-sdk.huxiu.com^
+<link rel="preconnect" href="https://www.google.com" crossorigin>
+</head>
 ||ad.12306.cn^
 ||ad.51wnl.com^
 ||ad.bwton.com^
+<body>
 ||ad.cctv.com^
+<div id="target" style="opacity: 0"></div>
 ||ad.cyapi.cn^
+<script>window.park = "eyJ1dWlkIjoiNzFkZGYzMzMtZTY2Yi00NDY0LThjODgtOWZmNTc4M2ZlNWYyIiwicGFnZV90aW1lIjoxNzQ1MDI1NTk0LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMjAuMTYxLjc4LjExMSJ9Cg==";</script>
 ||ad.doubleclick.net^
+<script src="/bMmQnPTWo.js"></script>
 ||ad.hpplay.cn^
+</body>
 ||ad.partner.gifshow.com^
+</html>
 ||ad.qingting.fm^
 ||ad.qq.com^
 ||ad.richmob.cn^
