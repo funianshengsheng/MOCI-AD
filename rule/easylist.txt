@@ -1,8 +1,22 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-21 00:19:36
+! Last Modified: 2025-04-21 09:26:41
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+<!doctype html>
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
+<link rel="preconnect" href="https://www.google.com" crossorigin>
+</head>
 ||1500020991.vodplayer.wxamedia.com^
+<body>
+<div id="target" style="opacity: 0"></div>
+<script>window.park = "eyJ1dWlkIjoiMmYwOTJlMTgtMDc1Mi00OGQ0LTg4NWItNjg4NmEwMzgxZjI5IiwicGFnZV90aW1lIjoxNzQ1MTk4ODAxLCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiNTIuMjM0LjMzLjIxOCJ9Cg==";</script>
 ||1500022744.vodplayer.wxamedia.com^
+<script src="/baAtgXWIC.js"></script>
+</body>
+</html>
 ||1500026601.vodplayer.wxamedia.com^
 ||8le8le.com^
 ||a0.app.xiaomi.com^
@@ -16,10 +30,8 @@
 ||ad.12306.cn^
 ||ad.51wnl.com^
 ||ad.bwton.com^
-<!doctype html>
 ||ad.cctv.com^
 ||ad.cyapi.cn^
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
 ||ad.doubleclick.net^
 ||ad.hpplay.cn^
 ||ad.partner.gifshow.com^
@@ -29,26 +41,14 @@
 ||ad.tencentmusic.com^
 ||ad.toutiao.com^
 ||ad.v3mh.com^
-<head>
 ||ad.winrar.com.cn^
-<meta charset="utf-8">
 ||ad.ximalaya.com^
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-<link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
 ||ad.zijieapi.com^
 ||ad2.ettoday.net^
-<body>
-<div id="target" style="opacity: 0"></div>
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
 ||adc.hpplay.cn^
-<script>window.park = "eyJ1dWlkIjoiZjZmZTg1MGQtNzJjNC00YzA3LWI1MjEtY2YzZjc5ZDA0MDc5IiwicGFnZV90aW1lIjoxNzQ1MTY1OTc2LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMjAuMTAyLjE5OS4yMjAifQo=";</script>
-<script src="/buGqIxOsK.js"></script>
-</body>
-</html>
 ||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
 ||adclick.g.doubleclick.net^
