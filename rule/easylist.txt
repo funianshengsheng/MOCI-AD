@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-21 16:24:20
+! Last Modified: 2025-04-22 00:21:45
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -472,11 +472,9 @@
 ||monsetting.toutiao.com^
 ||mssdk.volces.com^
 ||mssdk.zijieapi.com^
-<!doctype html>
 ||mtj.baidu.com^
 ||nadvideo2.baidu.com^
 ||newvoice.chiq5.smart-tv.cn^
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
 ||nmetrics.samsung.com^
 ||notes-analytics-events.apple.com^
 ||nsclick.baidu.com^
@@ -515,18 +513,12 @@
 ||pgdt.gtimg.cn^
 ||pgdt.ugdtimg.com^
 ||pig.pupuapi.com^
-<head>
 ||pin.hpplay.cn^
 ||pixon.ads-pixiv.net^
-<meta charset="utf-8">
 ||pkoplink.com^
-<meta name="viewport" content="width=device-width, initial-scale=1">
 ||plbslog.umeng.com^
 ||pms.mb.qq.com^
-<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-<link rel="preconnect" href="https://www.google.com" crossorigin>
 ||policy.video.ptqy.gitv.tv^
-</head>
 ||pos.baidu.com^
 ||proxy.advp.apple.com^
 ||public.gdtimg.com^
@@ -535,18 +527,12 @@
 ||qqdata.ab.qq.com^
 ||qzs.gdtimg.com^
 ||recommend-drcn.hms.dbankcloud.cn^
-<body>
 ||report.tv.kohesport.qq.com^
-<div id="target" style="opacity: 0"></div>
 ||res1.hubcloud.com.cn^
 ||resolve.umeng.com^
-<script>window.park = "eyJ1dWlkIjoiODA5YWUzNDEtYmQ5ZC00YmFmLWJmZGQtZGZjYWI4NzM2ZWVkIiwicGFnZV90aW1lIjoxNzQ1MjIzODYwLCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMTcyLjE4My4yMjkuOTIifQo=";</script>
 ||review.gdtimg.com^
-<script src="/bTOHoyzcX.js"></script>
 ||rlog.popin.cc^
-</body>
 ||rms-drcn.platform.dbankcloud.cn^
-</html>
 ||roi.soulapp.cn^
 ||rp.hpplay.cn^
 ||rpt.gdt.qq.com^
@@ -748,3 +734,17 @@
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
+<!doctype html>
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_sWuPTLUqM38autCv0g6fH/05aMAtMKWk9+j+u1zcVLosC5hCdUq+AngcHl86vPymaFerMXwTEngb5wjIhdoXrQ==" lang="en" style="background: #2B2B2B;">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
+<link rel="preconnect" href="https://www.google.com" crossorigin>
+</head>
+<body>
+<div id="target" style="opacity: 0"></div>
+<script>window.park = "eyJ1dWlkIjoiZThiMTMxOWQtOWY1NS00N2MzLThkNDktMWQxZWU4MzcxNGI5IiwicGFnZV90aW1lIjoxNzQ1MjUyNTA2LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiNTIuMTkwLjEzOC4xNjgifQo=";</script>
+<script src="/bVyhUBBvo.js"></script>
+</body>
+</html>
