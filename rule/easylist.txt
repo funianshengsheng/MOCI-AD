@@ -1,13 +1,27 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-26 09:21:11
+! Last Modified: 2025-04-26 16:20:48
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+<!doctype html>
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_HOfs8qPQtfjtZmAsscgnSS0X5bfVj7PQlHeLtIYkd9fJx3sJhot6+B+cSoI9RCyoXk+RZSdDZjeY/InAYTi/Hw==" lang="en" style="background: #2B2B2B;">
+<head>
+<meta charset="utf-8">
 ||1500020991.vodplayer.wxamedia.com^
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
+<link rel="preconnect" href="https://www.google.com" crossorigin>
+</head>
 ||1500022744.vodplayer.wxamedia.com^
 ||1500026601.vodplayer.wxamedia.com^
+<body>
 ||8le8le.com^
+<div id="target" style="opacity: 0"></div>
 ||a0.app.xiaomi.com^
+<script>window.park = "eyJ1dWlkIjoiMGYwZmM3MGQtZWZkMC00MGUwLWJkMDAtZDEwNWZjNzc3YmRkIiwicGFnZV90aW1lIjoxNzQ1NjU1NjQ4LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiMjAuMjUuMTkyLjM5In0K";</script>
 ||aaid.umeng.com^
+<script src="/bbFBVOFmg.js"></script>
 ||abtest-ch.snssdk.com^
+</body>
+</html>
 ||ad-cdn.qingting.fm^
 ||ad-scope.com^
 ||ad-scope.com.cn^
@@ -782,17 +796,3 @@
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
-<!doctype html>
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_HOfs8qPQtfjtZmAsscgnSS0X5bfVj7PQlHeLtIYkd9fJx3sJhot6+B+cSoI9RCyoXk+RZSdDZjeY/InAYTi/Hw==" lang="en" style="background: #2B2B2B;">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-<link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
-<body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiMjA1ZmYyYWYtNzM1ZS00NWQzLThhYjktZGQ1ZDA1NWE4YTY4IiwicGFnZV90aW1lIjoxNzQ1NjMwNDcxLCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiNTIuMTkwLjE0MS4xNzYifQo=";</script>
-<script src="/bFAfFNUMC.js"></script>
-</body>
-</html>
