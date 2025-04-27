@@ -1,33 +1,33 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-04-27 09:36:08
+! Last Modified: 2025-04-27 16:20:33
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 <!doctype html>
 <html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_HOfs8qPQtfjtZmAsscgnSS0X5bfVj7PQlHeLtIYkd9fJx3sJhot6+B+cSoI9RCyoXk+RZSdDZjeY/InAYTi/Hw==" lang="en" style="background: #2B2B2B;">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-<link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
-<body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiM2YzYTNmNDYtNzcyZS00NzU4LWJkNmUtYTFlMjEwMWUwYzY3IiwicGFnZV90aW1lIjoxNzQ1NzE3NzY5LCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiNTIuMjM0LjQ3LjIxOSJ9Cg==";</script>
-<script src="/bMCISMlWq.js"></script>
-</body>
-</html>
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
+<head>
 ||1500026601.vodplayer.wxamedia.com^
+<meta charset="utf-8">
 ||8le8le.com^
+<meta name="viewport" content="width=device-width, initial-scale=1">
 ||a0.app.xiaomi.com^
+<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
 ||aaid.umeng.com^
+<link rel="preconnect" href="https://www.google.com" crossorigin>
 ||abtest-ch.snssdk.com^
+</head>
 ||ad-cdn.qingting.fm^
 ||ad-scope.com^
 ||ad-scope.com.cn^
 ||ad-sdk-config.youdao.com^
+<body>
+<div id="target" style="opacity: 0"></div>
 ||ad-sdk.huxiu.com^
+<script>window.park = "eyJ1dWlkIjoiODIzODEyYzEtOTA2NS00ZWRiLWJkMjctZGY1ZWM0MjY2MmFlIiwicGFnZV90aW1lIjoxNzQ1NzQyMDMzLCJwYWdlX3VybCI6Imh0dHBzOi8veS5kZW1vLnd2dXNkLmhvbWVzL2h0dHBzOi9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc5MDk1MzIxNC9xeS1BZHMtUnVsZS9tYWluL2JsYWNrLnR4dCIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6InkuZGVtby53dnVzZC5ob21lcyIsImlwIjoiNC4yMjcuMTc1LjgxIn0K";</script>
 ||ad.12306.cn^
+<script src="/bzaLEODzp.js"></script>
+</body>
+</html>
 ||ad.51wnl.com^
 ||ad.api.3g.youku.com^
 ||ad.bwton.com^
