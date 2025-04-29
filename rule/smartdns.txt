@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-04-29 16:25:38
+# Last Modified: 2025-04-30 00:22:26
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1500020991.vodplayer.wxamedia.com/#
 address /1500022744.vodplayer.wxamedia.com/#
@@ -20,6 +20,7 @@ address /ad.bwton.com/#
 address /ad.cctv.com/#
 address /ad.cyapi.cn/#
 address /ad.doubleclick.net/#
+address /ad.gameley.com/#
 address /ad.hpplay.cn/#
 address /ad.partner.gifshow.com/#
 address /ad.qingting.fm/#
@@ -58,6 +59,7 @@ address /ads-api.tiktok.com/#
 address /ads-api.twitter.com/#
 address /ads-img-qc.xhscdn.com/#
 address /ads-marketing-vivofs.vivo.com.cn/#
+address /ads-sdk-api.ranfenghd.com/#
 address /ads-sg.tiktok.com/#
 address /ads-video-al.xhscdn.com/#
 address /ads-video-qc.xhscdn.com/#
@@ -86,6 +88,7 @@ address /ads5-normal-hl.zijieapi.com/#
 address /ads5-normal-lf.zijieapi.com/#
 address /ads5-normal-lq.zijieapi.com/#
 address /ads5-normal.zijieapi.com/#
+address /adsdk.vivo.com.cn/#
 address /adse.test.ximalaya.com/#
 address /adse.wsa.ximalaya.com/#
 address /adse.ximalaya.com/#
@@ -135,6 +138,7 @@ address /adx.ads.heytapmobi.com/#
 address /adx.ads.oppomobile.com/#
 address /adx.appsdk.com.cn/#
 address /adx.sogaha.cn/#
+address /adx.tuia.cn/#
 address /adxlog-adnet.vivo.com.cn/#
 address /adxserver.ad.cmvideo.cn/#
 address /aegis.qq.com/#
@@ -345,6 +349,7 @@ address /h-adashx.ut.taobao.com/#
 address /h.trace.qq.com/#
 address /h5.hpplay.com.cn/#
 address /hanlanad.com/#
+address /hc-ssp.sm.cn/#
 address /heads-ak.spotify.com.edgesuite.net/#
 address /heads-fa.spotify.com/#
 address /hexagon-analytics.com/#
@@ -494,6 +499,7 @@ address /ms.applovin.com/#
 address /ms.applvn.com/#
 address /ms4.applovin.com/#
 address /ms4.applvn.com/#
+address /msdk.voiceads.cn/#
 address /mssdk.volces.com/#
 address /mssdk.zijieapi.com/#
 address /mtj.baidu.com/#
@@ -744,7 +750,6 @@ address /widgets.outbrain.com/#
 address /widgets.pinterest.com/#
 address /wildcard.moatads.com.edgekey.net/#
 address /win.gdt.qq.com/#
-address /wn.x.jd.com/#
 address /ws-keyboard.shouji.sogou.com/#
 address /ws.sj.qq.com/#
 address /wv.inner-active.mobi/#

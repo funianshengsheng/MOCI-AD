@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-04-29 16:25:38
+# Last Modified: 2025-04-30 00:22:26
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -20,6 +20,7 @@
 0.0.0.0	ad.cctv.com
 0.0.0.0	ad.cyapi.cn
 0.0.0.0	ad.doubleclick.net
+0.0.0.0	ad.gameley.com
 0.0.0.0	ad.hpplay.cn
 0.0.0.0	ad.partner.gifshow.com
 0.0.0.0	ad.qingting.fm
@@ -58,6 +59,7 @@
 0.0.0.0	ads-api.twitter.com
 0.0.0.0	ads-img-qc.xhscdn.com
 0.0.0.0	ads-marketing-vivofs.vivo.com.cn
+0.0.0.0	ads-sdk-api.ranfenghd.com
 0.0.0.0	ads-sg.tiktok.com
 0.0.0.0	ads-video-al.xhscdn.com
 0.0.0.0	ads-video-qc.xhscdn.com
@@ -86,6 +88,7 @@
 0.0.0.0	ads5-normal-lf.zijieapi.com
 0.0.0.0	ads5-normal-lq.zijieapi.com
 0.0.0.0	ads5-normal.zijieapi.com
+0.0.0.0	adsdk.vivo.com.cn
 0.0.0.0	adse.test.ximalaya.com
 0.0.0.0	adse.wsa.ximalaya.com
 0.0.0.0	adse.ximalaya.com
@@ -135,6 +138,7 @@
 0.0.0.0	adx.ads.oppomobile.com
 0.0.0.0	adx.appsdk.com.cn
 0.0.0.0	adx.sogaha.cn
+0.0.0.0	adx.tuia.cn
 0.0.0.0	adxlog-adnet.vivo.com.cn
 0.0.0.0	adxserver.ad.cmvideo.cn
 0.0.0.0	aegis.qq.com
@@ -345,6 +349,7 @@
 0.0.0.0	h.trace.qq.com
 0.0.0.0	h5.hpplay.com.cn
 0.0.0.0	hanlanad.com
+0.0.0.0	hc-ssp.sm.cn
 0.0.0.0	heads-ak.spotify.com.edgesuite.net
 0.0.0.0	heads-fa.spotify.com
 0.0.0.0	hexagon-analytics.com
@@ -494,6 +499,7 @@
 0.0.0.0	ms.applvn.com
 0.0.0.0	ms4.applovin.com
 0.0.0.0	ms4.applvn.com
+0.0.0.0	msdk.voiceads.cn
 0.0.0.0	mssdk.volces.com
 0.0.0.0	mssdk.zijieapi.com
 0.0.0.0	mtj.baidu.com
@@ -744,7 +750,6 @@
 0.0.0.0	widgets.pinterest.com
 0.0.0.0	wildcard.moatads.com.edgekey.net
 0.0.0.0	win.gdt.qq.com
-0.0.0.0	wn.x.jd.com
 0.0.0.0	ws-keyboard.shouji.sogou.com
 0.0.0.0	ws.sj.qq.com
 0.0.0.0	wv.inner-active.mobi
