@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-05-09 16:24:36
+# Last Modified: 2025-05-10 00:22:30
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1500020991.vodplayer.wxamedia.com/#
 address /1500022744.vodplayer.wxamedia.com/#
@@ -57,6 +57,7 @@ address /adm.funshion.com/#
 address /ads-api-o.api.leiniao.com/#
 address /ads-api.tiktok.com/#
 address /ads-api.twitter.com/#
+address /ads-img-al.xhscdn.com/#
 address /ads-img-qc.xhscdn.com/#
 address /ads-marketing-vivofs.vivo.com.cn/#
 address /ads-sdk-api.ranfenghd.com/#
@@ -64,7 +65,6 @@ address /ads-sg.tiktok.com/#
 address /ads-video-al.xhscdn.com/#
 address /ads-video-qc.xhscdn.com/#
 address /ads.95516.com/#
-address /ads.flurry.com/#
 address /ads.google.cn/#
 address /ads.huan.tv/#
 address /ads.huantest.com/#
@@ -74,6 +74,7 @@ address /ads.linkedin.com/#
 address /ads.music.126.net/#
 address /ads.pinterest.com/#
 address /ads.pubmatic.com/#
+address /ads.raidrive.com/#
 address /ads.servebom.com/#
 address /ads.service.kugou.com/#
 address /ads.tiktok.com/#
@@ -539,6 +540,7 @@ address /p3-tt.byteimg.com/#
 address /p6-be-pack-sign.pglstatp-toutiao.com/#
 address /pagead2.googleadservices.com/#
 address /pagead2.googlesyndication.com/#
+address /pay.sboot.cn/#
 address /pcdn.xmcdn.com/#
 address /pcm-img.zhls.qq.com/#
 address /pgdt.gtimg.cn/#
@@ -750,6 +752,7 @@ address /widgets.outbrain.com/#
 address /widgets.pinterest.com/#
 address /wildcard.moatads.com.edgekey.net/#
 address /win.gdt.qq.com/#
+address /wn.x.jd.com/#
 address /ws-keyboard.shouji.sogou.com/#
 address /ws.sj.qq.com/#
 address /wv.inner-active.mobi/#
