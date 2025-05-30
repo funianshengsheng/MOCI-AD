@@ -1,10 +1,11 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2025-05-30 16:24:37
+# Last Modified: 2025-05-31 00:23:33
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1500020991.vodplayer.wxamedia.com/
 address=/1500022744.vodplayer.wxamedia.com/
 address=/1500026601.vodplayer.wxamedia.com/
 address=/8le8le.com/
+address=/8rn1y79f02-1.algolianet.com/
 address=/a0.app.xiaomi.com/
 address=/aaid.umeng.com/
 address=/abtest-ch.snssdk.com/
@@ -13,6 +14,8 @@ address=/ad-scope.com/
 address=/ad-scope.com.cn/
 address=/ad-sdk-config.youdao.com/
 address=/ad-sdk.huxiu.com/
+address=/ad-splash-tracking.hktvmall.com/
+address=/ad-splash.hktvmall.com/
 address=/ad.12306.cn/
 address=/ad.51wnl.com/
 address=/ad.api.3g.youku.com/
@@ -435,6 +438,7 @@ address=/lf3-ad-union-sdk.pglstatp-toutiao.com/
 address=/lf6-ad-union-sdk.pglstatp-toutiao.com/
 address=/lh3.googleadsserving.cn/
 address=/litchiads.com/
+address=/live-api.hktvmall.com/
 address=/liveats-vod.video.ptqy.gitv.tv/
 address=/livemonitor.huan.tv/
 address=/livep.l.aiseet.atianqi.com/
