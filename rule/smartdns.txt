@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-06-18 09:37:05
+# Last Modified: 2025-06-18 16:26:03
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1500020991.vodplayer.wxamedia.com/#
 address /1500022744.vodplayer.wxamedia.com/#
@@ -289,6 +289,7 @@ address /csjplatform.com/#
 address /cws-cctv.conviva.com/#
 address /d.applovin.com/#
 address /d.applvn.com/#
+address /data-sdk-uuid-log.d.meituan.net/#
 address /data.ads.oppomobile.com/#
 address /data.chsmarttv.com/#
 address /data.mistat.india.xiaomi.com/#
@@ -362,6 +363,7 @@ address /gslb.hpplay.cn/#
 address /gvideo.qpic.cn/#
 address /h-adashx.ut.taobao.com/#
 address /h.trace.qq.com/#
+address /h5.analytics.126.net/#
 address /h5.hpplay.com.cn/#
 address /hanlanad.com/#
 address /hc-ssp.sm.cn/#
@@ -464,6 +466,7 @@ address /log.avlyun.com/#
 address /log.avlyun.sec.intl.miui.com/#
 address /log.byteoversea.com/#
 address /log.fc.yahoo.com/#
+address /log.iflytek.com/#
 address /log.kuwo.cn/#
 address /log.pinterest.com/#
 address /log.popin.cc/#
@@ -648,6 +651,7 @@ address /search5-search.ixigua.com/#
 address /securemetrics.apple.com/#
 address /securepubads.g.doubleclick.net/#
 address /sensors-log.dongqiudi.com/#
+address /sentry.music.163.com/#
 address /service.changhong.upgrade2.huan.tv/#
 address /service.vmos.cn/#
 address /sf16-static.i18n-pglstatp.com/#
