@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2025-06-29 09:47:08
+#Last Modified: 2025-06-29 16:22:48
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1500020991.vodplayer.wxamedia.com"
