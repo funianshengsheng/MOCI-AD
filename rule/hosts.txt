@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-07-09 16:26:40
+# Last Modified: 2025-07-10 00:23:00
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -701,7 +701,6 @@
 0.0.0.0	tdsdk.xdrig.com
 0.0.0.0	telemetry.sdk.inmobi.com
 0.0.0.0	tencent-dtv.m.cn.miaozhen.com
-0.0.0.0	terms-drcn.platform.dbankcloud.cn
 0.0.0.0	test.ad.xiaomi.com
 0.0.0.0	test.e.ad.xiaomi.com
 0.0.0.0	tj.b.qq.com

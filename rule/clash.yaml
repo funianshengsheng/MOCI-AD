@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2025-07-09 16:26:40
+#Last Modified: 2025-07-10 00:23:00
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1500020991.vodplayer.wxamedia.com"
@@ -702,7 +702,6 @@ payload:
   - "+.tdsdk.xdrig.com"
   - "+.telemetry.sdk.inmobi.com"
   - "+.tencent-dtv.m.cn.miaozhen.com"
-  - "+.terms-drcn.platform.dbankcloud.cn"
   - "+.test.ad.xiaomi.com"
   - "+.test.e.ad.xiaomi.com"
   - "+.tj.b.qq.com"
