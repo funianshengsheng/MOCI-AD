@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-07-14 00:22:14
+# Last Modified: 2025-07-14 09:46:10
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -117,6 +117,7 @@
 0.0.0.0	adsmind.gdtimg.com
 0.0.0.0	adsmind.ugdtimg.com
 0.0.0.0	adsp.xunlei.com
+0.0.0.0	adstat.izuiyou.com
 0.0.0.0	adstats.tencentmusic.com
 0.0.0.0	adstore-1252524079.file.myqcloud.com
 0.0.0.0	adstore-index-1252524079.file.myqcloud.com
@@ -190,6 +191,7 @@
 0.0.0.0	api-gd.hiaiabc.com
 0.0.0.0	api-htp.beizi.biz
 0.0.0.0	api.ad.xiaomi.com
+0.0.0.0	api.anythinktech.com
 0.0.0.0	api.e.kuaishou.com
 0.0.0.0	api.fu.xcultur.com
 0.0.0.0	api.htp.hubcloud.com.cn
@@ -284,11 +286,13 @@
 0.0.0.0	config.unityads.unity3d.com
 0.0.0.0	cpc-service-square.aiclk.com
 0.0.0.0	cpro.baidustatic.com
+0.0.0.0	crash2.zhihu.com
 0.0.0.0	crashlyticsreports-pa.googleapis.com
 0.0.0.0	csjplatform.com
 0.0.0.0	cws-cctv.conviva.com
 0.0.0.0	d.applovin.com
 0.0.0.0	d.applvn.com
+0.0.0.0	da.anythinktech.com
 0.0.0.0	data-sdk-uuid-log.d.meituan.net
 0.0.0.0	data.ads.oppomobile.com
 0.0.0.0	data.chsmarttv.com
@@ -296,7 +300,6 @@
 0.0.0.0	data.mistat.rus.xiaomi.com
 0.0.0.0	data.mistat.xiaomi.com
 0.0.0.0	datacollection.uve.weibo.com
-0.0.0.0	datk.anythinktech.com
 0.0.0.0	dc.sigmob.cn
 0.0.0.0	de.tynt.com
 0.0.0.0	diagnosis.ad.xiaomi.com
@@ -379,6 +382,7 @@
 0.0.0.0	httpdns.bcelive.com
 0.0.0.0	httpdns.ocloud.oppomobile.com
 0.0.0.0	hugelog.fcbox.com
+0.0.0.0	huichuan-mc.sm.cn
 0.0.0.0	huichuan.sm.cn
 0.0.0.0	hw-ot-ad.a.yximgs.com
 0.0.0.0	hw-p2p-pull.video-voip.com
@@ -390,6 +394,7 @@
 0.0.0.0	i.l-new.inmobicdn.net
 0.0.0.0	i.l.inmobicdn.net
 0.0.0.0	iad.apple.com
+0.0.0.0	iad.g.163.com
 0.0.0.0	iadctest.qwapi.com
 0.0.0.0	iadsdk.apple.com
 0.0.0.0	iadworkbench.apple.com
@@ -412,6 +417,7 @@
 0.0.0.0	impression-asia.liftoff.io
 0.0.0.0	impression.appsflyer.com
 0.0.0.0	in.treasuredata.com
+0.0.0.0	ios.bugly.qq.com
 0.0.0.0	iot-eu-logser.realme.com
 0.0.0.0	iot-logser.realme.com
 0.0.0.0	ipv4.kkmh.com
@@ -534,6 +540,7 @@
 0.0.0.0	mtj.baidu.com
 0.0.0.0	nadvideo2.baidu.com
 0.0.0.0	newvoice.chiq5.smart-tv.cn
+0.0.0.0	nex.163.com
 0.0.0.0	nmetrics.samsung.com
 0.0.0.0	notes-analytics-events.apple.com
 0.0.0.0	notify.sec.miui.com
@@ -706,6 +713,7 @@
 0.0.0.0	test.e.ad.xiaomi.com
 0.0.0.0	tj.b.qq.com
 0.0.0.0	tj.video.qq.com
+0.0.0.0	tk.anythinktech.com
 0.0.0.0	tmead.y.qq.com
 0.0.0.0	tmeadcomm.y.qq.com
 0.0.0.0	tmfmazu-wangka.m.qq.com
@@ -830,3 +838,4 @@
 0.0.0.0	ytx-file.110route.cn
 0.0.0.0	zeus.ad.xiaomi.com
 0.0.0.0	zhihu-web-analytics.zhihu.com
+0.0.0.0	zxid-m.mobileservice.cn
