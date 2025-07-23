@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-07-23 16:28:24
+# Last Modified: 2025-07-24 00:26:22
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -146,11 +146,14 @@
 0.0.0.0	adxlog-adnet.vivo.com.cn
 0.0.0.0	adxserver.ad.cmvideo.cn
 0.0.0.0	aegis.qq.com
+0.0.0.0	aem.dentsuchina.cn
 0.0.0.0	afs.googlesyndication.com
 0.0.0.0	agn.aty.sohu.com
 0.0.0.0	aiseet.aa.atianqi.com
 0.0.0.0	ali-ad.a.yximgs.com
 0.0.0.0	ali-p2p-v2.pull.yximgs.com
+0.0.0.0	alicoccdncnc-xn.inter.71edge.com
+0.0.0.0	alicoccdnct-xn.inter.71edge.com
 0.0.0.0	alog.umeng.com
 0.0.0.0	alogus.umeng.com
 0.0.0.0	als.baidu.com
@@ -219,6 +222,7 @@
 0.0.0.0	bdapi-ads.realmemobile.com
 0.0.0.0	bdapi-in-ads.realmemobile.com
 0.0.0.0	bdapi.ads.oppomobile.com
+0.0.0.0	bdcdncnc.inter.71edge.com
 0.0.0.0	beacon-api.aliyuncs.com
 0.0.0.0	beacon.qq.com
 0.0.0.0	beaconcdn.qq.com
@@ -402,6 +406,7 @@
 0.0.0.0	img-c.heytapimage.com
 0.0.0.0	img-x.jd.com
 0.0.0.0	img.adnyg.com.w.kunlungr.com
+0.0.0.0	img2.360buyimg.com
 0.0.0.0	impression-asia.chinaliftoff.io
 0.0.0.0	impression-asia.liftoff.io
 0.0.0.0	impression.appsflyer.com
@@ -483,6 +488,7 @@
 0.0.0.0	m-adnet.hiaiabc.com
 0.0.0.0	m.ad.zhangyue.com
 0.0.0.0	m.atm.youku.com
+0.0.0.0	m.iqiyipic.com
 0.0.0.0	m1.ad.10010.com
 0.0.0.0	mapi.m.jd.com
 0.0.0.0	masdkv6.3g.qq.com
@@ -666,6 +672,7 @@
 0.0.0.0	staging-notify.sec.miui.com
 0.0.0.0	stat.dongqiudi.com
 0.0.0.0	stat.y.qq.com
+0.0.0.0	static-s.iqiyi.com
 0.0.0.0	static.ads-twitter.com
 0.0.0.0	statics.woozooo.com
 0.0.0.0	stats.wp.com
@@ -824,7 +831,9 @@
 0.0.0.0	xlviiirdr.com
 0.0.0.0	xlviirdr.com
 0.0.0.0	xycdn.com
+0.0.0.0	yk-ssp-ad.cp31.ott.cibntv.net
 0.0.0.0	yk-ssp.ad.youku.com
+0.0.0.0	ykad-data.cp31.ott.cibntv.net
 0.0.0.0	ykad-data.youku.com
 0.0.0.0	ykad-gateway.youku.com
 0.0.0.0	youku-acs.m.taobao.com
