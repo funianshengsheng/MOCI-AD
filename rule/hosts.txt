@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-07-26 16:24:27
+# Last Modified: 2025-07-27 00:23:07
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -515,7 +515,6 @@
 0.0.0.0	mobaliyun.res.mgtv.com
 0.0.0.0	mobile.da.mgtv.com
 0.0.0.0	mobilelog.upqzfile.com
-0.0.0.0	mon.zijieapi.com
 0.0.0.0	monitor-ads-test.huan.tv
 0.0.0.0	monitor-uu.play.aiseet.atianqi.com
 0.0.0.0	monitor.music.qq.com
@@ -721,7 +720,6 @@
 0.0.0.0	tnc3-aliec2.bytedance.com
 0.0.0.0	tnc3-aliec2.snssdk.com
 0.0.0.0	tnc3-aliec2.toutiaoapi.com
-0.0.0.0	tnc3-aliec2.zijieapi.com
 0.0.0.0	tnc3-alisc1.bytedance.com
 0.0.0.0	tnc3-alisc1.snssdk.com
 0.0.0.0	tnc3-alisc1.toutiaoapi.com

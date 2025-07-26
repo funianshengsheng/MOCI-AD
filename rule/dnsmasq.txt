@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2025-07-26 16:24:27
+# Last Modified: 2025-07-27 00:23:07
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1500020991.vodplayer.wxamedia.com/
 address=/1500022744.vodplayer.wxamedia.com/
@@ -515,7 +515,6 @@ address=/mobads.baidu.com/
 address=/mobaliyun.res.mgtv.com/
 address=/mobile.da.mgtv.com/
 address=/mobilelog.upqzfile.com/
-address=/mon.zijieapi.com/
 address=/monitor-ads-test.huan.tv/
 address=/monitor-uu.play.aiseet.atianqi.com/
 address=/monitor.music.qq.com/
@@ -721,7 +720,6 @@ address=/tnc3-aliec1.toutiaoapi.com/
 address=/tnc3-aliec2.bytedance.com/
 address=/tnc3-aliec2.snssdk.com/
 address=/tnc3-aliec2.toutiaoapi.com/
-address=/tnc3-aliec2.zijieapi.com/
 address=/tnc3-alisc1.bytedance.com/
 address=/tnc3-alisc1.snssdk.com/
 address=/tnc3-alisc1.toutiaoapi.com/
