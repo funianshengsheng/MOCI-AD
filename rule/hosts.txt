@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-08-02 16:24:52
+# Last Modified: 2025-08-03 00:23:11
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -838,3 +838,13 @@
 0.0.0.0	zeus.ad.xiaomi.com
 0.0.0.0	zhihu-web-analytics.zhihu.com
 0.0.0.0	zxid-m.mobileservice.cn
+0.0.0.0	1rtb.com
+0.0.0.0	a.market.xiaomi.com
+0.0.0.0	adintl.cn
+0.0.0.0	adx.adwangmai.com
+0.0.0.0	data.hicloud.com
+0.0.0.0	log.aliyuncs.com
+0.0.0.0	ubixioe.com
+0.0.0.0	vlion.cn
+0.0.0.0	yfanads.com
+0.0.0.0	zhangyuyidong.cn

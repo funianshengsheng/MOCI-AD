@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-08-02 16:24:52
+# Last Modified: 2025-08-03 00:23:11
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1500020991.vodplayer.wxamedia.com/#
 address /1500022744.vodplayer.wxamedia.com/#
@@ -838,3 +838,13 @@ address /ytx-file.110route.cn/#
 address /zeus.ad.xiaomi.com/#
 address /zhihu-web-analytics.zhihu.com/#
 address /zxid-m.mobileservice.cn/#
+address /1rtb.com/#
+address /a.market.xiaomi.com/#
+address /adintl.cn/#
+address /adx.adwangmai.com/#
+address /data.hicloud.com/#
+address /log.aliyuncs.com/#
+address /ubixioe.com/#
+address /vlion.cn/#
+address /yfanads.com/#
+address /zhangyuyidong.cn/#
