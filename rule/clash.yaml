@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2025-08-18 16:28:22
+#Last Modified: 2025-08-19 00:25:38
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1500020991.vodplayer.wxamedia.com"
@@ -233,8 +233,10 @@ payload:
   - "+.bgg.baidu.com"
   - "+.bianxian.com"
   - "+.bingads.microsoft.com"
+  - "+.biz.weibo.com"
   - "+.bj.ad.track.66mobi.com"
   - "+.books-analytics-events.apple.com"
+  - "+.bootpreload.uve.weibo.com"
   - "+.browsercfg-drcn.cloud.dbankcloud.cn"
   - "+.bsrv.qq.com"
   - "+.bugly.qq.com"
