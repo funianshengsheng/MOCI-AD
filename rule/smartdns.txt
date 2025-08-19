@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-08-19 09:26:31
+# Last Modified: 2025-08-19 16:25:27
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1500020991.vodplayer.wxamedia.com/#
 address /1500022744.vodplayer.wxamedia.com/#
@@ -373,6 +373,7 @@ address /hc-ssp.sm.cn/#
 address /heads-ak.spotify.com.edgesuite.net/#
 address /heads-fa.spotify.com/#
 address /hexagon-analytics.com/#
+address /hlog.bigda.com/#
 address /hm.baidu.com/#
 address /hmma.baidu.com/#
 address /hotupgrade.hpplay.cn/#
@@ -508,6 +509,7 @@ address /micro-xdb.com/#
 address /mini-prog-drm.vodplayvideo.net/#
 address /mission-pub.smart-tv.cn/#
 address /miui-fxcse.avlyun.com/#
+address /mlog.bigda.com/#
 address /mmgame.qpic.cn/#
 address /mnqlog.ldmnq.com/#
 address /moatads.com/#
@@ -766,6 +768,7 @@ address /ulogs.umengcloud.com/#
 address /umengacs.m.taobao.com/#
 address /umengjmacs.m.taobao.com/#
 address /umini.shujupie.com/#
+address /union-mlog.bigda.com/#
 address /union.baidu.cn/#
 address /union.baidu.com/#
 address /update.avlyun.sec.miui.com/#

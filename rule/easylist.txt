@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-08-19 09:26:31
+! Last Modified: 2025-08-19 16:25:27
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -373,6 +373,7 @@
 ||heads-ak.spotify.com.edgesuite.net^
 ||heads-fa.spotify.com^
 ||hexagon-analytics.com^
+||hlog.bigda.com^
 ||hm.baidu.com^
 ||hmma.baidu.com^
 ||hotupgrade.hpplay.cn^
@@ -508,6 +509,7 @@
 ||mini-prog-drm.vodplayvideo.net^
 ||mission-pub.smart-tv.cn^
 ||miui-fxcse.avlyun.com^
+||mlog.bigda.com^
 ||mmgame.qpic.cn^
 ||mnqlog.ldmnq.com^
 ||moatads.com^
@@ -766,6 +768,7 @@
 ||umengacs.m.taobao.com^
 ||umengjmacs.m.taobao.com^
 ||umini.shujupie.com^
+||union-mlog.bigda.com^
 ||union.baidu.cn^
 ||union.baidu.com^
 ||update.avlyun.sec.miui.com^

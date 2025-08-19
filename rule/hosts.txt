@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-08-19 09:26:31
+# Last Modified: 2025-08-19 16:25:27
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -373,6 +373,7 @@
 0.0.0.0	heads-ak.spotify.com.edgesuite.net
 0.0.0.0	heads-fa.spotify.com
 0.0.0.0	hexagon-analytics.com
+0.0.0.0	hlog.bigda.com
 0.0.0.0	hm.baidu.com
 0.0.0.0	hmma.baidu.com
 0.0.0.0	hotupgrade.hpplay.cn
@@ -508,6 +509,7 @@
 0.0.0.0	mini-prog-drm.vodplayvideo.net
 0.0.0.0	mission-pub.smart-tv.cn
 0.0.0.0	miui-fxcse.avlyun.com
+0.0.0.0	mlog.bigda.com
 0.0.0.0	mmgame.qpic.cn
 0.0.0.0	mnqlog.ldmnq.com
 0.0.0.0	moatads.com
@@ -766,6 +768,7 @@
 0.0.0.0	umengacs.m.taobao.com
 0.0.0.0	umengjmacs.m.taobao.com
 0.0.0.0	umini.shujupie.com
+0.0.0.0	union-mlog.bigda.com
 0.0.0.0	union.baidu.cn
 0.0.0.0	union.baidu.com
 0.0.0.0	update.avlyun.sec.miui.com
