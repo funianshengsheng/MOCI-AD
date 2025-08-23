@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2025-08-23 09:21:59
+#Last Modified: 2025-08-23 16:21:27
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1500020991.vodplayer.wxamedia.com"
@@ -175,6 +175,7 @@ payload:
   - "+.analyze.lemurbrowser.com"
   - "+.android.bugly.qq.com"
   - "+.andrqd.play.aiseet.atianqi.com"
+  - "+.ap.dongdianqiu.com"
   - "+.ap.dongqiudi.com"
   - "+.apd-pcdnwxlogin.teg.tencent-cloud.net"
   - "+.apd-pcdnwxnat.teg.tencent-cloud.net"
