@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-08-31 00:19:40
+# Last Modified: 2025-08-31 09:27:18
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
