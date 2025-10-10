@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2025-10-10 09:20:56
+# Last Modified: 2025-10-10 16:24:02
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1500020991.vodplayer.wxamedia.com/
 address=/1500022744.vodplayer.wxamedia.com/
@@ -512,7 +512,6 @@ address=/mini-prog-drm.vodplayvideo.net/
 address=/mission-pub.smart-tv.cn/
 address=/miui-fxcse.avlyun.com/
 address=/mlog.bigda.com/
-address=/mmgame.qpic.cn/
 address=/mnqlog.ldmnq.com/
 address=/moatads.com/
 address=/mobads-logs.baidu.com/
