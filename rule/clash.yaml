@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2025-10-27 09:39:37
+#Last Modified: 2025-10-27 16:26:16
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1500020991.vodplayer.wxamedia.com"
@@ -494,7 +494,6 @@ payload:
   - "+.m-adnet.hiaiabc.com"
   - "+.m.ad.zhangyue.com"
   - "+.m.atm.youku.com"
-  - "+.m.iqiyipic.com"
   - "+.m1.ad.10010.com"
   - "+.mapi.m.jd.com"
   - "+.masdkv6.3g.qq.com"
