@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-11-13 09:27:23
+# Last Modified: 2025-11-13 16:25:51
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -28,6 +28,7 @@
 0.0.0.0	ad.qingting.fm
 0.0.0.0	ad.qq.com
 0.0.0.0	ad.richmob.cn
+0.0.0.0	ad.shunchangzhixing.com
 0.0.0.0	ad.tencentmusic.com
 0.0.0.0	ad.toutiao.com
 0.0.0.0	ad.v3mh.com
@@ -98,7 +99,6 @@
 0.0.0.0	adsebs.ximalaya.com
 0.0.0.0	adsense.google.cn
 0.0.0.0	adserver.unityads.unity3d.com
-0.0.0.0	adservice.google.cn
 0.0.0.0	adservice.google.com
 0.0.0.0	adservice.sigmob.cn
 0.0.0.0	adserviceretry.kugou.com
@@ -191,6 +191,7 @@
 0.0.0.0	api-htp.beizi.biz
 0.0.0.0	api.ad.xiaomi.com
 0.0.0.0	api.anythinktech.com
+0.0.0.0	api.aqyad.com
 0.0.0.0	api.e.kuaishou.com
 0.0.0.0	api.fu.xcultur.com
 0.0.0.0	api.htp.hubcloud.com.cn
@@ -198,6 +199,7 @@
 0.0.0.0	api.installer.xiaomi.com
 0.0.0.0	api.jietuhb.com
 0.0.0.0	api.kingdata.ksyun.com
+0.0.0.0	api.shanghailingye.cn
 0.0.0.0	api.ssp.xcultur.com
 0.0.0.0	api.statsig.com
 0.0.0.0	api.touch-moblie.com
@@ -211,6 +213,7 @@
 0.0.0.0	applog.zijieapi.com
 0.0.0.0	applovin.com
 0.0.0.0	appversion.115.com
+0.0.0.0	aqyad.com
 0.0.0.0	aspect-upush.umeng.com
 0.0.0.0	auction.unityads.unity3d.com
 0.0.0.0	audid-api.taobao.com
@@ -254,7 +257,6 @@
 0.0.0.0	cbjs.baidu.com
 0.0.0.0	ccc-x.jd.com
 0.0.0.0	ccs.umeng.com
-0.0.0.0	cctv.adsunion.com
 0.0.0.0	cdn-ad.wtzw.com
 0.0.0.0	cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	cdn-f.adsmoloco.com
@@ -268,7 +270,6 @@
 0.0.0.0	cfg.imtt.qq.com
 0.0.0.0	chat1.jd.com
 0.0.0.0	chiq-cloud.com
-0.0.0.0	cj.qidian.com
 0.0.0.0	ck.ads.oppomobile.com
 0.0.0.0	click.chinaliftoff.io
 0.0.0.0	click.googleanalytics.com
@@ -276,6 +277,7 @@
 0.0.0.0	click.oneplus.cn
 0.0.0.0	click4.chinaliftoff.io
 0.0.0.0	clog.miguvideo.com
+0.0.0.0	cloooud.com
 0.0.0.0	cn-api.anythinktech.com
 0.0.0.0	cnlogs.umeng.com
 0.0.0.0	cnlogs.umengcloud.com
@@ -291,7 +293,6 @@
 0.0.0.0	crash2.zhihu.com
 0.0.0.0	crashlyticsreports-pa.googleapis.com
 0.0.0.0	csjplatform.com
-0.0.0.0	cws-cctv.conviva.com
 0.0.0.0	d.applovin.com
 0.0.0.0	d.applvn.com
 0.0.0.0	da.anythinktech.com
@@ -332,6 +333,7 @@
 0.0.0.0	events-drcn.op.dbankcloud.cn
 0.0.0.0	events.reddit.com
 0.0.0.0	events.redditmedia.com
+0.0.0.0	fancyapi.com
 0.0.0.0	fclog.baidu.com
 0.0.0.0	feed-image.baidu.com
 0.0.0.0	file.daihuo.qq.com
@@ -343,6 +345,7 @@
 0.0.0.0	g-adnet.hiaiabc.com
 0.0.0.0	g-staic.ganjingworld.com
 0.0.0.0	g.dtv.cn.miaozhen.com
+0.0.0.0	g.fancyapi.com
 0.0.0.0	g2.ganjing.world
 0.0.0.0	game.loveota.com
 0.0.0.0	gdfp.gifshow.com
@@ -356,7 +359,6 @@
 0.0.0.0	globalapi.ad.xiaomi.com
 0.0.0.0	google-analytics.com
 0.0.0.0	googleads.g.doubleclick-cn.net
-0.0.0.0	googleads.g.doubleclick.com
 0.0.0.0	googleads.g.doubleclick.net
 0.0.0.0	googleadservices-cn.com
 0.0.0.0	googleadservices.com
@@ -422,7 +424,6 @@
 0.0.0.0	iot-logser.realme.com
 0.0.0.0	ipv4.kkmh.com
 0.0.0.0	irc.qubiankeji.com
-0.0.0.0	itv2-up.openspeech.cn
 0.0.0.0	ixav-cse.avlyun.com
 0.0.0.0	iyfbodn.com
 0.0.0.0	janapi.jd.com
@@ -440,10 +441,12 @@
 0.0.0.0	ks-p2p.pull.yximgs.com
 0.0.0.0	ks.ferlytc.com
 0.0.0.0	ks.pull.yximgs.com
+0.0.0.0	l6.fancyapi.com
 0.0.0.0	launcher.smart-tv.cn
 0.0.0.0	launcherimg.smart-tv.cn
 0.0.0.0	lf3-ad-union-sdk.pglstatp-toutiao.com
 0.0.0.0	lf6-ad-union-sdk.pglstatp-toutiao.com
+0.0.0.0	lftxali.fancyapi.com
 0.0.0.0	lh3.googleadsserving.cn
 0.0.0.0	litchiads.com
 0.0.0.0	live-api.hktvmall.com
@@ -551,6 +554,7 @@
 0.0.0.0	open.kuaishouzt.com
 0.0.0.0	open.kwaizt.com
 0.0.0.0	open.snssdk.com
+0.0.0.0	openadapi.fancydsp.com
 0.0.0.0	optimus-ads.amap.com
 0.0.0.0	orbit.jd.com
 0.0.0.0	oss.cdn.aiclk.com
@@ -609,7 +613,6 @@
 0.0.0.0	res2.hubcloud.com.cn
 0.0.0.0	res3.hubcloud.com.cn
 0.0.0.0	resolve.umeng.com
-0.0.0.0	rev.aiclk.com
 0.0.0.0	review.gdtimg.com
 0.0.0.0	rlog.popin.cc
 0.0.0.0	rms-drcn.platform.dbankcloud.cn
@@ -626,7 +629,6 @@
 0.0.0.0	saas.hpplay.cn
 0.0.0.0	samsung-com.112.2o7.net
 0.0.0.0	samsungads.com
-0.0.0.0	sanme2.taisantech.com
 0.0.0.0	saxysec.com
 0.0.0.0	scs.openspeech.cn
 0.0.0.0	sdk-ab-config.qquanquan.com
@@ -634,12 +636,14 @@
 0.0.0.0	sdk.1rtb.net
 0.0.0.0	sdk.ad.smaato.net
 0.0.0.0	sdk.adx.adwangmai.com
+0.0.0.0	sdk.aqyad.com
 0.0.0.0	sdk.beizi.biz
 0.0.0.0	sdk.cferw.com
 0.0.0.0	sdk.e.qq.com
 0.0.0.0	sdk.hzsanjiaomao.com
 0.0.0.0	sdk.markmedia.com.cn
 0.0.0.0	sdk.mobads.adwangmai.com
+0.0.0.0	sdkapi.cloooud.com
 0.0.0.0	sdkauth.hpplay.cn
 0.0.0.0	sdkconf.avlyun.com
 0.0.0.0	sdkconfig.ad.intl.xiaomi.com
@@ -662,23 +666,23 @@
 0.0.0.0	sf16-static.i18n-pglstatp.com
 0.0.0.0	sf3-fe-tos.pglstatp-toutiao.com
 0.0.0.0	shouji.sogou.com
-0.0.0.0	sigmob.cn
 0.0.0.0	sigmob.com
 0.0.0.0	skdisplay.jd.com
 0.0.0.0	sl.hpplay.cn
 0.0.0.0	slb-p2p.vcloud.ks-live.com
 0.0.0.0	smad.ms.zhangyue.net
-0.0.0.0	smart-tv.cn
 0.0.0.0	smartad.10010.com
 0.0.0.0	smetrics.samsung.com
 0.0.0.0	sms.ads.oppomobile.com
 0.0.0.0	sngmta.qq.com
 0.0.0.0	snowflake.qq.com
+0.0.0.0	ssp.cloooud.com
 0.0.0.0	staging-notify.sec.miui.com
 0.0.0.0	stat.dongqiudi.com
 0.0.0.0	stat.y.qq.com
 0.0.0.0	static-s.iqiyi.com
 0.0.0.0	static.ads-twitter.com
+0.0.0.0	statichf.shihuocdn.cn
 0.0.0.0	statics.woozooo.com
 0.0.0.0	stats.wp.com
 0.0.0.0	statsigapi.net
@@ -698,6 +702,7 @@
 0.0.0.0	t1.a.market.xiaomi.com
 0.0.0.0	t1.teads.tv
 0.0.0.0	t2.a.market.xiaomi.com
+0.0.0.0	t2.fancyapi.com
 0.0.0.0	t3.a.market.xiaomi.com
 0.0.0.0	t7z.cupid.iqiyi.com
 0.0.0.0	t7z.cupid.ptqy.gitv.tv
@@ -726,6 +731,7 @@
 0.0.0.0	tnc3-aliec2.bytedance.com
 0.0.0.0	tnc3-aliec2.snssdk.com
 0.0.0.0	tnc3-aliec2.toutiaoapi.com
+0.0.0.0	tnc3-aliec2.zijieapi.com
 0.0.0.0	tnc3-alisc1.bytedance.com
 0.0.0.0	tnc3-alisc1.snssdk.com
 0.0.0.0	tnc3-alisc1.toutiaoapi.com
@@ -740,6 +746,7 @@
 0.0.0.0	tpc.googlesyndication-cn.com
 0.0.0.0	tpc.googlesyndication.com
 0.0.0.0	tr-asia.adsmoloco.com
+0.0.0.0	trace.aqyad.com
 0.0.0.0	trace.qq.com
 0.0.0.0	tracelog-debug.aiclk.com
 0.0.0.0	tracelog-debug.qquanquan.com
@@ -779,6 +786,7 @@
 0.0.0.0	uranus.jd.com
 0.0.0.0	us.l.qq.com
 0.0.0.0	usr-api.aiclk.com
+0.0.0.0	utoken.umeng.com
 0.0.0.0	v.110route.cn
 0.0.0.0	v.adintl.cn
 0.0.0.0	v.adx.hubcloud.com.cn
