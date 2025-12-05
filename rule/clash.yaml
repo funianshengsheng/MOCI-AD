@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2025-12-05 00:28:55
+#Last Modified: 2025-12-05 09:38:30
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1500020991.vodplayer.wxamedia.com"
@@ -358,7 +358,6 @@ payload:
   - "+.firebaselogging-pa.googleapis.com"
   - "+.flurry.com"
   - "+.frontend-perf-service.e.kuaishou.com"
-  - "+.fundingchoicesmessages.google.com"
   - "+.fxgate.baidu.com"
   - "+.g-adnet.hiaiabc.com"
   - "+.g-staic.ganjingworld.com"
