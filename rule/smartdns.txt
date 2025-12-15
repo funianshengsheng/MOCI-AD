@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-12-15 09:43:57
+# Last Modified: 2025-12-15 16:31:25
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1500020991.vodplayer.wxamedia.com/#
 address /1500022744.vodplayer.wxamedia.com/#
@@ -323,7 +323,6 @@ address /dc.sigmob.cn/#
 address /de.tynt.com/#
 address /diagnosis.ad.xiaomi.com/#
 address /dig.bdurl.net/#
-address /dl.zuimeitianqi.com/#
 address /dlogs.bwton.com/#
 address /dm.toutiao.com/#
 address /domain.aishengji.com/#
@@ -343,8 +342,6 @@ address /edge.ads.twitch.tv/#
 address /ef-dongfeng.tanx.com/#
 address /engine.dcad01.com/#
 address /entry.baidu.com/#
-address /errlog.umeng.com/#
-address /errnewlog.umeng.com/#
 address /et-eus.w.inmobi.com/#
 address /event.tradplusad.com/#
 address /events-drcn.op.dbankcloud.cn/#
@@ -654,7 +651,6 @@ address /s1.cdn-sg.advlion.com/#
 address /s8t.teads.tv/#
 address /saad.ms.zhangyue.net/#
 address /saas.hpplay.cn/#
-address /safebrowsing.googleapis.com/#
 address /safebrowsing.urlsec.gg.com/#
 address /samsung-com.112.2o7.net/#
 address /samsungads.com/#
@@ -722,6 +718,7 @@ address /success.ctobsnssdk.com/#
 address /supply.inmobicdn.net/#
 address /sv-video.play.aiseet.atianqi.com/#
 address /syh-imp.cdnjtzy.com/#
+address /syh.zybang.com/#
 address /szbdyd.com/#
 address /t-dsp.pinduoduo.com/#
 address /t.applovin.com/#
