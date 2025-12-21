@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2025-12-21 09:45:54
+#Last Modified: 2025-12-21 16:25:46
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1500020991.vodplayer.wxamedia.com"
@@ -732,7 +732,6 @@ payload:
   - "+.t2.a.market.xiaomi.com"
   - "+.t2.fancyapi.com"
   - "+.t3.a.market.xiaomi.com"
-  - "+.t7z.cupid.iqiyi.com"
   - "+.t7z.cupid.ptqy.gitv.tv"
   - "+.tangram.e.qq.com"
   - "+.target.ads.jihuoniao.com"

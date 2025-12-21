@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2025-12-21 09:45:54
+# Last Modified: 2025-12-21 16:25:46
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1500020991.vodplayer.wxamedia.com/
 address=/1500022744.vodplayer.wxamedia.com/
@@ -731,7 +731,6 @@ address=/t1.teads.tv/
 address=/t2.a.market.xiaomi.com/
 address=/t2.fancyapi.com/
 address=/t3.a.market.xiaomi.com/
-address=/t7z.cupid.iqiyi.com/
 address=/t7z.cupid.ptqy.gitv.tv/
 address=/tangram.e.qq.com/
 address=/target.ads.jihuoniao.com/

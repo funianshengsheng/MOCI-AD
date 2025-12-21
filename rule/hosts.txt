@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-12-21 09:45:54
+# Last Modified: 2025-12-21 16:25:46
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -731,7 +731,6 @@
 0.0.0.0	t2.a.market.xiaomi.com
 0.0.0.0	t2.fancyapi.com
 0.0.0.0	t3.a.market.xiaomi.com
-0.0.0.0	t7z.cupid.iqiyi.com
 0.0.0.0	t7z.cupid.ptqy.gitv.tv
 0.0.0.0	tangram.e.qq.com
 0.0.0.0	target.ads.jihuoniao.com
