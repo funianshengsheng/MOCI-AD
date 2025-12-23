@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2025-12-23 16:29:16
+! Last Modified: 2025-12-24 00:27:08
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -129,6 +129,7 @@
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
 ||adtrack.quark.cn^
+||adtracker.medproad.com^
 ||adv-api.shenshiads.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
@@ -520,6 +521,7 @@
 ||mazu.m.qq.com^
 ||mbdlog.iqiyi.com^
 ||mcs.zijieapi.com^
+||medproad.com^
 ||metrics.data.hicloud.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
@@ -623,6 +625,7 @@
 ||proxy.advp.apple.com^
 ||public.gdtimg.com^
 ||q.i.gdt.qq.com^
+||qcwx.medproad.com^
 ||qmlog.baertt.com^
 ||qn-cdnfile1pcdn.msstatic.com^
 ||qqdata.ab.qq.com^
@@ -720,6 +723,7 @@
 ||syh-imp.cdnjtzy.com^
 ||syh.zybang.com^
 ||szbdyd.com^
+||t-adx.52qumao.com^
 ||t-dsp.pinduoduo.com^
 ||t.applovin.com^
 ||t.l.qq.com^

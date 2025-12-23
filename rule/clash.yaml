@@ -1,5 +1,5 @@
 #ADFS AdBlock clash
-#Last Modified: 2025-12-23 16:29:16
+#Last Modified: 2025-12-24 00:27:08
 #Homepage: https://github.com/fordes123/ad-filters-subscriber/
 payload:
   - "+.1500020991.vodplayer.wxamedia.com"
@@ -130,6 +130,7 @@ payload:
   - "+.adtago.s3.amazonaws.com"
   - "+.adtech.yahooinc.com"
   - "+.adtrack.quark.cn"
+  - "+.adtracker.medproad.com"
   - "+.adv-api.shenshiads.com"
   - "+.adv.sec.intl.miui.com"
   - "+.adv.sec.miui.com"
@@ -521,6 +522,7 @@ payload:
   - "+.mazu.m.qq.com"
   - "+.mbdlog.iqiyi.com"
   - "+.mcs.zijieapi.com"
+  - "+.medproad.com"
   - "+.metrics.data.hicloud.com"
   - "+.metrics.icloud.com"
   - "+.metrics.mzstatic.com"
@@ -624,6 +626,7 @@ payload:
   - "+.proxy.advp.apple.com"
   - "+.public.gdtimg.com"
   - "+.q.i.gdt.qq.com"
+  - "+.qcwx.medproad.com"
   - "+.qmlog.baertt.com"
   - "+.qn-cdnfile1pcdn.msstatic.com"
   - "+.qqdata.ab.qq.com"
@@ -721,6 +724,7 @@ payload:
   - "+.syh-imp.cdnjtzy.com"
   - "+.syh.zybang.com"
   - "+.szbdyd.com"
+  - "+.t-adx.52qumao.com"
   - "+.t-dsp.pinduoduo.com"
   - "+.t.applovin.com"
   - "+.t.l.qq.com"

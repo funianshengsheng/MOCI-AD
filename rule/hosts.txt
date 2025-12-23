@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2025-12-23 16:29:16
+# Last Modified: 2025-12-24 00:27:08
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -129,6 +129,7 @@
 0.0.0.0	adtago.s3.amazonaws.com
 0.0.0.0	adtech.yahooinc.com
 0.0.0.0	adtrack.quark.cn
+0.0.0.0	adtracker.medproad.com
 0.0.0.0	adv-api.shenshiads.com
 0.0.0.0	adv.sec.intl.miui.com
 0.0.0.0	adv.sec.miui.com
@@ -520,6 +521,7 @@
 0.0.0.0	mazu.m.qq.com
 0.0.0.0	mbdlog.iqiyi.com
 0.0.0.0	mcs.zijieapi.com
+0.0.0.0	medproad.com
 0.0.0.0	metrics.data.hicloud.com
 0.0.0.0	metrics.icloud.com
 0.0.0.0	metrics.mzstatic.com
@@ -623,6 +625,7 @@
 0.0.0.0	proxy.advp.apple.com
 0.0.0.0	public.gdtimg.com
 0.0.0.0	q.i.gdt.qq.com
+0.0.0.0	qcwx.medproad.com
 0.0.0.0	qmlog.baertt.com
 0.0.0.0	qn-cdnfile1pcdn.msstatic.com
 0.0.0.0	qqdata.ab.qq.com
@@ -720,6 +723,7 @@
 0.0.0.0	syh-imp.cdnjtzy.com
 0.0.0.0	syh.zybang.com
 0.0.0.0	szbdyd.com
+0.0.0.0	t-adx.52qumao.com
 0.0.0.0	t-dsp.pinduoduo.com
 0.0.0.0	t.applovin.com
 0.0.0.0	t.l.qq.com

@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2025-12-23 16:29:16
+# Last Modified: 2025-12-24 00:27:08
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1500020991.vodplayer.wxamedia.com/#
 address /1500022744.vodplayer.wxamedia.com/#
@@ -129,6 +129,7 @@ address /adstudio.spotify.com/#
 address /adtago.s3.amazonaws.com/#
 address /adtech.yahooinc.com/#
 address /adtrack.quark.cn/#
+address /adtracker.medproad.com/#
 address /adv-api.shenshiads.com/#
 address /adv.sec.intl.miui.com/#
 address /adv.sec.miui.com/#
@@ -520,6 +521,7 @@ address /masdkv6.3g.qq.com/#
 address /mazu.m.qq.com/#
 address /mbdlog.iqiyi.com/#
 address /mcs.zijieapi.com/#
+address /medproad.com/#
 address /metrics.data.hicloud.com/#
 address /metrics.icloud.com/#
 address /metrics.mzstatic.com/#
@@ -623,6 +625,7 @@ address /promotion-partner.kuaishou.com/#
 address /proxy.advp.apple.com/#
 address /public.gdtimg.com/#
 address /q.i.gdt.qq.com/#
+address /qcwx.medproad.com/#
 address /qmlog.baertt.com/#
 address /qn-cdnfile1pcdn.msstatic.com/#
 address /qqdata.ab.qq.com/#
@@ -720,6 +723,7 @@ address /sv-video.play.aiseet.atianqi.com/#
 address /syh-imp.cdnjtzy.com/#
 address /syh.zybang.com/#
 address /szbdyd.com/#
+address /t-adx.52qumao.com/#
 address /t-dsp.pinduoduo.com/#
 address /t.applovin.com/#
 address /t.l.qq.com/#
