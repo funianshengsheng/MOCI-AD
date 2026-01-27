@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2026-01-27 16:32:45
+# Last Modified: 2026-01-28 00:30:21
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1500020991.vodplayer.wxamedia.com/#
 address /1500022744.vodplayer.wxamedia.com/#
@@ -36,6 +36,7 @@ address /ad.shunchangzhixing.com/#
 address /ad.tencentmusic.com/#
 address /ad.toutiao.com/#
 address /ad.v3mh.com/#
+address /ad.weibo.com/#
 address /ad.winrar.com.cn/#
 address /ad.ximalaya.com/#
 address /ad.xunkids.com/#
@@ -58,6 +59,7 @@ address /adexp.liftoff.io/#
 address /adexpo.tencentmusic.com/#
 address /adfilter.imtt.qq.com/#
 address /adguanggao.eee114.com/#
+address /adimg.uve.weibo.com/#
 address /adjust.cn/#
 address /adjust.com/#
 address /adks.hpplay.cn/#
@@ -124,12 +126,14 @@ address /adstat.izuiyou.com/#
 address /adstats.tencentmusic.com/#
 address /adstore-1252524079.file.myqcloud.com/#
 address /adstore-index-1252524079.file.myqcloud.com/#
+address /adstrategy.biz.weibo.com/#
 address /adstudio-assets.scdn.co/#
 address /adstudio.spotify.com/#
 address /adtago.s3.amazonaws.com/#
 address /adtech.yahooinc.com/#
 address /adtrack.quark.cn/#
 address /adtracker.medproad.com/#
+address /adui.tg.meitu.com/#
 address /adv-api.shenshiads.com/#
 address /adv.sec.intl.miui.com/#
 address /adv.sec.miui.com/#
@@ -150,6 +154,7 @@ address /adx-drcn.op.dbankcloud.cn/#
 address /adx-open-service.youku.com/#
 address /adx-os.anythinktech.com/#
 address /adx-saas.advlion.com/#
+address /adx-strategy-api-cn.statisticslinks.com/#
 address /adx.ads.heytapmobi.com/#
 address /adx.ads.oppomobile.com/#
 address /adx.appsdk.com.cn/#
@@ -549,6 +554,7 @@ address /monitor.adxsenmeng.com/#
 address /monitor.music.qq.com/#
 address /monitor.uu.qq.com/#
 address /monsetting.toutiao.com/#
+address /mores.toponad.com/#
 address /ms.applovin.com/#
 address /ms.applvn.com/#
 address /ms4.applovin.com/#
@@ -671,6 +677,7 @@ address /sdk.hzsanjiaomao.com/#
 address /sdk.markmedia.com.cn/#
 address /sdk.mobads.adwangmai.com/#
 address /sdkapi.cloooud.com/#
+address /sdkapp.uve.weibo.com/#
 address /sdkauth.hpplay.cn/#
 address /sdkconf.avlyun.com/#
 address /sdkconfig.ad.intl.xiaomi.com/#
@@ -735,6 +742,7 @@ address /t2.a.market.xiaomi.com/#
 address /t2.fancyapi.com/#
 address /t3.a.market.xiaomi.com/#
 address /t7z.cupid.ptqy.gitv.tv/#
+address /tagtic.cn/#
 address /tangram.e.qq.com/#
 address /target.ads.jihuoniao.com/#
 address /tdc.qq.com/#
@@ -787,6 +795,7 @@ address /tracker.ai.xiaomi.com/#
 address /tracker.gitee.com/#
 address /tracking.miui.com/#
 address /tracking.rus.miui.com/#
+address /tuiguang.meitu.com/#
 address /tvapp.hpplay.cn/#
 address /tvuser-ch.cedock.com/#
 address /tx-ad.a.yximgs.com/#
