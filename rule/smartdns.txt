@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2026-01-28 00:30:21
+# Last Modified: 2026-01-28 09:46:56
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1500020991.vodplayer.wxamedia.com/#
 address /1500022744.vodplayer.wxamedia.com/#
@@ -232,7 +232,6 @@ address /applog.lc.quark.cn/#
 address /applog.uc.cn/#
 address /applog.zijieapi.com/#
 address /applovin.com/#
-address /appversion.115.com/#
 address /aqyad.com/#
 address /aspect-upush.umeng.com/#
 address /auction.unityads.unity3d.com/#
