@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2026-03-29 16:39:35
+# Last Modified: 2026-03-30 00:34:58
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1500020991.vodplayer.wxamedia.com/
 address=/1500022744.vodplayer.wxamedia.com/
