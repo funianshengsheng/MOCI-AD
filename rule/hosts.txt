@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2026-04-07 17:01:54
+# Last Modified: 2026-04-08 00:58:30
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -197,6 +197,7 @@
 0.0.0.0	apd-pcdnwxlogin.teg.tencent-cloud.net
 0.0.0.0	apd-pcdnwxnat.teg.tencent-cloud.net
 0.0.0.0	apd-pcdnwxstat.teg.tencent-cloud.net
+0.0.0.0	api-access.pangolin-sdk-toutiao-b.com
 0.0.0.0	api-access.pangolin-sdk-toutiao.com
 0.0.0.0	api-access.pangolin-sdk-toutiao1.com
 0.0.0.0	api-access.pangolin-sdk-toutiao2.com
@@ -544,6 +545,7 @@
 0.0.0.0	mobads.baidu.com
 0.0.0.0	mobaliyun.res.mgtv.com
 0.0.0.0	mobile.da.mgtv.com
+0.0.0.0	mobile.events.data.microsoft.com
 0.0.0.0	mobilead.kuwo.cn
 0.0.0.0	mobilelog.kugou.com
 0.0.0.0	mobilelog.upqzfile.com

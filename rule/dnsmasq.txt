@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2026-04-07 17:01:54
+# Last Modified: 2026-04-08 00:58:30
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1500020991.vodplayer.wxamedia.com/
 address=/1500022744.vodplayer.wxamedia.com/
@@ -197,6 +197,7 @@ address=/ap.dongqiudi.com/
 address=/apd-pcdnwxlogin.teg.tencent-cloud.net/
 address=/apd-pcdnwxnat.teg.tencent-cloud.net/
 address=/apd-pcdnwxstat.teg.tencent-cloud.net/
+address=/api-access.pangolin-sdk-toutiao-b.com/
 address=/api-access.pangolin-sdk-toutiao.com/
 address=/api-access.pangolin-sdk-toutiao1.com/
 address=/api-access.pangolin-sdk-toutiao2.com/
@@ -544,6 +545,7 @@ address=/mobads-pre-config.cdn.bcebos.com/
 address=/mobads.baidu.com/
 address=/mobaliyun.res.mgtv.com/
 address=/mobile.da.mgtv.com/
+address=/mobile.events.data.microsoft.com/
 address=/mobilead.kuwo.cn/
 address=/mobilelog.kugou.com/
 address=/mobilelog.upqzfile.com/
