@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2026-05-24 17:53:01
+# Last Modified: 2026-05-25 00:59:57
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1500020991.vodplayer.wxamedia.com/
 address=/1500022744.vodplayer.wxamedia.com/
@@ -117,6 +117,7 @@ address=/adsfile.qq.com/
 address=/adsfilebssdlbig.ali.kugou.com/
 address=/adsfileretry.service.kugou.com/
 address=/adsfs-sdkconfig.heytapimage.com/
+address=/adsfs.heytapimage.com/
 address=/adsfs.oppomobile.com/
 address=/adslvfile.qq.com/
 address=/adsmart.konka.com/
@@ -335,7 +336,6 @@ address=/domain.aishengji.com/
 address=/doubleclick-cn.net/
 address=/download.changhong.upgrade2.huan.tv/
 address=/downloadxml.changhong.upgrade2.huan.tv/
-address=/drcn-weather.cloud.huawei.com/
 address=/dsp-x.jd.com/
 address=/dsp.fcbox.com/
 address=/dualstack-logs.amap.com/

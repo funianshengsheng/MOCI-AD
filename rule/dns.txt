@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2026-05-24 17:53:01
+! Last Modified: 2026-05-25 00:59:57
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -117,6 +117,7 @@
 ||adsfilebssdlbig.ali.kugou.com^
 ||adsfileretry.service.kugou.com^
 ||adsfs-sdkconfig.heytapimage.com^
+||adsfs.heytapimage.com^
 ||adsfs.oppomobile.com^
 ||adslvfile.qq.com^
 ||adsmart.konka.com^
@@ -335,7 +336,6 @@
 ||doubleclick-cn.net^
 ||download.changhong.upgrade2.huan.tv^
 ||downloadxml.changhong.upgrade2.huan.tv^
-||drcn-weather.cloud.huawei.com^
 ||dsp-x.jd.com^
 ||dsp.fcbox.com^
 ||dualstack-logs.amap.com^
