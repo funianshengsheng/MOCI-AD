@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2026-07-27 00:59:29
+! Last Modified: 2026-07-27 10:50:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -77,6 +77,7 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||ads.95516.com^
+||ads.adfunlink.com^
 ||ads.auctions.yahoo.com^
 ||ads.cup.com.cn^
 ||ads.google.cn^
@@ -134,6 +135,7 @@
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
 ||adtrack.quark.cn^
+||adtracker.adfunlink.com^
 ||adtracker.medproad.com^
 ||adui.tg.meitu.com^
 ||adv-api.shenshiads.com^
@@ -427,7 +429,6 @@
 ||image-ad.sm.cn^
 ||image.hpplay.cn^
 ||images.outbrainimg.com^
-||images.pinduoduo.com^
 ||imdns.hpplay.cn^
 ||img-c.heytapimage.com^
 ||img-x.jd.com^
@@ -882,7 +883,6 @@
 ||ykad-data.cp31.ott.cibntv.net^
 ||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
-||youku-acs.m.taobao.com^
 ||ytx-file.110route.cn^
 ||zeus.ad.xiaomi.com^
 ||zhihu-web-analytics.zhihu.com^

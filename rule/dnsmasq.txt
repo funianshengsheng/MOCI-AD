@@ -1,5 +1,5 @@
 # ADFS AdBlock dnsmasq
-# Last Modified: 2026-07-27 00:59:29
+# Last Modified: 2026-07-27 10:50:51
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address=/1500020991.vodplayer.wxamedia.com/
 address=/1500022744.vodplayer.wxamedia.com/
@@ -77,6 +77,7 @@ address=/ads-sg.tiktok.com/
 address=/ads-video-al.xhscdn.com/
 address=/ads-video-qc.xhscdn.com/
 address=/ads.95516.com/
+address=/ads.adfunlink.com/
 address=/ads.auctions.yahoo.com/
 address=/ads.cup.com.cn/
 address=/ads.google.cn/
@@ -134,6 +135,7 @@ address=/adstudio.spotify.com/
 address=/adtago.s3.amazonaws.com/
 address=/adtech.yahooinc.com/
 address=/adtrack.quark.cn/
+address=/adtracker.adfunlink.com/
 address=/adtracker.medproad.com/
 address=/adui.tg.meitu.com/
 address=/adv-api.shenshiads.com/
@@ -427,7 +429,6 @@ address=/ii.gdt.qq.com/
 address=/image-ad.sm.cn/
 address=/image.hpplay.cn/
 address=/images.outbrainimg.com/
-address=/images.pinduoduo.com/
 address=/imdns.hpplay.cn/
 address=/img-c.heytapimage.com/
 address=/img-x.jd.com/
@@ -882,7 +883,6 @@ address=/yk-ssp.ad.youku.com/
 address=/ykad-data.cp31.ott.cibntv.net/
 address=/ykad-data.youku.com/
 address=/ykad-gateway.youku.com/
-address=/youku-acs.m.taobao.com/
 address=/ytx-file.110route.cn/
 address=/zeus.ad.xiaomi.com/
 address=/zhihu-web-analytics.zhihu.com/
