@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2026-09-09 20:44:45
+# Last Modified: 2026-09-10 03:05:20
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1500020991.vodplayer.wxamedia.com/#
 address /1500022744.vodplayer.wxamedia.com/#
@@ -42,7 +42,6 @@ address /ad.shunchangzhixing.com/#
 address /ad.tencentmusic.com/#
 address /ad.toutiao.com/#
 address /ad.v3mh.com/#
-address /ad.weibo.com/#
 address /ad.winrar.com.cn/#
 address /ad.ximalaya.com/#
 address /ad.xunkids.com/#
@@ -74,9 +73,11 @@ address /adjust.cn/#
 address /adjust.com/#
 address /adks.hpplay.cn/#
 address /adlink-api.huan.tv/#
+address /adlog.vivo.com.cn/#
 address /adm.funshion.com/#
 address /admarketing.yahoo.net/#
 address /admobile.top/#
+address /adreq.vivo.com.cn/#
 address /ads-api-o.api.leiniao.com/#
 address /ads-api.tiktok.com/#
 address /ads-api.twitter.com/#
@@ -185,7 +186,9 @@ address /adx.appsdk.com.cn/#
 address /adx.sogaha.cn/#
 address /adx.tuia.cn/#
 address /adxlog-adnet.vivo.com.cn/#
+address /adxlog.vivo.com.cn/#
 address /adxserver.ad.cmvideo.cn/#
+address /adxstatic.vivo.com.cn/#
 address /aegis.qq.com/#
 address /aem.dentsuchina.cn/#
 address /afs.googlesyndication.com/#
@@ -286,6 +289,7 @@ address /bj-td-menta-01-callback.advlion.com/#
 address /bj.ad.track.66mobi.com/#
 address /books-analytics-events.apple.com/#
 address /bootpreload.uve.weibo.com/#
+address /brandadsstatic.vivo.com.cn/#
 address /browser.events.data.msn.cn/#
 address /browser.events.data.msn.com/#
 address /browsercfg-drcn.cloud.dbankcloud.cn/#
@@ -361,6 +365,7 @@ address /download.changhong.upgrade2.huan.tv/#
 address /downloadxml.changhong.upgrade2.huan.tv/#
 address /dsp-x.jd.com/#
 address /dsp.fcbox.com/#
+address /dsplog-adnet.vivo.com.cn/#
 address /dualstack-logs.amap.com/#
 address /dxp.baidu.com/#
 address /dyp2p-ali.douyucdn.cn/#
@@ -451,7 +456,6 @@ address /iadctest.qwapi.com/#
 address /iadmoo.apple.com/#
 address /iadmusicmat.music.126.net/#
 address /iadsdk.apple.com/#
-address /iadworkbench.apple.com/#
 address /ifacelog.iqiyi.com/#
 address /ifs.tanx.com/#
 address /ii.gdt.qq.com/#
@@ -698,7 +702,7 @@ address /s1.cdn-sg.advlion.com/#
 address /s8t.teads.tv/#
 address /saad.ms.zhangyue.net/#
 address /saas.hpplay.cn/#
-address /safebrowsing.urlsec.gg.com/#
+address /safebrowsing.urlsec.qq.com/#
 address /samsung-com.112.2o7.net/#
 address /samsungads.com/#
 address /saxysec.com/#
@@ -827,6 +831,7 @@ address /track.uc.cn/#
 address /tracker-prd.aldi.com.cn/#
 address /tracker.ai.xiaomi.com/#
 address /tracker.gitee.com/#
+address /tracking-adnet.vivo.com.cn/#
 address /tracking.miui.com/#
 address /tracking.rus.miui.com/#
 address /tuiguang.meitu.com/#

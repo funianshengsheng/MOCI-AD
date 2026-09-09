@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2026-09-09 20:44:45
+# Last Modified: 2026-09-10 03:05:20
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -42,7 +42,6 @@
 0.0.0.0	ad.tencentmusic.com
 0.0.0.0	ad.toutiao.com
 0.0.0.0	ad.v3mh.com
-0.0.0.0	ad.weibo.com
 0.0.0.0	ad.winrar.com.cn
 0.0.0.0	ad.ximalaya.com
 0.0.0.0	ad.xunkids.com
@@ -74,9 +73,11 @@
 0.0.0.0	adjust.com
 0.0.0.0	adks.hpplay.cn
 0.0.0.0	adlink-api.huan.tv
+0.0.0.0	adlog.vivo.com.cn
 0.0.0.0	adm.funshion.com
 0.0.0.0	admarketing.yahoo.net
 0.0.0.0	admobile.top
+0.0.0.0	adreq.vivo.com.cn
 0.0.0.0	ads-api-o.api.leiniao.com
 0.0.0.0	ads-api.tiktok.com
 0.0.0.0	ads-api.twitter.com
@@ -185,7 +186,9 @@
 0.0.0.0	adx.sogaha.cn
 0.0.0.0	adx.tuia.cn
 0.0.0.0	adxlog-adnet.vivo.com.cn
+0.0.0.0	adxlog.vivo.com.cn
 0.0.0.0	adxserver.ad.cmvideo.cn
+0.0.0.0	adxstatic.vivo.com.cn
 0.0.0.0	aegis.qq.com
 0.0.0.0	aem.dentsuchina.cn
 0.0.0.0	afs.googlesyndication.com
@@ -286,6 +289,7 @@
 0.0.0.0	bj.ad.track.66mobi.com
 0.0.0.0	books-analytics-events.apple.com
 0.0.0.0	bootpreload.uve.weibo.com
+0.0.0.0	brandadsstatic.vivo.com.cn
 0.0.0.0	browser.events.data.msn.cn
 0.0.0.0	browser.events.data.msn.com
 0.0.0.0	browsercfg-drcn.cloud.dbankcloud.cn
@@ -361,6 +365,7 @@
 0.0.0.0	downloadxml.changhong.upgrade2.huan.tv
 0.0.0.0	dsp-x.jd.com
 0.0.0.0	dsp.fcbox.com
+0.0.0.0	dsplog-adnet.vivo.com.cn
 0.0.0.0	dualstack-logs.amap.com
 0.0.0.0	dxp.baidu.com
 0.0.0.0	dyp2p-ali.douyucdn.cn
@@ -451,7 +456,6 @@
 0.0.0.0	iadmoo.apple.com
 0.0.0.0	iadmusicmat.music.126.net
 0.0.0.0	iadsdk.apple.com
-0.0.0.0	iadworkbench.apple.com
 0.0.0.0	ifacelog.iqiyi.com
 0.0.0.0	ifs.tanx.com
 0.0.0.0	ii.gdt.qq.com
@@ -698,7 +702,7 @@
 0.0.0.0	s8t.teads.tv
 0.0.0.0	saad.ms.zhangyue.net
 0.0.0.0	saas.hpplay.cn
-0.0.0.0	safebrowsing.urlsec.gg.com
+0.0.0.0	safebrowsing.urlsec.qq.com
 0.0.0.0	samsung-com.112.2o7.net
 0.0.0.0	samsungads.com
 0.0.0.0	saxysec.com
@@ -827,6 +831,7 @@
 0.0.0.0	tracker-prd.aldi.com.cn
 0.0.0.0	tracker.ai.xiaomi.com
 0.0.0.0	tracker.gitee.com
+0.0.0.0	tracking-adnet.vivo.com.cn
 0.0.0.0	tracking.miui.com
 0.0.0.0	tracking.rus.miui.com
 0.0.0.0	tuiguang.meitu.com
