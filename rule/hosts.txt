@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2026-09-21 11:30:26
+# Last Modified: 2026-09-21 22:51:49
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -661,6 +661,8 @@
 0.0.0.0	pgdt.gtimg.cn
 0.0.0.0	pgdt.ugdtimg.com
 0.0.0.0	pglstatp-toutiao.com
+0.0.0.0	pica-a-display.diwodiwo.xyz
+0.0.0.0	pica-ad-api.diwodiwo.xyz
 0.0.0.0	pig.pupuapi.com
 0.0.0.0	pin.hpplay.cn
 0.0.0.0	pixon.ads-pixiv.net
