@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2026-11-14 13:04:49
+# Last Modified: 2026-11-14 22:46:41
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 address /1500020991.vodplayer.wxamedia.com/#
 address /1500022744.vodplayer.wxamedia.com/#
@@ -82,17 +82,16 @@ address /admarketing.yahoo.net/#
 address /admobile.top/#
 address /adreq.vivo.com.cn/#
 address /ads-api-o.api.leiniao.com/#
-address /ads-api.tiktok.com/#
 address /ads-api.twitter.com/#
 address /ads-img-al.xhscdn.com/#
+address /ads-img-bak.xhscdn.com/#
 address /ads-img-qc.xhscdn.com/#
-address /ads-jp.tiktok.com/#
 address /ads-marketing-vivofs.vivo.com.cn/#
 address /ads-sdk-api.ranfenghd.com/#
-address /ads-sg.tiktok.com/#
 address /ads-shopping.shouqianba.com/#
 address /ads-video-al.xhscdn.com/#
 address /ads-video-qc.xhscdn.com/#
+address /ads-vp5.xhscdn.com/#
 address /ads.95516.com/#
 address /ads.adfunlink.com/#
 address /ads.auctions.yahoo.com/#
@@ -110,7 +109,6 @@ address /ads.pubmatic.com/#
 address /ads.raidrive.com/#
 address /ads.servebom.com/#
 address /ads.service.kugou.com/#
-address /ads.tiktok.com/#
 address /ads.v3mh.com/#
 address /ads.youtube.com/#
 address /ads.zhinengxiyifang.cn/#
@@ -147,7 +145,6 @@ address /adsmind.gdtimg.com/#
 address /adsmind.ugdtimg.com/#
 address /adsmoloco.com/#
 address /adsp.xunlei.com/#
-address /adspecs.yahoo.com/#
 address /adstat.izuiyou.com/#
 address /adstats.tencentmusic.com/#
 address /adstextview.qq.com/#
@@ -155,9 +152,7 @@ address /adstore-1252524079.file.myqcloud.com/#
 address /adstore-index-1252524079.file.myqcloud.com/#
 address /adstrategy.biz.weibo.com/#
 address /adstudio-assets.scdn.co/#
-address /adstudio.spotify.com/#
 address /adtago.s3.amazonaws.com/#
-address /adtech.yahooinc.com/#
 address /adtrack.quark.cn/#
 address /adtracker.adfunlink.com/#
 address /adtracker.medproad.com/#
@@ -165,12 +160,6 @@ address /adui.tg.meitu.com/#
 address /adv-api.shenshiads.com/#
 address /adv.sec.intl.miui.com/#
 address /adv.sec.miui.com/#
-address /advertising-api-eu.amazon.com/#
-address /advertising-api-fe.amazon.com/#
-address /advertising-api.amazon.com/#
-address /advertising.apple.com/#
-address /advertising.yahoo.com/#
-address /advertising.yandex.ru/#
 address /advice-ads.s3.amazonaws.com/#
 address /adview.cn/#
 address /adx-ad.smart-tv.cn/#
@@ -287,7 +276,6 @@ address /beizi.biz/#
 address /bes-mtj.baidu.com/#
 address /bgg.baidu.com/#
 address /bianxian.com/#
-address /bingads.microsoft.com/#
 address /biz.weibo.com/#
 address /bj-td-menta-01-callback.advlion.com/#
 address /bj.ad.track.66mobi.com/#
@@ -348,7 +336,6 @@ address /cpc-service-square.aiclk.com/#
 address /cpro.baidustatic.com/#
 address /crash2.zhihu.com/#
 address /crashlyticsreports-pa.googleapis.com/#
-address /csjplatform.com/#
 address /d.applovin.com/#
 address /d.applvn.com/#
 address /da.anythinktech.com/#
@@ -879,8 +866,6 @@ address /umengjmacs.m.taobao.com/#
 address /umini.shujupie.com/#
 address /union-mlog.bigda.com/#
 address /union-record.oss-cn-zhangjiakou.aliyuncs.com/#
-address /union.baidu.cn/#
-address /union.baidu.com/#
 address /unityads.unity3d.com/#
 address /update.avlyun.sec.miui.com/#
 address /update.lejiao.tv/#

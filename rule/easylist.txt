@@ -1,5 +1,5 @@
 ! ADFS AdBlock easylist
-! Last Modified: 2026-11-14 13:04:49
+! Last Modified: 2026-11-14 22:46:41
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -82,17 +82,16 @@
 ||admobile.top^
 ||adreq.vivo.com.cn^
 ||ads-api-o.api.leiniao.com^
-||ads-api.tiktok.com^
 ||ads-api.twitter.com^
 ||ads-img-al.xhscdn.com^
+||ads-img-bak.xhscdn.com^
 ||ads-img-qc.xhscdn.com^
-||ads-jp.tiktok.com^
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-sdk-api.ranfenghd.com^
-||ads-sg.tiktok.com^
 ||ads-shopping.shouqianba.com^
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
+||ads-vp5.xhscdn.com^
 ||ads.95516.com^
 ||ads.adfunlink.com^
 ||ads.auctions.yahoo.com^
@@ -110,7 +109,6 @@
 ||ads.raidrive.com^
 ||ads.servebom.com^
 ||ads.service.kugou.com^
-||ads.tiktok.com^
 ||ads.v3mh.com^
 ||ads.youtube.com^
 ||ads.zhinengxiyifang.cn^
@@ -147,7 +145,6 @@
 ||adsmind.ugdtimg.com^
 ||adsmoloco.com^
 ||adsp.xunlei.com^
-||adspecs.yahoo.com^
 ||adstat.izuiyou.com^
 ||adstats.tencentmusic.com^
 ||adstextview.qq.com^
@@ -155,9 +152,7 @@
 ||adstore-index-1252524079.file.myqcloud.com^
 ||adstrategy.biz.weibo.com^
 ||adstudio-assets.scdn.co^
-||adstudio.spotify.com^
 ||adtago.s3.amazonaws.com^
-||adtech.yahooinc.com^
 ||adtrack.quark.cn^
 ||adtracker.adfunlink.com^
 ||adtracker.medproad.com^
@@ -165,12 +160,6 @@
 ||adv-api.shenshiads.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
-||advertising-api-eu.amazon.com^
-||advertising-api-fe.amazon.com^
-||advertising-api.amazon.com^
-||advertising.apple.com^
-||advertising.yahoo.com^
-||advertising.yandex.ru^
 ||advice-ads.s3.amazonaws.com^
 ||adview.cn^
 ||adx-ad.smart-tv.cn^
@@ -287,7 +276,6 @@
 ||bes-mtj.baidu.com^
 ||bgg.baidu.com^
 ||bianxian.com^
-||bingads.microsoft.com^
 ||biz.weibo.com^
 ||bj-td-menta-01-callback.advlion.com^
 ||bj.ad.track.66mobi.com^
@@ -348,7 +336,6 @@
 ||cpro.baidustatic.com^
 ||crash2.zhihu.com^
 ||crashlyticsreports-pa.googleapis.com^
-||csjplatform.com^
 ||d.applovin.com^
 ||d.applvn.com^
 ||da.anythinktech.com^
@@ -879,8 +866,6 @@
 ||umini.shujupie.com^
 ||union-mlog.bigda.com^
 ||union-record.oss-cn-zhangjiakou.aliyuncs.com^
-||union.baidu.cn^
-||union.baidu.com^
 ||unityads.unity3d.com^
 ||update.avlyun.sec.miui.com^
 ||update.lejiao.tv^
