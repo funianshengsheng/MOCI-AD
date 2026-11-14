@@ -1,5 +1,5 @@
 # ADFS AdBlock hosts
-# Last Modified: 2026-11-14 22:46:41
+# Last Modified: 2026-11-15 04:26:16
 # Homepage: https://github.com/fordes123/ad-filters-subscriber/
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -247,6 +247,7 @@
 0.0.0.0	api.yfanads.com
 0.0.0.0	api5-normal-quic-lf.ixigua.com
 0.0.0.0	apiyd.my91app.com
+0.0.0.0	apmplus.volces.com
 0.0.0.0	app-measurement.com
 0.0.0.0	appcfg.v.qq.com
 0.0.0.0	applog-perf.uc.cn
@@ -319,6 +320,7 @@
 0.0.0.0	click.liftoff.io
 0.0.0.0	click.oneplus.cn
 0.0.0.0	click4.chinaliftoff.io
+0.0.0.0	client-upload.cn-shanghai.log.aliyuncs.com
 0.0.0.0	clog.miguvideo.com
 0.0.0.0	cloooud.com
 0.0.0.0	cn-api.anythinktech.com
@@ -359,6 +361,7 @@
 0.0.0.0	dsp-x.jd.com
 0.0.0.0	dsp.fcbox.com
 0.0.0.0	dsplog-adnet.vivo.com.cn
+0.0.0.0	du-app.cn-hangzhou.log.aliyuncs.com
 0.0.0.0	dualstack-logs.amap.com
 0.0.0.0	dxp.baidu.com
 0.0.0.0	dyp2p-ali.douyucdn.cn
@@ -369,6 +372,7 @@
 0.0.0.0	ef-dongfeng.tanx.com
 0.0.0.0	engine.dcad01.com
 0.0.0.0	entry.baidu.com
+0.0.0.0	errnewlog.umeng.com
 0.0.0.0	et-eus.w.inmobi.com
 0.0.0.0	event.tradplusad.com
 0.0.0.0	events-drcn.op.dbankcloud.cn
@@ -381,6 +385,7 @@
 0.0.0.0	file.daihuo.qq.com
 0.0.0.0	firebaselogging-pa.googleapis.com
 0.0.0.0	flurry.com
+0.0.0.0	fp-it.fengkongcloud.com
 0.0.0.0	frontend-perf-service.e.kuaishou.com
 0.0.0.0	fxgate.baidu.com
 0.0.0.0	g-adnet.hiaiabc.com
@@ -495,6 +500,7 @@
 0.0.0.0	l6.fancyapi.com
 0.0.0.0	launcher.smart-tv.cn
 0.0.0.0	launcherimg.smart-tv.cn
+0.0.0.0	lf-event-manager.oceanengine.com
 0.0.0.0	lf3-ad-union-sdk.pglstatp-toutiao.com
 0.0.0.0	lf6-ad-union-sdk.pglstatp-toutiao.com
 0.0.0.0	lftxali.fancyapi.com
@@ -513,6 +519,7 @@
 0.0.0.0	log-api.huxiu.com
 0.0.0.0	log-api.pangolin-sdk-toutiao-b.com
 0.0.0.0	log-api.pangolin-sdk-toutiao.com
+0.0.0.0	log-auth.zztfly.com
 0.0.0.0	log-report.com
 0.0.0.0	log-sdk.gifshow.com
 0.0.0.0	log-sdk.ksapisrv.com
@@ -752,6 +759,8 @@
 0.0.0.0	service.vmos.cn
 0.0.0.0	sf16-static.i18n-pglstatp.com
 0.0.0.0	sf3-fe-tos.pglstatp-toutiao.com
+0.0.0.0	shihuo-new.log.shihuocdn.cn
+0.0.0.0	shihuo.log.shihuocdn.cn
 0.0.0.0	shouji.sogou.com
 0.0.0.0	sigmob.com
 0.0.0.0	skdisplay.jd.com
@@ -867,6 +876,7 @@
 0.0.0.0	union-mlog.bigda.com
 0.0.0.0	union-record.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0	unityads.unity3d.com
+0.0.0.0	upc.zztfly.com
 0.0.0.0	update.avlyun.sec.miui.com
 0.0.0.0	update.lejiao.tv
 0.0.0.0	update0.aiclk.com
